@@ -1,0 +1,959 @@
+Season,RaceName,DriverNumber,Driver,Team,GridPos,FinishPos,Points,Status,QPos,QTime,QGapToPole
+2022,Round Australian Grand Prix,16,LEC,Ferrari,1.0,1.0,26,Finished,1,77.868,0.0
+2022,Round Bahrain Grand Prix,16,LEC,Ferrari,1.0,1.0,26,Finished,1,90.558,0.0
+2022,Round Austrian Grand Prix,16,LEC,Ferrari,2.0,1.0,25,Finished,2,65.013,0.029
+2022,Round Qatar Grand Prix,16,LEC,Ferrari,2.0,1.0,25,Finished,2,65.013,0.029
+2022,Round Monaco Grand Prix,11,PER,Red Bull Racing,3.0,1.0,25,Finished,3,71.629,0.253
+2022,Round Singapore Grand Prix,11,PER,Red Bull,2.0,1.0,25,Finished,2,109.434,0.022
+2022,Round São Paulo Grand Prix,63,RUS,Mercedes,1.0,1.0,26,Finished,3,72.059,1.109
+2022,Round British Grand Prix,55,SAI,Ferrari,1.0,1.0,25,Finished,1,100.983,0.0
+2022,Round Las Vegas Grand Prix,55,SAI,Ferrari,1.0,1.0,25,Finished,1,100.983,0.0
+2022,Round Chinese Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,89.304,0.0
+2022,Round Japanese Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,89.304,0.0
+2022,Round Saudi Arabian Grand Prix,1,VER,Red Bull Racing,4.0,1.0,25,Finished,4,88.461,0.261
+2022,Round Miami Grand Prix,1,VER,Red Bull Racing,3.0,1.0,26,Finished,3,88.991,0.195
+2022,Round Emilia Romagna Grand Prix,1,VER,Red Bull Racing,1.0,1.0,26,Finished,1,87.999,9.009
+2022,Round Spanish Grand Prix,1,VER,Red Bull Racing,2.0,1.0,25,Finished,2,79.073,0.323
+2022,Round Canadian Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,81.299,0.0
+2022,Round Belgian Grand Prix,1,VER,Red Bull Racing,14.0,1.0,26,Finished,1,103.665,0.0
+2022,Round Hungarian Grand Prix,1,VER,Red Bull,10.0,1.0,25,Finished,10,78.823,1.446
+2022,Round Dutch Grand Prix,1,VER,Red Bull Racing,1.0,1.0,26,Finished,1,70.342,0.0
+2022,Round Italian Grand Prix,1,VER,Red Bull,7.0,1.0,25,Finished,2,80.306,0.145
+2022,Round Azerbaijan Grand Prix,1,VER,Red Bull,3.0,1.0,25,Finished,3,101.706,0.347
+2022,Round United States Grand Prix,1,VER,Red Bull,2.0,1.0,25,Finished,3,94.448,0.092
+2022,Round Mexico City Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,77.775,0.0
+2022,Round Abu Dhabi Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,83.824,0.0
+2022,Round Hungarian Grand Prix,44,HAM,Mercedes,7.0,2.0,19,Finished,7,78.142,0.765
+2022,Round United States Grand Prix,44,HAM,Mercedes,3.0,2.0,18,Finished,5,94.947,0.591
+2022,Round Mexico City Grand Prix,44,HAM,Mercedes,3.0,2.0,18,Finished,3,78.084,0.309
+2022,Round São Paulo Grand Prix,44,HAM,Mercedes,2.0,2.0,18,Finished,8,72.611,1.661
+2022,Round Saudi Arabian Grand Prix,16,LEC,Ferrari,2.0,2.0,19,Finished,2,88.225,0.025
+2022,Round Miami Grand Prix,16,LEC,Ferrari,1.0,2.0,18,Finished,1,88.796,0.0
+2022,Round Italian Grand Prix,16,LEC,Ferrari,1.0,2.0,18,Finished,1,80.161,0.0
+2022,Round Singapore Grand Prix,16,LEC,Ferrari,1.0,2.0,18,Finished,1,109.412,0.0
+2022,Round Abu Dhabi Grand Prix,16,LEC,Ferrari,3.0,2.0,18,Finished,3,84.092,0.268
+2022,Round Australian Grand Prix,11,PER,Red Bull Racing,3.0,2.0,18,Finished,3,78.24,0.372
+2022,Round Chinese Grand Prix,11,PER,Red Bull Racing,4.0,2.0,18,Finished,4,89.709,0.405
+2022,Round Japanese Grand Prix,11,PER,Red Bull Racing,4.0,2.0,18,Finished,4,89.709,0.405
+2022,Round Emilia Romagna Grand Prix,11,PER,Red Bull Racing,3.0,2.0,18,Finished,7,89.808,10.818
+2022,Round Spanish Grand Prix,11,PER,Red Bull Racing,5.0,2.0,19,Finished,5,79.42,0.67
+2022,Round British Grand Prix,11,PER,Red Bull Racing,4.0,2.0,18,Finished,4,101.616,0.633
+2022,Round Belgian Grand Prix,11,PER,Red Bull Racing,2.0,2.0,18,Finished,3,104.462,0.797
+2022,Round Azerbaijan Grand Prix,11,PER,Red Bull,2.0,2.0,19,Finished,2,101.641,0.282
+2022,Round Las Vegas Grand Prix,11,PER,Red Bull Racing,4.0,2.0,18,Finished,4,101.616,0.633
+2022,Round Dutch Grand Prix,63,RUS,Mercedes,6.0,2.0,18,Finished,6,71.147,0.805
+2022,Round Bahrain Grand Prix,55,SAI,Ferrari,3.0,2.0,18,Finished,3,90.687,0.129
+2022,Round Monaco Grand Prix,55,SAI,Ferrari,2.0,2.0,18,Finished,2,71.601,0.225
+2022,Round Canadian Grand Prix,55,SAI,Ferrari,3.0,2.0,19,Finished,3,82.096,0.797
+2022,Round Austrian Grand Prix,1,VER,Red Bull Racing,1.0,2.0,19,Finished,1,64.984,0.0
+2022,Round Qatar Grand Prix,1,VER,Red Bull Racing,1.0,2.0,19,Finished,1,64.984,0.0
+2022,Round Bahrain Grand Prix,44,HAM,Mercedes,5.0,3.0,15,Finished,5,91.238,0.68
+2022,Round Canadian Grand Prix,44,HAM,Mercedes,4.0,3.0,15,Finished,4,82.891,1.592
+2022,Round Austrian Grand Prix,44,HAM,Mercedes,8.0,3.0,15,Finished,9,73.151,8.167
+2022,Round British Grand Prix,44,HAM,Mercedes,5.0,3.0,16,Finished,5,101.995,1.012
+2022,Round Las Vegas Grand Prix,44,HAM,Mercedes,5.0,3.0,16,Finished,5,101.995,1.012
+2022,Round Qatar Grand Prix,44,HAM,Mercedes,8.0,3.0,15,Finished,9,73.151,8.167
+2022,Round Chinese Grand Prix,16,LEC,Ferrari,2.0,3.0,15,Finished,2,89.314,0.01
+2022,Round Japanese Grand Prix,16,LEC,Ferrari,2.0,3.0,15,Finished,2,89.314,0.01
+2022,Round Dutch Grand Prix,16,LEC,Ferrari,2.0,3.0,15,Finished,2,70.363,0.021
+2022,Round United States Grand Prix,16,LEC,Ferrari,12.0,3.0,15,Finished,2,94.421,0.065
+2022,Round Emilia Romagna Grand Prix,4,NOR,McLaren,5.0,3.0,15,Finished,3,89.131,10.141
+2022,Round Mexico City Grand Prix,11,PER,Red Bull Racing,4.0,3.0,15,Finished,4,78.128,0.353
+2022,Round Abu Dhabi Grand Prix,11,PER,Red Bull Racing,2.0,3.0,15,Finished,2,84.052,0.228
+2022,Round Australian Grand Prix,63,RUS,Mercedes,6.0,3.0,15,Finished,6,78.933,1.065
+2022,Round Spanish Grand Prix,63,RUS,Mercedes,4.0,3.0,15,Finished,4,79.393,0.643
+2022,Round Hungarian Grand Prix,63,RUS,Mercedes,1.0,3.0,15,Finished,1,77.377,0.0
+2022,Round Italian Grand Prix,63,RUS,Mercedes,2.0,3.0,15,Finished,6,81.542,1.381
+2022,Round Azerbaijan Grand Prix,63,RUS,Mercedes,5.0,3.0,15,Finished,5,102.712,1.353
+2022,Round Saudi Arabian Grand Prix,55,SAI,Ferrari,3.0,3.0,15,Finished,3,88.402,0.202
+2022,Round Miami Grand Prix,55,SAI,Ferrari,2.0,3.0,15,Finished,2,88.986,0.19
+2022,Round Belgian Grand Prix,55,SAI,Ferrari,1.0,3.0,15,Finished,2,104.297,0.632
+2022,Round Singapore Grand Prix,55,SAI,Ferrari,4.0,3.0,15,Finished,4,109.583,0.171
+2022,Round São Paulo Grand Prix,55,SAI,Ferrari,7.0,3.0,15,Finished,5,72.357,1.407
+2022,Round Monaco Grand Prix,1,VER,Red Bull Racing,4.0,3.0,15,Finished,4,71.666,0.29
+2022,Round Australian Grand Prix,44,HAM,Mercedes,5.0,4.0,12,Finished,5,78.825,0.957
+2022,Round Dutch Grand Prix,44,HAM,Mercedes,4.0,4.0,12,Finished,4,70.648,0.306
+2022,Round Azerbaijan Grand Prix,44,HAM,Mercedes,7.0,4.0,12,Finished,7,102.924,1.565
+2022,Round Monaco Grand Prix,16,LEC,Ferrari,1.0,4.0,12,Finished,1,71.376,0.0
+2022,Round British Grand Prix,16,LEC,Ferrari,3.0,4.0,12,Finished,3,101.298,0.315
+2022,Round São Paulo Grand Prix,16,LEC,Ferrari,5.0,4.0,12,Finished,10,70.95,0.0
+2022,Round Las Vegas Grand Prix,16,LEC,Ferrari,3.0,4.0,12,Finished,3,101.298,0.315
+2022,Round Singapore Grand Prix,4,NOR,McLaren,6.0,4.0,12,Finished,6,110.584,1.172
+2022,Round Chinese Grand Prix,31,OCO,Alpine,5.0,4.0,12,Finished,5,90.165,0.861
+2022,Round Japanese Grand Prix,31,OCO,Alpine,5.0,4.0,12,Finished,5,90.165,0.861
+2022,Round Saudi Arabian Grand Prix,11,PER,Red Bull Racing,1.0,4.0,12,Finished,1,88.2,0.0
+2022,Round Miami Grand Prix,11,PER,Red Bull Racing,4.0,4.0,12,Finished,4,89.036,0.24
+2022,Round United States Grand Prix,11,PER,Red Bull,9.0,4.0,12,Finished,4,94.645,0.289
+2022,Round Bahrain Grand Prix,63,RUS,Mercedes,9.0,4.0,12,Finished,9,92.216,1.658
+2022,Round Emilia Romagna Grand Prix,63,RUS,Mercedes,11.0,4.0,12,Finished,11,80.757,1.767
+2022,Round Canadian Grand Prix,63,RUS,Mercedes,8.0,4.0,12,Finished,8,83.557,2.258
+2022,Round Austrian Grand Prix,63,RUS,Mercedes,4.0,4.0,12,Finished,4,65.431,0.447
+2022,Round Belgian Grand Prix,63,RUS,Mercedes,5.0,4.0,12,Finished,8,105.776,2.111
+2022,Round Mexico City Grand Prix,63,RUS,Mercedes,2.0,4.0,13,Finished,2,78.079,0.304
+2022,Round Qatar Grand Prix,63,RUS,Mercedes,4.0,4.0,12,Finished,4,65.431,0.447
+2022,Round Spanish Grand Prix,55,SAI,Ferrari,3.0,4.0,12,Finished,3,79.166,0.416
+2022,Round Hungarian Grand Prix,55,SAI,Ferrari,2.0,4.0,12,Finished,2,77.421,0.044
+2022,Round Italian Grand Prix,55,SAI,Ferrari,18.0,4.0,12,Finished,3,80.429,0.268
+2022,Round Abu Dhabi Grand Prix,55,SAI,Ferrari,4.0,4.0,12,Finished,4,84.242,0.418
+2022,Round British Grand Prix,14,ALO,Alpine,7.0,5.0,10,Finished,7,102.116,1.133
+2022,Round Belgian Grand Prix,14,ALO,Alpine,3.0,5.0,10,Finished,6,105.368,1.703
+2022,Round São Paulo Grand Prix,14,ALO,Alpine,17.0,5.0,10,Finished,7,72.504,1.554
+2022,Round Las Vegas Grand Prix,14,ALO,Alpine,7.0,5.0,10,Finished,7,102.116,1.133
+2022,Round Emilia Romagna Grand Prix,77,BOT,Alfa Romeo,7.0,5.0,10,Finished,8,90.439,11.449
+2022,Round Azerbaijan Grand Prix,10,GAS,AlphaTauri,6.0,5.0,10,Finished,6,102.845,1.486
+2022,Round Chinese Grand Prix,44,HAM,Mercedes,6.0,5.0,10,Finished,6,90.261,0.957
+2022,Round Japanese Grand Prix,44,HAM,Mercedes,6.0,5.0,10,Finished,6,90.261,0.957
+2022,Round Spanish Grand Prix,44,HAM,Mercedes,6.0,5.0,10,Finished,6,79.512,0.762
+2022,Round Italian Grand Prix,44,HAM,Mercedes,19.0,5.0,10,Finished,5,81.524,1.363
+2022,Round Canadian Grand Prix,16,LEC,Ferrari,19.0,5.0,10,Finished,15,93.008,11.709
+2022,Round Bahrain Grand Prix,20,MAG,Haas F1 Team,7.0,5.0,10,Finished,7,91.808,1.25
+2022,Round Australian Grand Prix,4,NOR,McLaren,4.0,5.0,10,Finished,4,78.703,0.835
+2022,Round Austrian Grand Prix,31,OCO,Alpine,6.0,5.0,10,Finished,5,65.726,0.742
+2022,Round Qatar Grand Prix,31,OCO,Alpine,6.0,5.0,10,Finished,5,65.726,0.742
+2022,Round Hungarian Grand Prix,11,PER,Red Bull,11.0,5.0,10,Finished,11,78.516,1.139
+2022,Round Dutch Grand Prix,11,PER,Red Bull Racing,5.0,5.0,10,Finished,5,71.077,0.735
+2022,Round Singapore Grand Prix,3,RIC,McLaren,16.0,5.0,10,Finished,17,116.226,6.814
+2022,Round Saudi Arabian Grand Prix,63,RUS,Mercedes,6.0,5.0,10,Finished,6,89.104,0.904
+2022,Round Miami Grand Prix,63,RUS,Mercedes,12.0,5.0,10,Finished,12,90.173,1.377
+2022,Round Monaco Grand Prix,63,RUS,Mercedes,6.0,5.0,10,Finished,6,72.112,0.736
+2022,Round United States Grand Prix,63,RUS,Mercedes,4.0,5.0,11,Finished,6,94.988,0.632
+2022,Round Abu Dhabi Grand Prix,63,RUS,Mercedes,6.0,5.0,10,Finished,6,84.511,0.687
+2022,Round Mexico City Grand Prix,55,SAI,Ferrari,5.0,5.0,10,Finished,5,78.351,0.576
+2022,Round Dutch Grand Prix,14,ALO,Alpine,13.0,6.0,8,Finished,13,71.613,1.271
+2022,Round Bahrain Grand Prix,77,BOT,Alfa Romeo,6.0,6.0,8,Finished,6,91.56,1.002
+2022,Round Spanish Grand Prix,77,BOT,Alfa Romeo,7.0,6.0,8,Finished,7,79.608,0.858
+2022,Round Miami Grand Prix,44,HAM,Mercedes,6.0,6.0,8,Finished,6,89.625,0.829
+2022,Round Emilia Romagna Grand Prix,16,LEC,Ferrari,2.0,6.0,8,Finished,2,88.778,9.788
+2022,Round Belgian Grand Prix,16,LEC,Ferrari,15.0,6.0,8,Finished,4,104.553,0.888
+2022,Round Hungarian Grand Prix,16,LEC,Ferrari,3.0,6.0,8,Finished,3,77.567,0.19
+2022,Round Mexico City Grand Prix,16,LEC,Ferrari,7.0,6.0,8,Finished,7,78.555,0.78
+2022,Round Austrian Grand Prix,47,MSC,Haas F1 Team,9.0,6.0,8,+1 Lap,7,66.011,1.027
+2022,Round Qatar Grand Prix,47,MSC,Haas F1 Team,9.0,6.0,8,+1 Lap,7,66.011,1.027
+2022,Round Monaco Grand Prix,4,NOR,McLaren,5.0,6.0,9,Finished,5,71.849,0.473
+2022,Round British Grand Prix,4,NOR,McLaren,6.0,6.0,8,Finished,6,102.084,1.101
+2022,Round United States Grand Prix,4,NOR,McLaren,6.0,6.0,8,Finished,8,95.69,1.334
+2022,Round Las Vegas Grand Prix,4,NOR,McLaren,6.0,6.0,8,Finished,6,102.084,1.101
+2022,Round Abu Dhabi Grand Prix,4,NOR,McLaren,7.0,6.0,9,Finished,7,84.769,0.945
+2022,Round Saudi Arabian Grand Prix,31,OCO,Alpine,5.0,6.0,8,Finished,5,89.068,0.868
+2022,Round Canadian Grand Prix,31,OCO,Alpine,7.0,6.0,8,Finished,7,83.529,2.23
+2022,Round Italian Grand Prix,11,PER,Red Bull,13.0,6.0,9,Finished,4,81.206,1.045
+2022,Round Australian Grand Prix,3,RIC,McLaren,7.0,6.0,8,Finished,7,79.032,1.164
+2022,Round Singapore Grand Prix,18,STR,Aston Martin,11.0,6.0,8,Finished,12,114.211,4.799
+2022,Round São Paulo Grand Prix,1,VER,Red Bull Racing,3.0,6.0,8,Finished,2,71.877,0.927
+2022,Round Chinese Grand Prix,5,VET,Aston Martin,9.0,6.0,8,Finished,9,90.554,1.25
+2022,Round Japanese Grand Prix,5,VET,Aston Martin,9.0,6.0,8,Finished,9,90.554,1.25
+2022,Round Azerbaijan Grand Prix,5,VET,Aston Martin,9.0,6.0,8,Finished,9,103.091,1.732
+2022,Round Chinese Grand Prix,14,ALO,Alpine,7.0,7.0,6,Finished,7,90.322,1.018
+2022,Round Japanese Grand Prix,14,ALO,Alpine,7.0,7.0,6,Finished,7,90.322,1.018
+2022,Round Monaco Grand Prix,14,ALO,Alpine,7.0,7.0,6,Finished,7,72.247,0.871
+2022,Round Azerbaijan Grand Prix,14,ALO,Alpine F1 Team,10.0,7.0,6,Finished,10,103.173,1.814
+2022,Round United States Grand Prix,14,ALO,Alpine F1 Team,14.0,7.0,6,Finished,9,95.876,1.52
+2022,Round Miami Grand Prix,77,BOT,Alfa Romeo,5.0,7.0,6,Finished,5,89.475,0.679
+2022,Round Canadian Grand Prix,77,BOT,Alfa Romeo,11.0,7.0,6,Finished,11,86.788,5.489
+2022,Round Saudi Arabian Grand Prix,4,NOR,McLaren,11.0,7.0,6,Finished,11,89.651,1.451
+2022,Round Austrian Grand Prix,4,NOR,McLaren,10.0,7.0,6,+1 Lap,15,85.847,20.863
+2022,Round Hungarian Grand Prix,4,NOR,McLaren,4.0,7.0,6,Finished,4,77.769,0.392
+2022,Round Dutch Grand Prix,4,NOR,McLaren,7.0,7.0,6,Finished,7,71.174,0.832
+2022,Round Italian Grand Prix,4,NOR,McLaren,3.0,7.0,6,Finished,7,81.584,1.423
+2022,Round Qatar Grand Prix,4,NOR,McLaren,10.0,7.0,6,+1 Lap,15,85.847,20.863
+2022,Round Australian Grand Prix,31,OCO,Alpine,8.0,7.0,6,Finished,8,79.061,1.193
+2022,Round Bahrain Grand Prix,31,OCO,Alpine,11.0,7.0,6,Finished,11,91.782,1.224
+2022,Round Spanish Grand Prix,31,OCO,Alpine,12.0,7.0,6,Finished,12,80.638,1.888
+2022,Round Belgian Grand Prix,31,OCO,Alpine,16.0,7.0,6,Finished,5,105.18,1.515
+2022,Round Abu Dhabi Grand Prix,31,OCO,Alpine,8.0,7.0,6,Finished,8,84.83,1.006
+2022,Round São Paulo Grand Prix,11,PER,Red Bull Racing,4.0,7.0,6,Finished,9,75.601,4.651
+2022,Round Mexico City Grand Prix,3,RIC,McLaren,11.0,7.0,6,+1 Lap,11,79.325,1.55
+2022,Round Emilia Romagna Grand Prix,22,TSU,AlphaTauri,12.0,7.0,6,Finished,16,80.474,1.484
+2022,Round British Grand Prix,1,VER,Red Bull Racing,2.0,7.0,6,Finished,2,101.055,0.072
+2022,Round Singapore Grand Prix,1,VER,Red Bull,8.0,7.0,6,Finished,8,111.395,1.983
+2022,Round Las Vegas Grand Prix,1,VER,Red Bull Racing,2.0,7.0,6,Finished,2,101.055,0.072
+2022,Round Hungarian Grand Prix,14,ALO,Alpine F1 Team,6.0,8.0,4,+1 Lap,6,78.078,0.701
+2022,Round Australian Grand Prix,77,BOT,Alfa Romeo,12.0,8.0,4,Finished,12,79.41,1.542
+2022,Round Saudi Arabian Grand Prix,10,GAS,AlphaTauri,9.0,8.0,4,Finished,9,89.254,1.054
+2022,Round Italian Grand Prix,10,GAS,AlphaTauri,5.0,8.0,4,Finished,9,82.648,2.487
+2022,Round Monaco Grand Prix,44,HAM,Mercedes,8.0,8.0,4,Finished,8,72.56,1.184
+2022,Round Austrian Grand Prix,20,MAG,Haas F1 Team,7.0,8.0,4,+1 Lap,6,65.879,0.895
+2022,Round Qatar Grand Prix,20,MAG,Haas F1 Team,7.0,8.0,4,+1 Lap,6,65.879,0.895
+2022,Round British Grand Prix,47,MSC,Haas F1 Team,19.0,8.0,4,Finished,19,102.708,1.725
+2022,Round Las Vegas Grand Prix,47,MSC,Haas F1 Team,19.0,8.0,4,Finished,19,102.708,1.725
+2022,Round Spanish Grand Prix,4,NOR,McLaren,11.0,8.0,4,Finished,11,80.471,1.721
+2022,Round Miami Grand Prix,31,OCO,Alpine,20.0,8.0,4,Finished,20,87.148,1.393
+2022,Round Mexico City Grand Prix,31,OCO,Alpine,10.0,8.0,4,+1 Lap,10,79.01,1.235
+2022,Round São Paulo Grand Prix,31,OCO,Alpine,16.0,8.0,4,Finished,6,72.425,1.475
+2022,Round Azerbaijan Grand Prix,3,RIC,McLaren,12.0,8.0,4,Finished,12,103.574,2.215
+2022,Round Chinese Grand Prix,63,RUS,Mercedes,8.0,8.0,4,Finished,8,90.389,1.085
+2022,Round Japanese Grand Prix,63,RUS,Mercedes,8.0,8.0,4,Finished,8,90.389,1.085
+2022,Round Dutch Grand Prix,55,SAI,Ferrari,3.0,8.0,4,Finished,3,70.434,0.092
+2022,Round Abu Dhabi Grand Prix,18,STR,Aston Martin,14.0,8.0,4,Finished,14,85.359,1.535
+2022,Round Bahrain Grand Prix,22,TSU,AlphaTauri,16.0,8.0,4,Finished,16,92.75,2.192
+2022,Round Emilia Romagna Grand Prix,5,VET,Aston Martin,13.0,8.0,4,Finished,9,91.062,12.072
+2022,Round Belgian Grand Prix,5,VET,Aston Martin,10.0,8.0,4,Finished,16,106.344,2.679
+2022,Round Singapore Grand Prix,5,VET,Aston Martin,13.0,8.0,4,Finished,14,114.38,4.968
+2022,Round United States Grand Prix,5,VET,Aston Martin,10.0,8.0,4,Finished,12,96.398,2.042
+2022,Round Canadian Grand Prix,24,ZHO,Alfa Romeo,10.0,8.0,4,Finished,10,84.03,2.731
+2022,Round Miami Grand Prix,23,ALB,Williams,18.0,9.0,2,Finished,18,91.266,2.47
+2022,Round Bahrain Grand Prix,14,ALO,Alpine,8.0,9.0,2,Finished,8,92.195,1.637
+2022,Round Spanish Grand Prix,14,ALO,Alpine,20.0,9.0,2,+1 Lap,17,81.043,2.293
+2022,Round Canadian Grand Prix,14,ALO,Alpine,2.0,9.0,2,Finished,2,81.944,0.645
+2022,Round Monaco Grand Prix,77,BOT,Alfa Romeo,12.0,9.0,2,Finished,12,72.909,1.533
+2022,Round São Paulo Grand Prix,77,BOT,Alfa Romeo,14.0,9.0,2,Finished,18,75.486,4.536
+2022,Round Italian Grand Prix,45,DEV,Williams,8.0,9.0,2,Finished,13,82.471,2.31
+2022,Round Australian Grand Prix,10,GAS,AlphaTauri,11.0,9.0,2,Finished,11,79.226,1.358
+2022,Round Belgian Grand Prix,10,GAS,AlphaTauri,0.0,9.0,2,Finished,12,105.827,2.162
+2022,Round Singapore Grand Prix,44,HAM,Mercedes,3.0,9.0,2,Finished,3,109.466,0.054
+2022,Round Chinese Grand Prix,6,LAT,Williams,20.0,9.0,2,Finished,20,91.511,2.207
+2022,Round Japanese Grand Prix,6,LAT,Williams,20.0,9.0,2,Finished,20,91.511,2.207
+2022,Round Saudi Arabian Grand Prix,20,MAG,Haas F1 Team,10.0,9.0,2,Finished,10,89.588,1.388
+2022,Round Emilia Romagna Grand Prix,20,MAG,Haas F1 Team,8.0,9.0,2,Finished,4,89.164,10.174
+2022,Round United States Grand Prix,20,MAG,Haas F1 Team,13.0,9.0,2,Finished,16,96.949,2.593
+2022,Round Azerbaijan Grand Prix,4,NOR,McLaren,11.0,9.0,2,Finished,11,103.398,2.039
+2022,Round Mexico City Grand Prix,4,NOR,McLaren,8.0,9.0,2,+1 Lap,8,78.721,0.946
+2022,Round Hungarian Grand Prix,31,OCO,Alpine F1 Team,5.0,9.0,2,+1 Lap,5,78.018,0.641
+2022,Round Dutch Grand Prix,31,OCO,Alpine,12.0,9.0,2,Finished,12,71.605,1.263
+2022,Round Austrian Grand Prix,3,RIC,McLaren,11.0,9.0,2,+1 Lap,16,66.613,1.629
+2022,Round Qatar Grand Prix,3,RIC,McLaren,11.0,9.0,2,+1 Lap,16,66.613,1.629
+2022,Round Abu Dhabi Grand Prix,3,RIC,McLaren,13.0,9.0,2,Finished,10,85.045,1.221
+2022,Round British Grand Prix,5,VET,Aston Martin,18.0,9.0,2,Finished,18,102.666,1.683
+2022,Round Las Vegas Grand Prix,5,VET,Aston Martin,18.0,9.0,2,Finished,18,102.666,1.683
+2022,Round Australian Grand Prix,23,ALB,Williams,20.0,10.0,1,Finished,16,80.135,2.267
+2022,Round Belgian Grand Prix,23,ALB,Williams,6.0,10.0,1,Finished,9,105.837,2.172
+2022,Round Austrian Grand Prix,14,ALO,Alpine,19.0,10.0,1,+1 Lap,8,66.103,1.119
+2022,Round Qatar Grand Prix,14,ALO,Alpine,19.0,10.0,1,+1 Lap,8,66.103,1.119
+2022,Round Mexico City Grand Prix,77,BOT,Alfa Romeo,6.0,10.0,1,+1 Lap,6,78.401,0.626
+2022,Round Singapore Grand Prix,10,GAS,AlphaTauri,7.0,10.0,1,Finished,7,111.211,1.799
+2022,Round Saudi Arabian Grand Prix,44,HAM,Mercedes,15.0,10.0,1,Finished,16,90.343,2.143
+2022,Round British Grand Prix,20,MAG,Haas F1 Team,17.0,10.0,1,Finished,17,102.159,1.176
+2022,Round Las Vegas Grand Prix,20,MAG,Haas F1 Team,17.0,10.0,1,Finished,17,102.159,1.176
+2022,Round Chinese Grand Prix,4,NOR,McLaren,10.0,10.0,1,Finished,10,91.003,1.699
+2022,Round Japanese Grand Prix,4,NOR,McLaren,10.0,10.0,1,Finished,10,91.003,1.699
+2022,Round Azerbaijan Grand Prix,31,OCO,Alpine F1 Team,13.0,10.0,1,Finished,13,103.585,2.226
+2022,Round Miami Grand Prix,18,STR,Aston Martin,0.0,10.0,1,Finished,10,90.676,1.88
+2022,Round Emilia Romagna Grand Prix,18,STR,Aston Martin,15.0,10.0,1,+1 Lap,15,88.119,9.129
+2022,Round Canadian Grand Prix,18,STR,Aston Martin,17.0,10.0,1,Finished,18,95.532,14.233
+2022,Round Dutch Grand Prix,18,STR,Aston Martin,10.0,10.0,1,Finished,10,71.416,1.074
+2022,Round São Paulo Grand Prix,18,STR,Aston Martin,15.0,10.0,1,Finished,15,72.21,1.26
+2022,Round Spanish Grand Prix,22,TSU,AlphaTauri,13.0,10.0,1,+1 Lap,13,80.639,1.889
+2022,Round United States Grand Prix,22,TSU,AlphaTauri,19.0,10.0,1,Finished,15,97.147,2.791
+2022,Round Monaco Grand Prix,5,VET,Aston Martin,9.0,10.0,1,Finished,9,72.732,1.356
+2022,Round Hungarian Grand Prix,5,VET,Aston Martin,18.0,10.0,1,+1 Lap,18,79.273,1.896
+2022,Round Abu Dhabi Grand Prix,5,VET,Aston Martin,9.0,10.0,1,Finished,9,84.961,1.137
+2022,Round Bahrain Grand Prix,24,ZHO,Alfa Romeo,15.0,10.0,1,Finished,15,93.543,2.985
+2022,Round Italian Grand Prix,24,ZHO,Alfa Romeo,9.0,10.0,1,Finished,14,82.577,2.416
+2022,Round Emilia Romagna Grand Prix,23,ALB,Williams,18.0,11.0,0,+1 Lap,20,87.148,1.393
+2022,Round Miami Grand Prix,14,ALO,Alpine,11.0,11.0,0,Finished,11,90.16,1.364
+2022,Round Austrian Grand Prix,77,BOT,Alfa Romeo,0.0,11.0,0,+1 Lap,12,66.319,1.335
+2022,Round Azerbaijan Grand Prix,77,BOT,Alfa Romeo,15.0,11.0,0,+1 Lap,15,104.444,3.085
+2022,Round Singapore Grand Prix,77,BOT,Alfa Romeo,15.0,11.0,0,Finished,16,116.083,6.671
+2022,Round Qatar Grand Prix,77,BOT,Alfa Romeo,0.0,11.0,0,+1 Lap,12,66.319,1.335
+2022,Round Monaco Grand Prix,10,GAS,AlphaTauri,17.0,11.0,0,Finished,17,73.66,2.284
+2022,Round Dutch Grand Prix,10,GAS,AlphaTauri,11.0,11.0,0,Finished,11,71.512,1.17
+2022,Round Mexico City Grand Prix,10,GAS,AlphaTauri,14.0,11.0,0,+1 Lap,14,79.672,1.897
+2022,Round Bahrain Grand Prix,47,MSC,Haas F1 Team,12.0,11.0,0,Finished,12,91.998,1.44
+2022,Round Italian Grand Prix,31,OCO,Alpine F1 Team,14.0,11.0,0,Finished,11,82.13,1.969
+2022,Round United States Grand Prix,31,OCO,Alpine F1 Team,0.0,11.0,0,Finished,18,97.068,2.712
+2022,Round Chinese Grand Prix,3,RIC,McLaren,11.0,11.0,0,Finished,11,90.659,1.355
+2022,Round Japanese Grand Prix,3,RIC,McLaren,11.0,11.0,0,Finished,11,90.659,1.355
+2022,Round Canadian Grand Prix,3,RIC,McLaren,9.0,11.0,0,Finished,9,83.749,2.45
+2022,Round British Grand Prix,18,STR,Aston Martin,20.0,11.0,0,Finished,20,103.43,2.447
+2022,Round Belgian Grand Prix,18,STR,Aston Martin,9.0,11.0,0,Finished,14,106.611,2.946
+2022,Round Hungarian Grand Prix,18,STR,Aston Martin,14.0,11.0,0,+1 Lap,14,79.137,1.76
+2022,Round Las Vegas Grand Prix,18,STR,Aston Martin,20.0,11.0,0,Finished,20,103.43,2.447
+2022,Round Abu Dhabi Grand Prix,22,TSU,AlphaTauri,11.0,11.0,0,Finished,12,85.219,1.395
+2022,Round Spanish Grand Prix,5,VET,Aston Martin,16.0,11.0,0,+1 Lap,16,80.954,2.204
+2022,Round São Paulo Grand Prix,5,VET,Aston Martin,9.0,11.0,0,Finished,13,71.678,0.728
+2022,Round Australian Grand Prix,24,ZHO,Alfa Romeo,14.0,11.0,0,Finished,14,80.155,2.287
+2022,Round Saudi Arabian Grand Prix,24,ZHO,Alfa Romeo,12.0,11.0,0,Finished,13,89.819,1.619
+2022,Round Austrian Grand Prix,23,ALB,Williams,15.0,12.0,0,+1 Lap,11,66.23,1.246
+2022,Round Dutch Grand Prix,23,ALB,Williams,15.0,12.0,0,Finished,15,71.802,1.46
+2022,Round Azerbaijan Grand Prix,23,ALB,Williams,17.0,12.0,0,+1 Lap,17,104.719,3.36
+2022,Round Mexico City Grand Prix,23,ALB,Williams,17.0,12.0,0,+1 Lap,19,80.859,3.084
+2022,Round Qatar Grand Prix,23,ALB,Williams,15.0,12.0,0,+1 Lap,11,66.23,1.246
+2022,Round Emilia Romagna Grand Prix,10,GAS,AlphaTauri,17.0,12.0,0,+1 Lap,17,80.732,1.742
+2022,Round Hungarian Grand Prix,10,GAS,AlphaTauri,0.0,12.0,0,+1 Lap,19,79.527,2.15
+2022,Round Saudi Arabian Grand Prix,27,HUL,Aston Martin,17.0,12.0,0,Finished,18,90.543,2.343
+2022,Round British Grand Prix,6,LAT,Williams,10.0,12.0,0,Finished,10,123.095,22.112
+2022,Round Las Vegas Grand Prix,6,LAT,Williams,10.0,12.0,0,Finished,10,123.095,22.112
+2022,Round Singapore Grand Prix,20,MAG,Haas F1 Team,9.0,12.0,0,Finished,9,111.573,2.161
+2022,Round Italian Grand Prix,47,MSC,Haas F1 Team,17.0,12.0,0,Finished,20,83.005,2.844
+2022,Round Belgian Grand Prix,4,NOR,McLaren,17.0,12.0,0,Finished,10,106.178,2.513
+2022,Round Monaco Grand Prix,31,OCO,Alpine,10.0,12.0,0,Finished,10,73.047,1.671
+2022,Round Spanish Grand Prix,3,RIC,McLaren,9.0,12.0,0,+1 Lap,9,80.297,1.547
+2022,Round Australian Grand Prix,18,STR,Aston Martin,19.0,12.0,0,Finished,20,87.148,1.393
+2022,Round Chinese Grand Prix,18,STR,Aston Martin,19.0,12.0,0,Finished,19,91.419,2.115
+2022,Round Japanese Grand Prix,18,STR,Aston Martin,19.0,12.0,0,Finished,19,91.419,2.115
+2022,Round Bahrain Grand Prix,18,STR,Aston Martin,19.0,12.0,0,Finished,19,93.032,2.474
+2022,Round Miami Grand Prix,22,TSU,AlphaTauri,9.0,12.0,0,Finished,9,89.932,1.136
+2022,Round Canadian Grand Prix,5,VET,Aston Martin,16.0,12.0,0,Finished,17,94.512,13.213
+2022,Round United States Grand Prix,24,ZHO,Alfa Romeo,18.0,12.0,0,Finished,14,96.97,2.614
+2022,Round São Paulo Grand Prix,24,ZHO,Alfa Romeo,13.0,12.0,0,Finished,17,75.197,4.247
+2022,Round Abu Dhabi Grand Prix,24,ZHO,Alfa Romeo,15.0,12.0,0,+1 Lap,15,85.408,1.584
+2022,Round Bahrain Grand Prix,23,ALB,Williams,14.0,13.0,0,Finished,14,92.664,2.106
+2022,Round Canadian Grand Prix,23,ALB,Williams,12.0,13.0,0,Finished,12,86.858,5.559
+2022,Round United States Grand Prix,23,ALB,Williams,8.0,13.0,0,Finished,11,96.368,2.012
+2022,Round Abu Dhabi Grand Prix,23,ALB,Williams,19.0,13.0,0,+1 Lap,19,86.028,2.204
+2022,Round Italian Grand Prix,77,BOT,Alfa Romeo,15.0,13.0,0,+1 Lap,12,82.235,2.074
+2022,Round Spanish Grand Prix,10,GAS,AlphaTauri,14.0,13.0,0,+1 Lap,14,80.861,2.111
+2022,Round Emilia Romagna Grand Prix,44,HAM,Mercedes,14.0,13.0,0,+1 Lap,13,81.138,2.148
+2022,Round Australian Grand Prix,47,MSC,Haas F1 Team,15.0,13.0,0,+1 Lap,15,80.465,2.597
+2022,Round Dutch Grand Prix,47,MSC,Haas F1 Team,8.0,13.0,0,Finished,8,71.442,1.1
+2022,Round Singapore Grand Prix,47,MSC,Haas F1 Team,12.0,13.0,0,+1 Lap,13,114.37,4.958
+2022,Round São Paulo Grand Prix,47,MSC,Haas F1 Team,12.0,13.0,0,Finished,20,76.361,5.411
+2022,Round Miami Grand Prix,3,RIC,McLaren,14.0,13.0,0,Finished,14,90.31,1.514
+2022,Round Monaco Grand Prix,3,RIC,McLaren,14.0,13.0,0,Finished,14,72.964,1.588
+2022,Round British Grand Prix,3,RIC,McLaren,14.0,13.0,0,Finished,14,104.355,3.372
+2022,Round Las Vegas Grand Prix,3,RIC,McLaren,14.0,13.0,0,Finished,14,104.355,3.372
+2022,Round Saudi Arabian Grand Prix,18,STR,Aston Martin,13.0,13.0,0,+1 Lap,15,91.009,2.809
+2022,Round Austrian Grand Prix,18,STR,Aston Martin,12.0,13.0,0,+1 Lap,17,66.847,1.863
+2022,Round Qatar Grand Prix,18,STR,Aston Martin,12.0,13.0,0,+1 Lap,17,66.847,1.863
+2022,Round Chinese Grand Prix,22,TSU,AlphaTauri,13.0,13.0,0,Finished,13,90.808,1.504
+2022,Round Japanese Grand Prix,22,TSU,AlphaTauri,13.0,13.0,0,Finished,13,90.808,1.504
+2022,Round Belgian Grand Prix,22,TSU,AlphaTauri,0.0,13.0,0,Finished,19,106.692,3.027
+2022,Round Azerbaijan Grand Prix,22,TSU,AlphaTauri,8.0,13.0,0,+1 Lap,8,103.056,1.697
+2022,Round Hungarian Grand Prix,24,ZHO,Alfa Romeo,12.0,13.0,0,+1 Lap,12,78.573,1.196
+2022,Round Mexico City Grand Prix,24,ZHO,Alfa Romeo,12.0,13.0,0,+1 Lap,12,79.476,1.701
+2022,Round Saudi Arabian Grand Prix,23,ALB,Williams,16.0,14.0,0,Collision damage,17,90.492,2.292
+2022,Round Canadian Grand Prix,10,GAS,AlphaTauri,15.0,14.0,0,Finished,16,94.492,13.193
+2022,Round United States Grand Prix,10,GAS,AlphaTauri,11.0,14.0,0,Finished,13,96.74,2.384
+2022,Round São Paulo Grand Prix,10,GAS,AlphaTauri,10.0,14.0,0,Finished,12,71.675,0.725
+2022,Round Abu Dhabi Grand Prix,10,GAS,AlphaTauri,17.0,14.0,0,+1 Lap,17,85.859,2.035
+2022,Round Miami Grand Prix,6,LAT,Williams,19.0,14.0,0,Finished,19,91.325,2.529
+2022,Round Australian Grand Prix,20,MAG,Haas F1 Team,16.0,14.0,0,+1 Lap,17,80.254,2.386
+2022,Round Chinese Grand Prix,20,MAG,Haas F1 Team,18.0,14.0,0,Finished,18,91.352,2.048
+2022,Round Japanese Grand Prix,20,MAG,Haas F1 Team,18.0,14.0,0,Finished,18,91.352,2.048
+2022,Round Spanish Grand Prix,47,MSC,Haas F1 Team,10.0,14.0,0,+1 Lap,10,80.368,1.618
+2022,Round Hungarian Grand Prix,47,MSC,Haas F1 Team,15.0,14.0,0,+1 Lap,15,79.202,1.825
+2022,Round Azerbaijan Grand Prix,47,MSC,Haas F1 Team,20.0,14.0,0,+1 Lap,20,105.775,4.416
+2022,Round Emilia Romagna Grand Prix,31,OCO,Alpine,16.0,14.0,0,+1 Lap,19,82.338,3.348
+2022,Round Bahrain Grand Prix,3,RIC,McLaren,18.0,14.0,0,Finished,18,92.945,2.387
+2022,Round Singapore Grand Prix,63,RUS,Mercedes,0.0,14.0,0,+2 Laps,11,114.012,4.6
+2022,Round Monaco Grand Prix,18,STR,Aston Martin,18.0,14.0,0,Finished,18,73.678,2.302
+2022,Round British Grand Prix,22,TSU,AlphaTauri,13.0,14.0,0,Finished,13,104.311,3.328
+2022,Round Italian Grand Prix,22,TSU,AlphaTauri,20.0,14.0,0,+1 Lap,15,82.02,1.859
+2022,Round Las Vegas Grand Prix,22,TSU,AlphaTauri,13.0,14.0,0,Finished,13,104.311,3.328
+2022,Round Dutch Grand Prix,5,VET,Aston Martin,19.0,14.0,0,Finished,19,72.391,2.049
+2022,Round Mexico City Grand Prix,5,VET,Aston Martin,16.0,14.0,0,+1 Lap,17,80.419,2.644
+2022,Round Austrian Grand Prix,24,ZHO,Alfa Romeo,13.0,14.0,0,+1 Lap,18,66.901,1.917
+2022,Round Belgian Grand Prix,24,ZHO,Alfa Romeo,18.0,14.0,0,Finished,13,106.085,2.42
+2022,Round Qatar Grand Prix,24,ZHO,Alfa Romeo,13.0,14.0,0,+1 Lap,18,66.901,1.917
+2022,Round São Paulo Grand Prix,23,ALB,Williams,19.0,15.0,0,Finished,11,71.631,0.681
+2022,Round Chinese Grand Prix,77,BOT,Alfa Romeo,12.0,15.0,0,Finished,12,90.709,1.405
+2022,Round Japanese Grand Prix,77,BOT,Alfa Romeo,12.0,15.0,0,Finished,12,90.709,1.405
+2022,Round Saudi Arabian Grand Prix,77,BOT,Alfa Romeo,8.0,15.0,0,Cooling system,8,89.183,0.983
+2022,Round Abu Dhabi Grand Prix,77,BOT,Alfa Romeo,18.0,15.0,0,+1 Lap,18,85.892,2.068
+2022,Round Austrian Grand Prix,10,GAS,AlphaTauri,14.0,15.0,0,+1 Lap,10,66.16,1.176
+2022,Round Qatar Grand Prix,10,GAS,AlphaTauri,14.0,15.0,0,+1 Lap,10,66.16,1.176
+2022,Round Monaco Grand Prix,6,LAT,Williams,19.0,15.0,0,+1 Lap,19,74.403,3.027
+2022,Round Italian Grand Prix,6,LAT,Williams,10.0,15.0,0,+1 Lap,16,82.587,2.426
+2022,Round Azerbaijan Grand Prix,6,LAT,Williams,18.0,15.0,0,+1 Lap,18,105.367,4.008
+2022,Round Dutch Grand Prix,20,MAG,Haas F1 Team,18.0,15.0,0,Finished,18,72.319,1.977
+2022,Round Miami Grand Prix,47,MSC,Haas F1 Team,15.0,15.0,0,Finished,15,90.423,1.627
+2022,Round United States Grand Prix,47,MSC,Haas F1 Team,16.0,15.0,0,Finished,19,97.111,2.755
+2022,Round Bahrain Grand Prix,4,NOR,McLaren,13.0,15.0,0,Finished,13,92.008,1.45
+2022,Round Canadian Grand Prix,4,NOR,McLaren,14.0,15.0,0,Finished,14,94.066,12.767
+2022,Round British Grand Prix,31,OCO,Alpine,15.0,15.0,0,Fuel pump,15,105.19,4.207
+2022,Round Las Vegas Grand Prix,31,OCO,Alpine,15.0,15.0,0,Fuel pump,15,105.19,4.207
+2022,Round Belgian Grand Prix,3,RIC,McLaren,7.0,15.0,0,Finished,11,105.767,2.102
+2022,Round Hungarian Grand Prix,3,RIC,McLaren,9.0,15.0,0,+1 Lap,9,78.379,1.002
+2022,Round Spanish Grand Prix,18,STR,Aston Martin,17.0,15.0,0,+1 Lap,18,81.418,2.668
+2022,Round Mexico City Grand Prix,18,STR,Aston Martin,20.0,15.0,0,+1 Lap,18,80.52,2.745
+2022,Round Australian Grand Prix,22,TSU,AlphaTauri,13.0,15.0,0,+1 Lap,13,79.424,1.556
+2022,Round Singapore Grand Prix,22,TSU,AlphaTauri,10.0,15.0,0,Accident,10,111.983,2.571
+2022,Round Emilia Romagna Grand Prix,24,ZHO,Alfa Romeo,0.0,15.0,0,+1 Lap,14,81.434,2.444
+2022,Round Saudi Arabian Grand Prix,14,ALO,Alpine,7.0,16.0,0,Water pump,7,89.147,0.947
+2022,Round British Grand Prix,10,GAS,AlphaTauri,11.0,16.0,0,Collision damage,11,103.702,2.719
+2022,Round Las Vegas Grand Prix,10,GAS,AlphaTauri,11.0,16.0,0,Collision damage,11,103.702,2.719
+2022,Round Australian Grand Prix,6,LAT,Williams,18.0,16.0,0,+1 Lap,19,81.372,3.504
+2022,Round Bahrain Grand Prix,6,LAT,Williams,20.0,16.0,0,Finished,20,93.634,3.076
+2022,Round Emilia Romagna Grand Prix,6,LAT,Williams,19.0,16.0,0,+1 Lap,18,81.971,2.981
+2022,Round Spanish Grand Prix,6,LAT,Williams,19.0,16.0,0,+2 Laps,20,81.915,3.165
+2022,Round Canadian Grand Prix,6,LAT,Williams,18.0,16.0,0,Finished,19,95.66,14.361
+2022,Round São Paulo Grand Prix,6,LAT,Williams,18.0,16.0,0,Finished,16,75.095,4.145
+2022,Round Miami Grand Prix,20,MAG,Haas F1 Team,16.0,16.0,0,Front wing,16,90.975,2.179
+2022,Round Belgian Grand Prix,20,MAG,Haas F1 Team,12.0,16.0,0,+1 Lap,18,106.557,2.892
+2022,Round Hungarian Grand Prix,20,MAG,Haas F1 Team,13.0,16.0,0,+1 Lap,13,78.825,1.448
+2022,Round Italian Grand Prix,20,MAG,Haas F1 Team,16.0,16.0,0,+1 Lap,19,82.908,2.747
+2022,Round Mexico City Grand Prix,47,MSC,Haas F1 Team,15.0,16.0,0,+1 Lap,16,80.419,2.644
+2022,Round Abu Dhabi Grand Prix,47,MSC,Haas F1 Team,12.0,16.0,0,+1 Lap,13,85.225,1.401
+2022,Round Singapore Grand Prix,31,OCO,Alpine F1 Team,17.0,16.0,0,Engine,18,116.337,6.925
+2022,Round United States Grand Prix,3,RIC,McLaren,15.0,16.0,0,Finished,17,97.046,2.69
+2022,Round Azerbaijan Grand Prix,18,STR,Aston Martin,19.0,16.0,0,Vibrations,19,105.371,4.012
+2022,Round Austrian Grand Prix,22,TSU,AlphaTauri,16.0,16.0,0,+1 Lap,14,66.851,1.867
+2022,Round Qatar Grand Prix,22,TSU,AlphaTauri,16.0,16.0,0,+1 Lap,14,66.851,1.867
+2022,Round Chinese Grand Prix,24,ZHO,Alfa Romeo,14.0,16.0,0,Finished,14,90.953,1.649
+2022,Round Japanese Grand Prix,24,ZHO,Alfa Romeo,14.0,16.0,0,Finished,14,90.953,1.649
+2022,Round Monaco Grand Prix,24,ZHO,Alfa Romeo,20.0,16.0,0,+1 Lap,20,75.606,4.23
+2022,Round Dutch Grand Prix,24,ZHO,Alfa Romeo,14.0,16.0,0,Finished,14,71.704,1.362
+2022,Round Hungarian Grand Prix,23,ALB,Williams,17.0,17.0,0,+1 Lap,17,79.256,1.879
+2022,Round Singapore Grand Prix,23,ALB,Williams,18.0,17.0,0,Collision damage,19,116.985,7.573
+2022,Round Australian Grand Prix,14,ALO,Alpine,10.0,17.0,0,+1 Lap,10,78.815,0.947
+2022,Round British Grand Prix,77,BOT,Alfa Romeo,12.0,17.0,0,Gearbox,12,104.232,3.249
+2022,Round Las Vegas Grand Prix,77,BOT,Alfa Romeo,12.0,17.0,0,Gearbox,12,104.232,3.249
+2022,Round Bahrain Grand Prix,27,HUL,Aston Martin,17.0,17.0,0,Finished,17,92.777,2.219
+2022,Round United States Grand Prix,6,LAT,Williams,17.0,17.0,0,Finished,20,97.244,2.888
+2022,Round Spanish Grand Prix,20,MAG,Haas F1 Team,8.0,17.0,0,+2 Laps,8,79.682,0.932
+2022,Round Canadian Grand Prix,20,MAG,Haas F1 Team,5.0,17.0,0,Finished,5,82.96,1.661
+2022,Round Azerbaijan Grand Prix,20,MAG,Haas F1 Team,16.0,17.0,0,Power Unit,16,104.643,3.284
+2022,Round Mexico City Grand Prix,20,MAG,Haas F1 Team,19.0,17.0,0,+1 Lap,15,79.833,2.058
+2022,Round Abu Dhabi Grand Prix,20,MAG,Haas F1 Team,16.0,17.0,0,+1 Lap,16,85.834,2.01
+2022,Round Chinese Grand Prix,47,MSC,Haas F1 Team,15.0,17.0,0,Finished,15,91.439,2.135
+2022,Round Japanese Grand Prix,47,MSC,Haas F1 Team,15.0,17.0,0,Finished,15,91.439,2.135
+2022,Round Emilia Romagna Grand Prix,47,MSC,Haas F1 Team,10.0,17.0,0,+1 Lap,12,80.916,1.926
+2022,Round Belgian Grand Prix,47,MSC,Haas F1 Team,19.0,17.0,0,+1 Lap,15,107.718,4.053
+2022,Round Saudi Arabian Grand Prix,3,RIC,McLaren,14.0,17.0,0,Gearbox,12,89.773,1.573
+2022,Round Dutch Grand Prix,3,RIC,McLaren,17.0,17.0,0,Finished,17,72.081,1.739
+2022,Round Italian Grand Prix,3,RIC,McLaren,4.0,17.0,0,Oil leak,8,81.925,1.764
+2022,Round Monaco Grand Prix,22,TSU,AlphaTauri,11.0,17.0,0,+1 Lap,11,72.797,1.421
+2022,Round São Paulo Grand Prix,22,TSU,AlphaTauri,0.0,17.0,0,+1 Lap,19,76.264,5.314
+2022,Round Miami Grand Prix,5,VET,Aston Martin,0.0,17.0,0,Collision,13,90.214,1.418
+2022,Round Austrian Grand Prix,5,VET,Aston Martin,18.0,17.0,0,+1 Lap,20,67.083,2.099
+2022,Round Qatar Grand Prix,5,VET,Aston Martin,18.0,17.0,0,+1 Lap,20,67.083,2.099
+2022,Round Monaco Grand Prix,23,ALB,Williams,16.0,18.0,0,Mechanical,16,73.611,2.235
+2022,Round Spanish Grand Prix,23,ALB,Williams,18.0,18.0,0,+2 Laps,19,81.645,2.895
+2022,Round Singapore Grand Prix,14,ALO,Alpine F1 Team,5.0,18.0,0,Engine,5,109.966,0.554
+2022,Round Chinese Grand Prix,10,GAS,AlphaTauri,17.0,18.0,0,Finished,17,91.322,2.018
+2022,Round Japanese Grand Prix,10,GAS,AlphaTauri,17.0,18.0,0,Finished,17,91.322,2.018
+2022,Round Miami Grand Prix,10,GAS,AlphaTauri,7.0,18.0,0,Suspension,7,89.69,0.894
+2022,Round Abu Dhabi Grand Prix,44,HAM,Mercedes,5.0,18.0,0,Hydraulics,5,84.508,0.684
+2022,Round Saudi Arabian Grand Prix,6,LAT,Williams,18.0,18.0,0,Accident,19,91.817,3.617
+2022,Round Belgian Grand Prix,6,LAT,Williams,11.0,18.0,0,+1 Lap,17,106.401,2.736
+2022,Round Hungarian Grand Prix,6,LAT,Williams,19.0,18.0,0,+1 Lap,20,79.57,2.193
+2022,Round Dutch Grand Prix,6,LAT,Williams,20.0,18.0,0,+1 Lap,20,73.353,3.011
+2022,Round Mexico City Grand Prix,6,LAT,Williams,18.0,18.0,0,+2 Laps,20,81.167,3.392
+2022,Round São Paulo Grand Prix,4,NOR,McLaren,6.0,18.0,0,Gearbox,4,72.263,1.313
+2022,Round Bahrain Grand Prix,11,PER,Red Bull Racing,4.0,18.0,0,Fuel pressure,4,90.921,0.363
+2022,Round Emilia Romagna Grand Prix,3,RIC,McLaren,6.0,18.0,0,+1 Lap,6,89.742,10.752
+2022,Round British Grand Prix,63,RUS,Mercedes,8.0,18.0,0,Collision,8,102.161,1.178
+2022,Round Las Vegas Grand Prix,63,RUS,Mercedes,8.0,18.0,0,Collision,8,102.161,1.178
+2022,Round Austrian Grand Prix,55,SAI,Ferrari,3.0,18.0,0,Power Unit,3,65.066,0.082
+2022,Round Qatar Grand Prix,55,SAI,Ferrari,3.0,18.0,0,Power Unit,3,65.066,0.082
+2022,Round Italian Grand Prix,18,STR,Aston Martin,12.0,18.0,0,Engine,18,82.748,2.587
+2022,Round United States Grand Prix,18,STR,Aston Martin,5.0,18.0,0,Collision,7,95.598,1.242
+2022,Round Canadian Grand Prix,22,TSU,AlphaTauri,20.0,18.0,0,Accident,20,96.575,15.276
+2022,Round Australian Grand Prix,1,VER,Red Bull Racing,2.0,18.0,0,Fuel leak,2,78.154,0.286
+2022,Round Azerbaijan Grand Prix,24,ZHO,Alfa Romeo,14.0,18.0,0,Hydraulics,14,103.79,2.431
+2022,Round Emilia Romagna Grand Prix,14,ALO,Alpine,9.0,19.0,0,Collision damage,5,89.202,10.212
+2022,Round Italian Grand Prix,14,ALO,Alpine F1 Team,6.0,19.0,0,Water pressure,10,81.861,1.7
+2022,Round Mexico City Grand Prix,14,ALO,Alpine,9.0,19.0,0,Engine,9,78.939,1.164
+2022,Round Belgian Grand Prix,77,BOT,Alfa Romeo,13.0,19.0,0,Accident,20,107.866,4.201
+2022,Round Dutch Grand Prix,77,BOT,Alfa Romeo,16.0,19.0,0,Engine,16,71.961,1.619
+2022,Round United States Grand Prix,77,BOT,Alfa Romeo,7.0,19.0,0,Spun off,10,96.319,1.963
+2022,Round Austrian Grand Prix,6,LAT,Williams,17.0,19.0,0,Undertray,19,67.003,2.019
+2022,Round Singapore Grand Prix,6,LAT,Williams,19.0,19.0,0,Collision damage,20,117.532,8.12
+2022,Round Qatar Grand Prix,6,LAT,Williams,17.0,19.0,0,Undertray,19,67.003,2.019
+2022,Round Abu Dhabi Grand Prix,6,LAT,Williams,20.0,19.0,0,Collision damage,20,86.054,2.23
+2022,Round Azerbaijan Grand Prix,16,LEC,Ferrari,1.0,19.0,0,Power Unit,1,101.359,0.0
+2022,Round São Paulo Grand Prix,20,MAG,Haas F1 Team,8.0,19.0,0,Collision,1,71.674,0.724
+2022,Round Monaco Grand Prix,47,MSC,Haas F1 Team,15.0,19.0,0,Accident,15,73.081,1.705
+2022,Round Canadian Grand Prix,47,MSC,Haas F1 Team,6.0,19.0,0,Engine,6,83.356,2.057
+2022,Round Miami Grand Prix,4,NOR,McLaren,8.0,19.0,0,Collision,8,89.75,0.954
+2022,Round Chinese Grand Prix,55,SAI,Ferrari,3.0,19.0,0,Accident,3,89.361,0.057
+2022,Round Japanese Grand Prix,55,SAI,Ferrari,3.0,19.0,0,Accident,3,89.361,0.057
+2022,Round Saudi Arabian Grand Prix,22,TSU,AlphaTauri,19.0,19.0,0,Power Unit,20,87.148,1.393
+2022,Round Hungarian Grand Prix,22,TSU,AlphaTauri,16.0,19.0,0,+2 Laps,16,79.24,1.863
+2022,Round Bahrain Grand Prix,1,VER,Red Bull Racing,2.0,19.0,0,Fuel pressure,2,90.681,0.123
+2022,Round Australian Grand Prix,5,VET,Aston Martin,17.0,19.0,0,Accident,18,81.149,3.281
+2022,Round Spanish Grand Prix,24,ZHO,Alfa Romeo,15.0,19.0,0,Power loss,15,81.094,2.344
+2022,Round British Grand Prix,24,ZHO,Alfa Romeo,9.0,19.0,0,Collision,9,102.719,1.736
+2022,Round Las Vegas Grand Prix,24,ZHO,Alfa Romeo,9.0,19.0,0,Collision,9,102.719,1.736
+2022,Round Chinese Grand Prix,23,ALB,Williams,16.0,20.0,0,Hydraulics,16,91.311,2.007
+2022,Round Japanese Grand Prix,23,ALB,Williams,16.0,20.0,0,Hydraulics,16,91.311,2.007
+2022,Round British Grand Prix,23,ALB,Williams,16.0,20.0,0,Collision,16,102.078,1.095
+2022,Round Las Vegas Grand Prix,23,ALB,Williams,16.0,20.0,0,Collision,16,102.078,1.095
+2022,Round Abu Dhabi Grand Prix,14,ALO,Alpine,10.0,20.0,0,Water leak,11,85.096,1.272
+2022,Round Hungarian Grand Prix,77,BOT,Alfa Romeo,8.0,20.0,0,Power Unit,8,78.157,0.78
+2022,Round Bahrain Grand Prix,10,GAS,AlphaTauri,10.0,20.0,0,Power Unit,10,92.338,1.78
+2022,Round Belgian Grand Prix,44,HAM,Mercedes,4.0,20.0,0,Collision damage,7,105.503,1.838
+2022,Round Spanish Grand Prix,16,LEC,Ferrari,1.0,20.0,0,Turbo,1,78.75,0.0
+2022,Round Monaco Grand Prix,20,MAG,Haas F1 Team,13.0,20.0,0,Water pressure,13,72.921,1.545
+2022,Round Canadian Grand Prix,11,PER,Red Bull Racing,13.0,20.0,0,Gearbox,13,93.127,11.828
+2022,Round Austrian Grand Prix,11,PER,Red Bull Racing,5.0,20.0,0,Collision damage,13,66.458,1.474
+2022,Round Qatar Grand Prix,11,PER,Red Bull Racing,5.0,20.0,0,Collision damage,13,66.458,1.474
+2022,Round São Paulo Grand Prix,3,RIC,McLaren,11.0,20.0,0,Collision,14,72.14,1.19
+2022,Round Australian Grand Prix,55,SAI,Ferrari,9.0,20.0,0,Spun off,9,79.408,1.54
+2022,Round Emilia Romagna Grand Prix,55,SAI,Ferrari,4.0,20.0,0,Collision,10,78.99,0.0
+2022,Round Azerbaijan Grand Prix,55,SAI,Ferrari,4.0,20.0,0,Hydraulics,4,101.814,0.455
+2022,Round United States Grand Prix,55,SAI,Ferrari,1.0,20.0,0,Collision damage,1,94.356,0.0
+2022,Round Dutch Grand Prix,22,TSU,AlphaTauri,9.0,20.0,0,Differential,9,72.556,2.214
+2022,Round Mexico City Grand Prix,22,TSU,AlphaTauri,13.0,20.0,0,Collision damage,13,79.589,1.814
+2022,Round Italian Grand Prix,5,VET,Aston Martin,11.0,20.0,0,Engine,17,82.636,2.475
+2022,Round Miami Grand Prix,24,ZHO,Alfa Romeo,17.0,20.0,0,Water leak,17,91.02,2.224
+2022,Round Singapore Grand Prix,24,ZHO,Alfa Romeo,14.0,20.0,0,Collision,15,115.518,6.106
+2023,Round Saudi Arabian Grand Prix,11,PER,Red Bull Racing,1.0,1.0,25,Finished,1,88.265,0.0
+2023,Round Azerbaijan Grand Prix,11,PER,Red Bull Racing,3.0,1.0,25,Finished,3,100.495,0.292
+2023,Round Singapore Grand Prix,55,SAI,Ferrari,1.0,1.0,25,Finished,1,90.984,0.0
+2023,Round Australian Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,76.732,0.0
+2023,Round Chinese Grand Prix,1,VER,Red Bull Racing,1.0,1.0,26,Finished,1,88.877,0.0
+2023,Round Japanese Grand Prix,1,VER,Red Bull Racing,1.0,1.0,26,Finished,1,88.877,0.0
+2023,Round Bahrain Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,89.708,0.0
+2023,Round Miami Grand Prix,1,VER,Red Bull Racing,9.0,1.0,26,Finished,9,86.814,0.0
+2023,Round Emilia Romagna Grand Prix,1,VER,Red Bull Racing,6.0,1.0,25,Finished,1,106.168,0.0
+2023,Round Monaco Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,71.365,0.0
+2023,Round Spanish Grand Prix,1,VER,Red Bull Racing,1.0,1.0,26,Finished,1,72.272,0.0
+2023,Round Canadian Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,85.858,7.133
+2023,Round Austrian Grand Prix,1,VER,Red Bull Racing,1.0,1.0,26,Finished,1,64.391,0.0
+2023,Round British Grand Prix,1,VER,Red Bull Racing,1.0,1.0,26,Finished,1,86.72,0.0
+2023,Round Belgian Grand Prix,1,VER,Red Bull Racing,6.0,1.0,25,Finished,1,106.168,0.0
+2023,Round Hungarian Grand Prix,1,VER,Red Bull Racing,2.0,1.0,26,Finished,2,76.612,0.003
+2023,Round Dutch Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,70.567,0.0
+2023,Round Italian Grand Prix,1,VER,Red Bull Racing,2.0,1.0,25,Finished,2,80.307,0.013
+2023,Round United States Grand Prix,1,VER,Red Bull Racing,6.0,1.0,25,Finished,6,95.081,0.358
+2023,Round Mexico City Grand Prix,1,VER,Red Bull Racing,3.0,1.0,25,Finished,3,77.263,0.097
+2023,Round São Paulo Grand Prix,1,VER,Red Bull Racing,1.0,1.0,25,Finished,1,70.727,0.397
+2023,Round Las Vegas Grand Prix,1,VER,Red Bull Racing,2.0,1.0,25,Finished,3,93.104,0.378
+2023,Round Qatar Grand Prix,1,VER,Red Bull Racing,1.0,1.0,26,Finished,1,83.778,0.0
+2023,Round Abu Dhabi Grand Prix,1,VER,Red Bull Racing,1.0,1.0,26,Finished,1,83.445,0.0
+2023,Round Monaco Grand Prix,14,ALO,Aston Martin,2.0,2.0,18,Finished,2,71.449,0.084
+2023,Round Canadian Grand Prix,14,ALO,Aston Martin,2.0,2.0,18,Finished,3,87.286,8.561
+2023,Round Dutch Grand Prix,14,ALO,Aston Martin,5.0,2.0,19,Finished,5,71.506,0.939
+2023,Round Australian Grand Prix,44,HAM,Mercedes,3.0,2.0,18,Finished,3,77.104,0.372
+2023,Round Spanish Grand Prix,44,HAM,Mercedes,4.0,2.0,18,Finished,5,72.818,0.546
+2023,Round Mexico City Grand Prix,44,HAM,Mercedes,6.0,2.0,19,Finished,6,77.454,0.288
+2023,Round Austrian Grand Prix,16,LEC,Ferrari,2.0,2.0,18,Finished,2,64.439,0.048
+2023,Round Las Vegas Grand Prix,16,LEC,Ferrari,1.0,2.0,18,Finished,1,92.726,0.0
+2023,Round Abu Dhabi Grand Prix,16,LEC,Ferrari,2.0,2.0,18,Finished,2,83.584,0.139
+2023,Round Chinese Grand Prix,4,NOR,McLaren,3.0,2.0,18,Finished,3,89.493,0.616
+2023,Round Japanese Grand Prix,4,NOR,McLaren,3.0,2.0,18,Finished,3,89.493,0.616
+2023,Round British Grand Prix,4,NOR,McLaren,2.0,2.0,18,Finished,2,86.961,0.241
+2023,Round Hungarian Grand Prix,4,NOR,McLaren,3.0,2.0,18,Finished,3,76.694,0.085
+2023,Round Singapore Grand Prix,4,NOR,McLaren,4.0,2.0,18,Finished,4,91.27,0.286
+2023,Round United States Grand Prix,4,NOR,McLaren,2.0,2.0,18,Finished,2,94.853,0.13
+2023,Round São Paulo Grand Prix,4,NOR,McLaren,6.0,2.0,19,Finished,7,71.987,1.657
+2023,Round Bahrain Grand Prix,11,PER,Red Bull Racing,2.0,2.0,18,Finished,2,89.846,0.138
+2023,Round Miami Grand Prix,11,PER,Red Bull Racing,1.0,2.0,18,Finished,1,86.841,0.027
+2023,Round Emilia Romagna Grand Prix,11,PER,Red Bull Racing,2.0,2.0,18,Finished,3,107.045,0.877
+2023,Round Belgian Grand Prix,11,PER,Red Bull Racing,2.0,2.0,18,Finished,3,107.045,0.877
+2023,Round Italian Grand Prix,11,PER,Red Bull Racing,5.0,2.0,18,Finished,5,80.688,0.394
+2023,Round Qatar Grand Prix,81,PIA,McLaren,6.0,2.0,18,Finished,6,84.54,0.762
+2023,Round Saudi Arabian Grand Prix,1,VER,Red Bull Racing,15.0,2.0,19,Finished,15,109.953,21.688
+2023,Round Azerbaijan Grand Prix,1,VER,Red Bull Racing,2.0,2.0,18,Finished,2,100.391,0.188
+2023,Round Australian Grand Prix,14,ALO,Aston Martin,4.0,3.0,15,Finished,4,77.139,0.407
+2023,Round Bahrain Grand Prix,14,ALO,Aston Martin,5.0,3.0,15,Finished,5,90.336,0.628
+2023,Round Saudi Arabian Grand Prix,14,ALO,Aston Martin,2.0,3.0,15,Finished,3,88.73,0.465
+2023,Round Miami Grand Prix,14,ALO,Aston Martin,2.0,3.0,15,Finished,2,87.202,0.388
+2023,Round São Paulo Grand Prix,14,ALO,Aston Martin,4.0,3.0,15,Finished,4,71.387,1.057
+2023,Round Dutch Grand Prix,10,GAS,Alpine,12.0,3.0,15,Finished,12,80.128,9.561
+2023,Round Canadian Grand Prix,44,HAM,Mercedes,3.0,3.0,15,Finished,4,87.627,8.902
+2023,Round British Grand Prix,44,HAM,Mercedes,7.0,3.0,15,Finished,7,87.211,0.491
+2023,Round Singapore Grand Prix,44,HAM,Mercedes,5.0,3.0,16,Finished,5,91.485,0.501
+2023,Round Emilia Romagna Grand Prix,16,LEC,Ferrari,1.0,3.0,15,Finished,2,106.988,0.82
+2023,Round Belgian Grand Prix,16,LEC,Ferrari,1.0,3.0,15,Finished,2,106.988,0.82
+2023,Round Azerbaijan Grand Prix,16,LEC,Ferrari,1.0,3.0,15,Finished,1,100.203,0.0
+2023,Round Mexico City Grand Prix,16,LEC,Ferrari,1.0,3.0,15,Finished,1,77.166,0.0
+2023,Round Qatar Grand Prix,4,NOR,McLaren,10.0,3.0,15,Finished,10,84.685,0.907
+2023,Round Monaco Grand Prix,31,OCO,Alpine,3.0,3.0,15,Finished,4,71.553,0.188
+2023,Round Austrian Grand Prix,11,PER,Red Bull Racing,15.0,3.0,15,Finished,15,126.688,62.297
+2023,Round Hungarian Grand Prix,11,PER,Red Bull Racing,9.0,3.0,15,Finished,9,77.045,0.436
+2023,Round Las Vegas Grand Prix,11,PER,Red Bull Racing,11.0,3.0,15,Finished,12,93.855,1.129
+2023,Round Chinese Grand Prix,81,PIA,McLaren,2.0,3.0,15,Finished,2,89.458,0.581
+2023,Round Japanese Grand Prix,81,PIA,McLaren,2.0,3.0,15,Finished,2,89.458,0.581
+2023,Round Spanish Grand Prix,63,RUS,Mercedes,12.0,3.0,15,Finished,12,73.447,1.175
+2023,Round Abu Dhabi Grand Prix,63,RUS,Mercedes,4.0,3.0,15,Finished,4,83.788,0.343
+2023,Round Italian Grand Prix,55,SAI,Ferrari,1.0,3.0,15,Finished,1,80.294,0.0
+2023,Round United States Grand Prix,55,SAI,Ferrari,4.0,3.0,15,Finished,4,94.945,0.222
+2023,Round Azerbaijan Grand Prix,14,ALO,Aston Martin,6.0,4.0,12,Finished,6,101.253,1.05
+2023,Round Emilia Romagna Grand Prix,44,HAM,Mercedes,3.0,4.0,13,Finished,4,107.087,0.919
+2023,Round Monaco Grand Prix,44,HAM,Mercedes,5.0,4.0,13,Finished,6,71.725,0.36
+2023,Round Belgian Grand Prix,44,HAM,Mercedes,3.0,4.0,13,Finished,4,107.087,0.919
+2023,Round Hungarian Grand Prix,44,HAM,Mercedes,1.0,4.0,12,Finished,1,76.609,0.0
+2023,Round Chinese Grand Prix,16,LEC,Ferrari,4.0,4.0,12,Finished,4,89.542,0.665
+2023,Round Japanese Grand Prix,16,LEC,Ferrari,4.0,4.0,12,Finished,4,89.542,0.665
+2023,Round Canadian Grand Prix,16,LEC,Ferrari,10.0,4.0,12,Finished,11,80.615,1.89
+2023,Round Italian Grand Prix,16,LEC,Ferrari,3.0,4.0,12,Finished,3,80.361,0.067
+2023,Round Singapore Grand Prix,16,LEC,Ferrari,3.0,4.0,12,Finished,3,91.063,0.079
+2023,Round Austrian Grand Prix,4,NOR,McLaren,4.0,4.0,12,Finished,4,64.658,0.267
+2023,Round Las Vegas Grand Prix,31,OCO,Alpine,16.0,4.0,12,Finished,17,94.834,2.108
+2023,Round Spanish Grand Prix,11,PER,Red Bull Racing,11.0,4.0,12,Finished,11,73.334,1.062
+2023,Round Dutch Grand Prix,11,PER,Red Bull Racing,7.0,4.0,12,Finished,7,71.88,1.313
+2023,Round United States Grand Prix,11,PER,Red Bull Racing,9.0,4.0,12,Finished,9,95.173,0.45
+2023,Round São Paulo Grand Prix,11,PER,Red Bull Racing,9.0,4.0,12,Finished,9,72.321,1.991
+2023,Round Abu Dhabi Grand Prix,11,PER,Red Bull Racing,9.0,4.0,12,Finished,9,84.171,0.726
+2023,Round British Grand Prix,81,PIA,McLaren,3.0,4.0,12,Finished,3,87.092,0.372
+2023,Round Saudi Arabian Grand Prix,63,RUS,Mercedes,3.0,4.0,12,Finished,4,88.857,0.592
+2023,Round Miami Grand Prix,63,RUS,Mercedes,6.0,4.0,12,Finished,6,87.804,0.99
+2023,Round Qatar Grand Prix,63,RUS,Mercedes,2.0,4.0,12,Finished,2,84.219,0.441
+2023,Round Bahrain Grand Prix,55,SAI,Ferrari,4.0,4.0,12,Finished,4,90.154,0.446
+2023,Round Mexico City Grand Prix,55,SAI,Ferrari,2.0,4.0,12,Finished,2,77.233,0.067
+2023,Round Australian Grand Prix,18,STR,Aston Martin,6.0,4.0,12,Finished,6,77.308,0.576
+2023,Round Emilia Romagna Grand Prix,14,ALO,Aston Martin,9.0,5.0,10,Finished,9,107.843,1.675
+2023,Round Austrian Grand Prix,14,ALO,Aston Martin,7.0,5.0,10,Finished,7,64.911,0.52
+2023,Round Belgian Grand Prix,14,ALO,Aston Martin,9.0,5.0,10,Finished,9,107.843,1.675
+2023,Round Chinese Grand Prix,44,HAM,Mercedes,7.0,5.0,10,Finished,7,89.908,1.031
+2023,Round Japanese Grand Prix,44,HAM,Mercedes,7.0,5.0,10,Finished,7,89.908,1.031
+2023,Round Bahrain Grand Prix,44,HAM,Mercedes,7.0,5.0,10,Finished,7,90.384,0.676
+2023,Round Saudi Arabian Grand Prix,44,HAM,Mercedes,7.0,5.0,10,Finished,8,89.223,0.958
+2023,Round Qatar Grand Prix,16,LEC,Ferrari,5.0,5.0,10,Finished,5,84.424,0.646
+2023,Round Mexico City Grand Prix,4,NOR,McLaren,17.0,5.0,10,Finished,19,81.554,4.388
+2023,Round Abu Dhabi Grand Prix,4,NOR,McLaren,5.0,5.0,10,Finished,5,83.816,0.371
+2023,Round Australian Grand Prix,11,PER,Red Bull Racing,20.0,5.0,11,Finished,20,87.148,1.393
+2023,Round Hungarian Grand Prix,81,PIA,McLaren,4.0,5.0,10,Finished,4,76.905,0.296
+2023,Round Monaco Grand Prix,63,RUS,Mercedes,8.0,5.0,10,Finished,8,71.964,0.599
+2023,Round British Grand Prix,63,RUS,Mercedes,6.0,5.0,10,Finished,6,87.155,0.435
+2023,Round Italian Grand Prix,63,RUS,Mercedes,4.0,5.0,10,Finished,4,80.671,0.377
+2023,Round United States Grand Prix,63,RUS,Mercedes,5.0,5.0,10,Finished,5,95.079,0.356
+2023,Round Miami Grand Prix,55,SAI,Ferrari,3.0,5.0,10,Finished,3,87.349,0.535
+2023,Round Spanish Grand Prix,55,SAI,Ferrari,2.0,5.0,10,Finished,2,72.734,0.462
+2023,Round Canadian Grand Prix,55,SAI,Ferrari,11.0,5.0,10,Finished,8,89.294,10.569
+2023,Round Dutch Grand Prix,55,SAI,Ferrari,6.0,5.0,10,Finished,6,71.754,1.187
+2023,Round Azerbaijan Grand Prix,55,SAI,Ferrari,4.0,5.0,10,Finished,4,101.016,0.813
+2023,Round São Paulo Grand Prix,18,STR,Aston Martin,3.0,5.0,10,Finished,3,71.344,1.014
+2023,Round Las Vegas Grand Prix,18,STR,Aston Martin,19.0,5.0,10,Finished,14,94.199,1.473
+2023,Round Singapore Grand Prix,1,VER,Red Bull Racing,11.0,5.0,10,Finished,11,92.173,1.189
+2023,Round Qatar Grand Prix,14,ALO,Aston Martin,4.0,6.0,8,Finished,4,84.369,0.591
+2023,Round Singapore Grand Prix,10,GAS,Alpine,12.0,6.0,8,Finished,12,92.274,1.29
+2023,Round United States Grand Prix,10,GAS,Alpine,7.0,6.0,8,Finished,7,95.089,0.366
+2023,Round Miami Grand Prix,44,HAM,Mercedes,13.0,6.0,8,Finished,13,87.975,1.161
+2023,Round Dutch Grand Prix,44,HAM,Mercedes,13.0,6.0,8,Finished,13,80.151,9.584
+2023,Round Italian Grand Prix,44,HAM,Mercedes,8.0,6.0,8,Finished,8,80.82,0.526
+2023,Round Azerbaijan Grand Prix,44,HAM,Mercedes,5.0,6.0,8,Finished,5,101.177,0.974
+2023,Round Monaco Grand Prix,16,LEC,Ferrari,6.0,6.0,8,Finished,3,71.471,0.106
+2023,Round Australian Grand Prix,4,NOR,McLaren,13.0,6.0,8,Finished,13,78.119,1.387
+2023,Round Canadian Grand Prix,11,PER,Red Bull Racing,12.0,6.0,9,Finished,12,80.959,2.234
+2023,Round British Grand Prix,11,PER,Red Bull Racing,15.0,6.0,8,Finished,15,89.968,3.248
+2023,Round Abu Dhabi Grand Prix,81,PIA,McLaren,3.0,6.0,8,Finished,3,83.782,0.337
+2023,Round Emilia Romagna Grand Prix,63,RUS,Mercedes,8.0,6.0,8,Finished,8,107.805,1.637
+2023,Round Belgian Grand Prix,63,RUS,Mercedes,8.0,6.0,8,Finished,8,107.805,1.637
+2023,Round Hungarian Grand Prix,63,RUS,Mercedes,18.0,6.0,8,Finished,18,79.027,2.418
+2023,Round Mexico City Grand Prix,63,RUS,Mercedes,8.0,6.0,8,Finished,8,77.674,0.508
+2023,Round Chinese Grand Prix,55,SAI,Ferrari,6.0,6.0,8,Finished,6,89.85,0.973
+2023,Round Japanese Grand Prix,55,SAI,Ferrari,6.0,6.0,8,Finished,6,89.85,0.973
+2023,Round Saudi Arabian Grand Prix,55,SAI,Ferrari,4.0,6.0,8,Finished,5,88.931,0.666
+2023,Round Austrian Grand Prix,55,SAI,Ferrari,3.0,6.0,8,Finished,3,64.581,0.19
+2023,Round São Paulo Grand Prix,55,SAI,Ferrari,7.0,6.0,8,Finished,8,71.989,1.659
+2023,Round Las Vegas Grand Prix,55,SAI,Ferrari,12.0,6.0,8,Finished,2,92.77,0.044
+2023,Round Bahrain Grand Prix,18,STR,Aston Martin,8.0,6.0,8,Finished,8,90.836,1.128
+2023,Round Spanish Grand Prix,18,STR,Aston Martin,5.0,6.0,8,Finished,6,72.994,0.722
+2023,Round Canadian Grand Prix,23,ALB,Williams,9.0,7.0,6,Finished,10,78.725,0.0
+2023,Round Italian Grand Prix,23,ALB,Williams,6.0,7.0,6,Finished,6,80.76,0.466
+2023,Round Spanish Grand Prix,14,ALO,Aston Martin,8.0,7.0,6,Finished,9,73.507,1.235
+2023,Round British Grand Prix,14,ALO,Aston Martin,9.0,7.0,6,Finished,9,87.659,0.939
+2023,Round Abu Dhabi Grand Prix,14,ALO,Aston Martin,7.0,7.0,6,Finished,7,84.084,0.639
+2023,Round Monaco Grand Prix,10,GAS,Alpine,7.0,7.0,6,Finished,7,71.933,0.568
+2023,Round São Paulo Grand Prix,10,GAS,Alpine,15.0,7.0,6,Finished,13,70.567,0.237
+2023,Round Las Vegas Grand Prix,44,HAM,Mercedes,10.0,7.0,6,Finished,11,93.837,1.111
+2023,Round Australian Grand Prix,27,HUL,Haas F1 Team,10.0,7.0,6,Finished,10,77.735,1.003
+2023,Round Saudi Arabian Grand Prix,16,LEC,Ferrari,12.0,7.0,6,Finished,2,88.42,0.155
+2023,Round Miami Grand Prix,16,LEC,Ferrari,7.0,7.0,6,Finished,7,87.861,1.047
+2023,Round Hungarian Grand Prix,16,LEC,Ferrari,6.0,7.0,6,Finished,6,76.992,0.383
+2023,Round Emilia Romagna Grand Prix,4,NOR,McLaren,7.0,7.0,6,Finished,7,107.669,1.501
+2023,Round Belgian Grand Prix,4,NOR,McLaren,7.0,7.0,6,Finished,7,107.669,1.501
+2023,Round Dutch Grand Prix,4,NOR,McLaren,2.0,7.0,6,Finished,2,71.104,0.537
+2023,Round Qatar Grand Prix,31,OCO,Alpine,8.0,7.0,6,Finished,8,84.763,0.985
+2023,Round Singapore Grand Prix,81,PIA,McLaren,17.0,7.0,6,Finished,17,92.902,1.918
+2023,Round Mexico City Grand Prix,3,RIC,AlphaTauri,4.0,7.0,6,Finished,4,77.382,0.216
+2023,Round Chinese Grand Prix,63,RUS,Mercedes,8.0,7.0,6,Finished,8,90.219,1.342
+2023,Round Japanese Grand Prix,63,RUS,Mercedes,8.0,7.0,6,Finished,8,90.219,1.342
+2023,Round Bahrain Grand Prix,63,RUS,Mercedes,6.0,7.0,6,Finished,6,90.34,0.632
+2023,Round Austrian Grand Prix,63,RUS,Mercedes,11.0,7.0,6,Finished,11,65.428,1.037
+2023,Round Azerbaijan Grand Prix,18,STR,Aston Martin,9.0,7.0,6,Finished,9,101.611,1.408
+2023,Round United States Grand Prix,18,STR,Aston Martin,20.0,7.0,6,Finished,19,96.589,1.866
+2023,Round British Grand Prix,23,ALB,Williams,8.0,8.0,4,Finished,8,87.53,0.81
+2023,Round Dutch Grand Prix,23,ALB,Williams,4.0,8.0,4,Finished,4,71.419,0.852
+2023,Round Chinese Grand Prix,14,ALO,Aston Martin,10.0,8.0,4,Finished,10,90.56,1.683
+2023,Round Japanese Grand Prix,14,ALO,Aston Martin,10.0,8.0,4,Finished,10,90.56,1.683
+2023,Round Bahrain Grand Prix,77,BOT,Alfa Romeo,12.0,8.0,4,Finished,12,91.443,1.735
+2023,Round Qatar Grand Prix,77,BOT,Alfa Romeo,9.0,8.0,4,Finished,9,85.058,1.28
+2023,Round Miami Grand Prix,10,GAS,Alpine,5.0,8.0,4,Finished,5,87.786,0.972
+2023,Round Austrian Grand Prix,44,HAM,Mercedes,5.0,8.0,4,Finished,5,64.819,0.428
+2023,Round São Paulo Grand Prix,44,HAM,Mercedes,5.0,8.0,4,Finished,5,71.469,1.139
+2023,Round Italian Grand Prix,4,NOR,McLaren,9.0,8.0,4,Finished,9,80.979,0.685
+2023,Round Saudi Arabian Grand Prix,31,OCO,Alpine,6.0,8.0,4,Finished,7,89.078,0.813
+2023,Round Emilia Romagna Grand Prix,31,OCO,Alpine,14.0,8.0,4,Finished,15,116.372,10.204
+2023,Round Spanish Grand Prix,31,OCO,Alpine,6.0,8.0,4,Finished,7,73.083,0.811
+2023,Round Canadian Grand Prix,31,OCO,Alpine,6.0,8.0,4,Finished,6,87.945,9.22
+2023,Round Belgian Grand Prix,31,OCO,Alpine,14.0,8.0,4,Finished,15,116.372,10.204
+2023,Round Singapore Grand Prix,11,PER,Red Bull Racing,13.0,8.0,4,Finished,13,92.31,1.326
+2023,Round Australian Grand Prix,81,PIA,McLaren,16.0,8.0,4,Finished,16,78.517,1.785
+2023,Round Mexico City Grand Prix,81,PIA,McLaren,7.0,8.0,4,Finished,7,77.623,0.457
+2023,Round Azerbaijan Grand Prix,63,RUS,Mercedes,11.0,8.0,5,Finished,11,101.654,1.451
+2023,Round Las Vegas Grand Prix,63,RUS,Mercedes,3.0,8.0,4,Finished,4,93.112,0.386
+2023,Round Monaco Grand Prix,55,SAI,Ferrari,4.0,8.0,4,Finished,5,71.63,0.265
+2023,Round Hungarian Grand Prix,55,SAI,Ferrari,11.0,8.0,4,Finished,11,77.703,1.094
+2023,Round United States Grand Prix,22,TSU,AlphaTauri,11.0,8.0,5,Finished,11,95.697,0.974
+2023,Round Abu Dhabi Grand Prix,22,TSU,AlphaTauri,6.0,8.0,4,Finished,6,83.968,0.523
+2023,Round United States Grand Prix,23,ALB,Williams,15.0,9.0,2,Finished,18,96.315,1.592
+2023,Round Mexico City Grand Prix,23,ALB,Williams,14.0,9.0,2,Finished,14,79.147,1.981
+2023,Round Hungarian Grand Prix,14,ALO,Aston Martin,8.0,9.0,2,Finished,8,77.035,0.426
+2023,Round Italian Grand Prix,14,ALO,Aston Martin,10.0,9.0,2,Finished,10,81.417,1.123
+2023,Round Las Vegas Grand Prix,14,ALO,Aston Martin,9.0,9.0,2,Finished,10,93.555,0.829
+2023,Round Bahrain Grand Prix,10,GAS,Alpine,20.0,9.0,2,Finished,20,92.181,2.473
+2023,Round Saudi Arabian Grand Prix,10,GAS,Alpine,9.0,9.0,2,Finished,10,89.357,1.092
+2023,Round Abu Dhabi Grand Prix,44,HAM,Mercedes,11.0,9.0,2,Finished,11,84.359,0.914
+2023,Round Singapore Grand Prix,40,LAW,AlphaTauri,10.0,9.0,2,Finished,10,92.268,1.284
+2023,Round British Grand Prix,16,LEC,Ferrari,4.0,9.0,2,Finished,4,87.136,0.416
+2023,Round Monaco Grand Prix,4,NOR,McLaren,10.0,9.0,2,Lapped,10,72.254,0.889
+2023,Round Azerbaijan Grand Prix,4,NOR,McLaren,7.0,9.0,2,Finished,7,101.281,1.078
+2023,Round Chinese Grand Prix,31,OCO,Alpine,14.0,9.0,2,Finished,14,90.586,1.709
+2023,Round Japanese Grand Prix,31,OCO,Alpine,14.0,9.0,2,Finished,14,90.586,1.709
+2023,Round Miami Grand Prix,31,OCO,Alpine,8.0,9.0,2,Finished,8,87.935,1.121
+2023,Round Dutch Grand Prix,81,PIA,McLaren,8.0,9.0,2,Finished,8,71.938,1.371
+2023,Round Emilia Romagna Grand Prix,18,STR,Aston Martin,10.0,9.0,2,Finished,10,108.841,2.673
+2023,Round Canadian Grand Prix,18,STR,Aston Martin,16.0,9.0,2,Finished,13,81.484,2.759
+2023,Round Austrian Grand Prix,18,STR,Aston Martin,6.0,9.0,2,Finished,6,64.893,0.502
+2023,Round Belgian Grand Prix,18,STR,Aston Martin,10.0,9.0,2,Finished,10,108.841,2.673
+2023,Round São Paulo Grand Prix,22,TSU,AlphaTauri,16.0,9.0,2,Finished,16,70.837,0.507
+2023,Round Australian Grand Prix,24,ZHO,Alfa Romeo,17.0,9.0,2,Finished,17,78.54,1.808
+2023,Round Spanish Grand Prix,24,ZHO,Alfa Romeo,13.0,9.0,2,Finished,13,73.521,1.249
+2023,Round Qatar Grand Prix,24,ZHO,Alfa Romeo,19.0,9.0,2,Finished,20,87.432,3.654
+2023,Round Bahrain Grand Prix,23,ALB,Williams,15.0,10.0,1,Finished,15,91.461,1.753
+2023,Round Canadian Grand Prix,77,BOT,Alfa Romeo,14.0,10.0,1,Finished,15,81.821,3.096
+2023,Round Italian Grand Prix,77,BOT,Alfa Romeo,14.0,10.0,1,Finished,14,81.94,1.646
+2023,Round Chinese Grand Prix,10,GAS,Alpine,12.0,10.0,1,Finished,12,90.509,1.632
+2023,Round Japanese Grand Prix,10,GAS,Alpine,12.0,10.0,1,Finished,12,90.509,1.632
+2023,Round Spanish Grand Prix,10,GAS,Alpine,10.0,10.0,1,Finished,4,72.816,0.544
+2023,Round Austrian Grand Prix,10,GAS,Alpine,9.0,10.0,1,Finished,9,65.17,0.779
+2023,Round Saudi Arabian Grand Prix,20,MAG,Haas F1 Team,13.0,10.0,1,Finished,13,89.634,1.369
+2023,Round Miami Grand Prix,20,MAG,Haas F1 Team,4.0,10.0,1,Finished,4,87.767,0.953
+2023,Round Singapore Grand Prix,20,MAG,Haas F1 Team,6.0,10.0,1,Finished,6,91.575,0.591
+2023,Round Dutch Grand Prix,31,OCO,Alpine,16.0,10.0,1,Finished,17,82.11,11.543
+2023,Round Mexico City Grand Prix,31,OCO,Alpine,15.0,10.0,1,Finished,16,79.08,1.914
+2023,Round São Paulo Grand Prix,31,OCO,Alpine,14.0,10.0,1,Lapped,12,70.562,0.232
+2023,Round Qatar Grand Prix,11,PER,Red Bull Racing,20.0,10.0,1,Finished,13,85.462,1.684
+2023,Round Monaco Grand Prix,81,PIA,McLaren,11.0,10.0,1,Lapped,11,72.395,1.03
+2023,Round Las Vegas Grand Prix,81,PIA,McLaren,18.0,10.0,2,Finished,19,94.85,2.124
+2023,Round British Grand Prix,55,SAI,Ferrari,5.0,10.0,1,Finished,5,87.148,0.428
+2023,Round United States Grand Prix,2,SAR,Williams,16.0,10.0,1,Finished,20,96.827,2.104
+2023,Round Hungarian Grand Prix,18,STR,Aston Martin,14.0,10.0,1,Lapped,14,78.144,1.535
+2023,Round Abu Dhabi Grand Prix,18,STR,Aston Martin,13.0,10.0,1,Finished,13,84.422,0.977
+2023,Round Australian Grand Prix,22,TSU,AlphaTauri,12.0,10.0,1,Finished,12,78.099,1.367
+2023,Round Emilia Romagna Grand Prix,22,TSU,AlphaTauri,11.0,10.0,1,Finished,11,113.148,6.98
+2023,Round Belgian Grand Prix,22,TSU,AlphaTauri,11.0,10.0,1,Finished,11,113.148,6.98
+2023,Round Azerbaijan Grand Prix,22,TSU,AlphaTauri,8.0,10.0,1,Finished,8,101.581,1.378
+2023,Round Austrian Grand Prix,23,ALB,Williams,10.0,11.0,0,Finished,10,65.823,1.432
+2023,Round Hungarian Grand Prix,23,ALB,Williams,16.0,11.0,0,Lapped,16,78.917,2.308
+2023,Round Singapore Grand Prix,23,ALB,Williams,14.0,11.0,0,Finished,14,93.719,2.735
+2023,Round Australian Grand Prix,77,BOT,Alfa Romeo,19.0,11.0,0,Finished,19,78.714,1.982
+2023,Round Monaco Grand Prix,77,BOT,Alfa Romeo,15.0,11.0,0,Lapped,15,72.625,1.26
+2023,Round Emilia Romagna Grand Prix,10,GAS,Alpine,12.0,11.0,0,Finished,12,113.671,7.503
+2023,Round Belgian Grand Prix,10,GAS,Alpine,12.0,11.0,0,Finished,12,113.671,7.503
+2023,Round Mexico City Grand Prix,10,GAS,Alpine,11.0,11.0,0,Finished,11,78.521,1.355
+2023,Round Las Vegas Grand Prix,10,GAS,Alpine,4.0,11.0,0,Finished,5,93.239,0.513
+2023,Round United States Grand Prix,27,HUL,Haas F1 Team,18.0,11.0,0,Finished,16,96.235,1.512
+2023,Round Chinese Grand Prix,40,LAW,AlphaTauri,11.0,11.0,0,Lapped,11,90.508,1.631
+2023,Round Japanese Grand Prix,40,LAW,AlphaTauri,11.0,11.0,0,Lapped,11,90.508,1.631
+2023,Round Italian Grand Prix,40,LAW,AlphaTauri,12.0,11.0,0,Finished,12,81.758,1.464
+2023,Round Spanish Grand Prix,16,LEC,Ferrari,19.0,11.0,0,Finished,19,74.079,1.807
+2023,Round Canadian Grand Prix,81,PIA,McLaren,8.0,11.0,0,Finished,9,91.349,12.624
+2023,Round Azerbaijan Grand Prix,81,PIA,McLaren,10.0,11.0,0,Finished,10,101.611,1.408
+2023,Round Abu Dhabi Grand Prix,3,RIC,AlphaTauri,15.0,11.0,0,Finished,15,84.442,0.997
+2023,Round British Grand Prix,2,SAR,Williams,14.0,11.0,0,Finished,14,89.031,2.311
+2023,Round São Paulo Grand Prix,2,SAR,Williams,19.0,11.0,0,Lapped,19,71.035,0.705
+2023,Round Dutch Grand Prix,18,STR,Aston Martin,11.0,11.0,0,Finished,11,80.121,9.554
+2023,Round Qatar Grand Prix,18,STR,Aston Martin,16.0,11.0,0,Finished,17,86.345,2.567
+2023,Round Bahrain Grand Prix,22,TSU,AlphaTauri,14.0,11.0,0,Finished,14,92.51,2.802
+2023,Round Saudi Arabian Grand Prix,22,TSU,AlphaTauri,16.0,11.0,0,Finished,16,89.939,1.674
+2023,Round Miami Grand Prix,22,TSU,AlphaTauri,17.0,11.0,0,Finished,17,88.429,1.615
+2023,Round Azerbaijan Grand Prix,23,ALB,Williams,12.0,12.0,0,Finished,13,101.818,1.615
+2023,Round Las Vegas Grand Prix,23,ALB,Williams,5.0,12.0,0,Finished,6,93.323,0.597
+2023,Round Emilia Romagna Grand Prix,77,BOT,Alfa Romeo,13.0,12.0,0,Finished,14,114.694,8.526
+2023,Round British Grand Prix,77,BOT,Alfa Romeo,20.0,12.0,0,Finished,15,89.798,3.078
+2023,Round Belgian Grand Prix,77,BOT,Alfa Romeo,13.0,12.0,0,Finished,14,114.694,8.526
+2023,Round Hungarian Grand Prix,77,BOT,Alfa Romeo,7.0,12.0,0,Lapped,7,77.034,0.425
+2023,Round United States Grand Prix,77,BOT,Alfa Romeo,13.0,12.0,0,Finished,13,95.858,1.135
+2023,Round Monaco Grand Prix,21,DEV,AlphaTauri,12.0,12.0,0,Lapped,12,72.428,1.063
+2023,Round Canadian Grand Prix,10,GAS,Alpine,15.0,12.0,0,Finished,17,82.886,4.161
+2023,Round Qatar Grand Prix,10,GAS,Alpine,7.0,12.0,0,Finished,7,84.553,0.775
+2023,Round Saudi Arabian Grand Prix,27,HUL,Haas F1 Team,10.0,12.0,0,Finished,11,89.451,1.186
+2023,Round Dutch Grand Prix,27,HUL,Haas F1 Team,14.0,12.0,0,Finished,15,80.25,9.683
+2023,Round São Paulo Grand Prix,27,HUL,Haas F1 Team,11.0,12.0,0,Lapped,11,70.547,0.217
+2023,Round Abu Dhabi Grand Prix,31,OCO,Alpine,12.0,12.0,0,Finished,12,84.391,0.946
+2023,Round Italian Grand Prix,81,PIA,McLaren,7.0,12.0,0,Finished,7,80.785,0.491
+2023,Round Australian Grand Prix,55,SAI,Ferrari,5.0,12.0,0,Finished,5,77.27,0.538
+2023,Round Bahrain Grand Prix,2,SAR,Williams,16.0,12.0,0,Lapped,16,91.652,1.944
+2023,Round Miami Grand Prix,18,STR,Aston Martin,18.0,12.0,0,Finished,18,88.476,1.662
+2023,Round Chinese Grand Prix,22,TSU,AlphaTauri,9.0,12.0,0,Lapped,9,90.303,1.426
+2023,Round Japanese Grand Prix,22,TSU,AlphaTauri,9.0,12.0,0,Lapped,9,90.303,1.426
+2023,Round Spanish Grand Prix,22,TSU,AlphaTauri,15.0,12.0,0,Finished,15,74.477,2.205
+2023,Round Mexico City Grand Prix,22,TSU,AlphaTauri,18.0,12.0,0,Finished,15,78.89,1.724
+2023,Round Austrian Grand Prix,24,ZHO,Alfa Romeo,17.0,12.0,0,Lapped,17,65.818,1.427
+2023,Round Singapore Grand Prix,24,ZHO,Alfa Romeo,19.0,12.0,0,Finished,19,93.258,2.274
+2023,Round Qatar Grand Prix,23,ALB,Williams,13.0,13.0,0,Finished,14,85.707,1.929
+2023,Round Miami Grand Prix,77,BOT,Alfa Romeo,10.0,13.0,0,Finished,10,87.564,0.75
+2023,Round Australian Grand Prix,10,GAS,Alpine,9.0,13.0,0,Finished,9,77.675,0.943
+2023,Round Abu Dhabi Grand Prix,10,GAS,Alpine,10.0,13.0,0,Finished,10,84.548,1.103
+2023,Round British Grand Prix,27,HUL,Haas F1 Team,11.0,13.0,0,Finished,11,88.896,2.176
+2023,Round Singapore Grand Prix,27,HUL,Haas F1 Team,9.0,13.0,0,Finished,9,91.808,0.824
+2023,Round Mexico City Grand Prix,27,HUL,Haas F1 Team,12.0,13.0,0,Finished,12,78.524,1.358
+2023,Round Dutch Grand Prix,40,LAW,AlphaTauri,19.0,13.0,0,Finished,20,83.42,12.853
+2023,Round Bahrain Grand Prix,20,MAG,Haas F1 Team,17.0,13.0,0,Lapped,17,91.892,2.184
+2023,Round Azerbaijan Grand Prix,20,MAG,Haas F1 Team,16.0,13.0,0,Finished,18,103.417,3.214
+2023,Round Las Vegas Grand Prix,20,MAG,Haas F1 Team,8.0,13.0,0,Finished,9,93.537,0.811
+2023,Round Canadian Grand Prix,4,NOR,McLaren,7.0,13.0,0,Finished,7,88.046,9.321
+2023,Round Spanish Grand Prix,81,PIA,McLaren,9.0,13.0,0,Lapped,10,73.682,1.41
+2023,Round Hungarian Grand Prix,3,RIC,AlphaTauri,13.0,13.0,0,Lapped,13,78.002,1.393
+2023,Round São Paulo Grand Prix,3,RIC,AlphaTauri,17.0,13.0,0,Lapped,17,70.843,0.513
+2023,Round Austrian Grand Prix,2,SAR,Williams,18.0,13.0,0,Lapped,18,65.948,1.557
+2023,Round Italian Grand Prix,2,SAR,Williams,15.0,13.0,0,Finished,15,81.944,1.65
+2023,Round Chinese Grand Prix,24,ZHO,Alfa Romeo,19.0,13.0,0,Lapped,19,91.398,2.521
+2023,Round Japanese Grand Prix,24,ZHO,Alfa Romeo,19.0,13.0,0,Lapped,19,91.398,2.521
+2023,Round Saudi Arabian Grand Prix,24,ZHO,Alfa Romeo,11.0,13.0,0,Finished,12,89.461,1.196
+2023,Round Emilia Romagna Grand Prix,24,ZHO,Alfa Romeo,17.0,13.0,0,Finished,17,120.832,14.664
+2023,Round Monaco Grand Prix,24,ZHO,Alfa Romeo,19.0,13.0,0,Lapped,19,73.523,2.158
+2023,Round Belgian Grand Prix,24,ZHO,Alfa Romeo,17.0,13.0,0,Finished,17,120.832,14.664
+2023,Round United States Grand Prix,24,ZHO,Alfa Romeo,12.0,13.0,0,Lapped,12,95.698,0.975
+2023,Round Miami Grand Prix,23,ALB,Williams,11.0,14.0,0,Finished,11,87.795,0.981
+2023,Round Emilia Romagna Grand Prix,23,ALB,Williams,15.0,14.0,0,Finished,16,120.314,14.146
+2023,Round Monaco Grand Prix,23,ALB,Williams,13.0,14.0,0,Lapped,13,72.527,1.162
+2023,Round Belgian Grand Prix,23,ALB,Williams,15.0,14.0,0,Finished,16,120.314,14.146
+2023,Round Abu Dhabi Grand Prix,23,ALB,Williams,14.0,14.0,0,Finished,14,84.439,0.994
+2023,Round Dutch Grand Prix,77,BOT,Alfa Romeo,18.0,14.0,0,Finished,19,82.26,11.693
+2023,Round Bahrain Grand Prix,21,DEV,AlphaTauri,19.0,14.0,0,Lapped,19,92.121,2.413
+2023,Round Saudi Arabian Grand Prix,21,DEV,AlphaTauri,18.0,14.0,0,Finished,18,90.244,1.979
+2023,Round Spanish Grand Prix,21,DEV,AlphaTauri,14.0,14.0,0,Lapped,14,74.083,1.811
+2023,Round Azerbaijan Grand Prix,10,GAS,Alpine,17.0,14.0,0,Finished,19,104.853,4.65
+2023,Round Chinese Grand Prix,27,HUL,Haas F1 Team,18.0,14.0,0,Lapped,18,91.299,2.422
+2023,Round Japanese Grand Prix,27,HUL,Haas F1 Team,18.0,14.0,0,Lapped,18,91.299,2.422
+2023,Round Hungarian Grand Prix,27,HUL,Haas F1 Team,10.0,14.0,0,Lapped,10,77.186,0.577
+2023,Round United States Grand Prix,20,MAG,Haas F1 Team,17.0,14.0,0,Lapped,14,95.88,1.157
+2023,Round Qatar Grand Prix,20,MAG,Haas F1 Team,18.0,14.0,0,Lapped,19,87.046,3.268
+2023,Round Australian Grand Prix,31,OCO,Alpine,11.0,14.0,0,Finished,11,77.768,1.036
+2023,Round Austrian Grand Prix,31,OCO,Alpine,12.0,14.0,0,Lapped,12,65.453,1.062
+2023,Round São Paulo Grand Prix,81,PIA,McLaren,10.0,14.0,0,Lapped,10,70.33,0.0
+2023,Round Las Vegas Grand Prix,3,RIC,AlphaTauri,14.0,14.0,0,Finished,15,94.308,1.582
+2023,Round Singapore Grand Prix,2,SAR,Williams,18.0,14.0,0,Finished,18,93.252,2.268
+2023,Round British Grand Prix,18,STR,Aston Martin,12.0,14.0,0,Finished,12,88.935,2.215
+2023,Round Canadian Grand Prix,22,TSU,AlphaTauri,19.0,14.0,0,Finished,16,82.746,4.021
+2023,Round Italian Grand Prix,24,ZHO,Alfa Romeo,16.0,14.0,0,Finished,16,82.39,2.096
+2023,Round Mexico City Grand Prix,24,ZHO,Alfa Romeo,10.0,14.0,0,Finished,10,78.05,0.884
+2023,Round Singapore Grand Prix,14,ALO,Aston Martin,7.0,15.0,0,Finished,7,91.615,0.631
+2023,Round Austrian Grand Prix,77,BOT,Alfa Romeo,14.0,15.0,0,Lapped,14,65.68,1.289
+2023,Round Mexico City Grand Prix,77,BOT,Alfa Romeo,9.0,15.0,0,Finished,9,78.032,0.866
+2023,Round Australian Grand Prix,21,DEV,AlphaTauri,15.0,15.0,0,Finished,15,78.335,1.603
+2023,Round Italian Grand Prix,10,GAS,Alpine,17.0,15.0,0,Finished,17,82.545,2.251
+2023,Round Bahrain Grand Prix,27,HUL,Haas F1 Team,10.0,15.0,0,Lapped,10,90.809,1.101
+2023,Round Miami Grand Prix,27,HUL,Haas F1 Team,12.0,15.0,0,Finished,12,87.903,1.089
+2023,Round Spanish Grand Prix,27,HUL,Haas F1 Team,7.0,15.0,0,Lapped,8,73.229,0.957
+2023,Round Canadian Grand Prix,27,HUL,Haas F1 Team,5.0,15.0,0,Lapped,2,87.102,8.377
+2023,Round Abu Dhabi Grand Prix,27,HUL,Haas F1 Team,8.0,15.0,0,Finished,8,84.108,0.663
+2023,Round Chinese Grand Prix,20,MAG,Haas F1 Team,15.0,15.0,0,Lapped,15,90.665,1.788
+2023,Round Japanese Grand Prix,20,MAG,Haas F1 Team,15.0,15.0,0,Lapped,15,90.665,1.788
+2023,Round Emilia Romagna Grand Prix,20,MAG,Haas F1 Team,16.0,15.0,0,Finished,13,114.16,7.992
+2023,Round Belgian Grand Prix,20,MAG,Haas F1 Team,16.0,15.0,0,Finished,13,114.16,7.992
+2023,Round Azerbaijan Grand Prix,31,OCO,Alpine,19.0,15.0,0,Finished,12,101.798,1.595
+2023,Round Saudi Arabian Grand Prix,81,PIA,McLaren,8.0,15.0,0,Finished,9,89.243,0.978
+2023,Round United States Grand Prix,3,RIC,AlphaTauri,14.0,15.0,0,Lapped,15,95.974,1.251
+2023,Round São Paulo Grand Prix,63,RUS,Mercedes,8.0,15.0,0,Retired,6,71.59,1.26
+2023,Round Monaco Grand Prix,22,TSU,AlphaTauri,9.0,15.0,0,Lapped,9,72.082,0.717
+2023,Round Hungarian Grand Prix,22,TSU,AlphaTauri,17.0,15.0,0,Lapped,17,78.919,2.31
+2023,Round Dutch Grand Prix,22,TSU,AlphaTauri,17.0,15.0,0,Finished,14,80.23,9.663
+2023,Round Qatar Grand Prix,22,TSU,AlphaTauri,11.0,15.0,0,Lapped,11,85.301,1.523
+2023,Round British Grand Prix,24,ZHO,Alfa Romeo,17.0,15.0,0,Finished,17,90.123,3.403
+2023,Round Las Vegas Grand Prix,24,ZHO,Alfa Romeo,17.0,15.0,0,Finished,18,94.849,2.123
+2023,Round Chinese Grand Prix,23,ALB,Williams,13.0,16.0,0,Retired,13,90.537,1.66
+2023,Round Japanese Grand Prix,23,ALB,Williams,13.0,16.0,0,Retired,13,90.537,1.66
+2023,Round Spanish Grand Prix,23,ALB,Williams,18.0,16.0,0,Lapped,18,74.063,1.791
+2023,Round United States Grand Prix,14,ALO,Aston Martin,19.0,16.0,0,Retired,17,96.268,1.545
+2023,Round São Paulo Grand Prix,77,BOT,Alfa Romeo,18.0,16.0,0,Retired,18,70.955,0.625
+2023,Round Qatar Grand Prix,27,HUL,Haas F1 Team,14.0,16.0,0,Lapped,15,85.783,2.005
+2023,Round Dutch Grand Prix,20,MAG,Haas F1 Team,0.0,16.0,0,Finished,18,82.192,11.625
+2023,Round Monaco Grand Prix,11,PER,Red Bull Racing,20.0,16.0,0,Lapped,20,73.85,2.485
+2023,Round Austrian Grand Prix,81,PIA,McLaren,13.0,16.0,0,Lapped,13,65.605,1.214
+2023,Round Emilia Romagna Grand Prix,3,RIC,AlphaTauri,19.0,16.0,0,Finished,19,122.159,15.991
+2023,Round Belgian Grand Prix,3,RIC,AlphaTauri,19.0,16.0,0,Finished,19,122.159,15.991
+2023,Round Singapore Grand Prix,63,RUS,Mercedes,2.0,16.0,0,Finished,2,91.056,0.072
+2023,Round Australian Grand Prix,2,SAR,Williams,18.0,16.0,0,Finished,18,78.557,1.825
+2023,Round Saudi Arabian Grand Prix,2,SAR,Williams,20.0,16.0,0,Finished,20,128.51,40.245
+2023,Round Azerbaijan Grand Prix,2,SAR,Williams,14.0,16.0,0,Finished,15,102.395,2.192
+2023,Round Mexico City Grand Prix,2,SAR,Williams,19.0,16.0,0,Retired,20,87.148,1.393
+2023,Round Las Vegas Grand Prix,2,SAR,Williams,6.0,16.0,0,Finished,7,93.513,0.787
+2023,Round Abu Dhabi Grand Prix,2,SAR,Williams,20.0,16.0,0,Finished,20,87.148,1.393
+2023,Round Italian Grand Prix,18,STR,Aston Martin,20.0,16.0,0,Finished,20,82.86,2.566
+2023,Round British Grand Prix,22,TSU,AlphaTauri,16.0,16.0,0,Finished,16,90.025,3.305
+2023,Round Bahrain Grand Prix,24,ZHO,Alfa Romeo,13.0,16.0,0,Lapped,13,91.473,1.765
+2023,Round Miami Grand Prix,24,ZHO,Alfa Romeo,14.0,16.0,0,Finished,14,88.091,1.277
+2023,Round Canadian Grand Prix,24,ZHO,Alfa Romeo,20.0,16.0,0,Lapped,20,83.342,4.617
+2023,Round Hungarian Grand Prix,24,ZHO,Alfa Romeo,5.0,16.0,0,Lapped,5,76.971,0.362
+2023,Round Singapore Grand Prix,77,BOT,Alfa Romeo,16.0,17.0,0,Retired,16,92.809,1.825
+2023,Round Las Vegas Grand Prix,77,BOT,Alfa Romeo,7.0,17.0,0,Finished,8,93.525,0.799
+2023,Round Austrian Grand Prix,21,DEV,AlphaTauri,20.0,17.0,0,Lapped,20,65.974,1.583
+2023,Round British Grand Prix,21,DEV,AlphaTauri,18.0,17.0,0,Finished,18,90.513,3.793
+2023,Round Monaco Grand Prix,27,HUL,Haas F1 Team,18.0,17.0,0,Lapped,18,73.279,1.914
+2023,Round Italian Grand Prix,27,HUL,Haas F1 Team,13.0,17.0,0,Lapped,13,81.776,1.482
+2023,Round Azerbaijan Grand Prix,27,HUL,Haas F1 Team,20.0,17.0,0,Lapped,17,102.755,2.552
+2023,Round Qatar Grand Prix,40,LAW,AlphaTauri,17.0,17.0,0,Lapped,18,86.635,2.857
+2023,Round Australian Grand Prix,20,MAG,Haas F1 Team,14.0,17.0,0,Finished,14,78.129,1.397
+2023,Round Canadian Grand Prix,20,MAG,Haas F1 Team,13.0,17.0,0,Lapped,14,81.678,2.953
+2023,Round Hungarian Grand Prix,20,MAG,Haas F1 Team,19.0,17.0,0,Lapped,19,79.206,2.597
+2023,Round Bahrain Grand Prix,4,NOR,McLaren,11.0,17.0,0,Lapped,11,91.381,1.673
+2023,Round Saudi Arabian Grand Prix,4,NOR,McLaren,19.0,17.0,0,Finished,19,90.447,2.182
+2023,Round Miami Grand Prix,4,NOR,McLaren,16.0,17.0,0,Finished,16,88.394,1.58
+2023,Round Spanish Grand Prix,4,NOR,McLaren,3.0,17.0,0,Lapped,3,72.792,0.52
+2023,Round United States Grand Prix,81,PIA,McLaren,10.0,17.0,0,Retired,10,95.467,0.744
+2023,Round Dutch Grand Prix,63,RUS,Mercedes,3.0,17.0,0,Finished,3,71.294,0.727
+2023,Round Chinese Grand Prix,2,SAR,Williams,20.0,17.0,0,Retired,20,87.148,1.393
+2023,Round Japanese Grand Prix,2,SAR,Williams,20.0,17.0,0,Retired,20,87.148,1.393
+2023,Round Emilia Romagna Grand Prix,2,SAR,Williams,18.0,17.0,0,Finished,18,121.535,15.367
+2023,Round Belgian Grand Prix,2,SAR,Williams,18.0,17.0,0,Finished,18,121.535,15.367
+2023,Round Mexico City Grand Prix,18,STR,Aston Martin,0.0,17.0,0,Collision damage,18,79.227,2.061
+2023,Round São Paulo Grand Prix,24,ZHO,Alfa Romeo,20.0,17.0,0,Retired,20,71.275,0.945
+2023,Round Abu Dhabi Grand Prix,24,ZHO,Alfa Romeo,19.0,17.0,0,Finished,19,85.159,1.714
+2023,Round Mexico City Grand Prix,14,ALO,Aston Martin,13.0,18.0,0,Withdrew,13,78.738,1.572
+2023,Round Saudi Arabian Grand Prix,77,BOT,Alfa Romeo,14.0,18.0,0,Lapped,14,89.668,1.403
+2023,Round Azerbaijan Grand Prix,77,BOT,Alfa Romeo,13.0,18.0,0,Lapped,14,102.259,2.056
+2023,Round Miami Grand Prix,21,DEV,AlphaTauri,15.0,18.0,0,Finished,15,88.395,1.581
+2023,Round Canadian Grand Prix,21,DEV,AlphaTauri,17.0,18.0,0,Lapped,18,83.137,4.412
+2023,Round British Grand Prix,10,GAS,Alpine,10.0,18.0,0,Finished,10,87.689,0.969
+2023,Round Emilia Romagna Grand Prix,27,HUL,Haas F1 Team,20.0,18.0,0,Finished,20,123.166,16.998
+2023,Round Belgian Grand Prix,27,HUL,Haas F1 Team,20.0,18.0,0,Finished,20,123.166,16.998
+2023,Round Spanish Grand Prix,20,MAG,Haas F1 Team,17.0,18.0,0,Lapped,17,74.042,1.77
+2023,Round Austrian Grand Prix,20,MAG,Haas F1 Team,19.0,18.0,0,Lapped,19,65.971,1.58
+2023,Round Italian Grand Prix,20,MAG,Haas F1 Team,19.0,18.0,0,Lapped,19,82.592,2.298
+2023,Round São Paulo Grand Prix,20,MAG,Haas F1 Team,12.0,18.0,0,Retired,14,70.723,0.393
+2023,Round Bahrain Grand Prix,31,OCO,Alpine,9.0,18.0,0,Retired,9,90.984,1.276
+2023,Round Singapore Grand Prix,31,OCO,Alpine,8.0,18.0,0,Retired,8,91.673,0.689
+2023,Round United States Grand Prix,31,OCO,Alpine,8.0,18.0,0,Retired,8,95.154,0.431
+2023,Round Australian Grand Prix,63,RUS,Mercedes,2.0,18.0,0,Retired,2,76.968,0.236
+2023,Round Abu Dhabi Grand Prix,55,SAI,Ferrari,16.0,18.0,0,Finished,16,84.738,1.293
+2023,Round Monaco Grand Prix,2,SAR,Williams,16.0,18.0,0,Lapped,16,73.113,1.748
+2023,Round Hungarian Grand Prix,2,SAR,Williams,20.0,18.0,0,Finished,20,79.248,2.639
+2023,Round Qatar Grand Prix,2,SAR,Williams,15.0,18.0,0,Retired,16,86.21,2.432
+2023,Round Chinese Grand Prix,18,STR,Aston Martin,17.0,18.0,0,Retired,17,91.181,2.304
+2023,Round Japanese Grand Prix,18,STR,Aston Martin,17.0,18.0,0,Retired,17,91.181,2.304
+2023,Round Las Vegas Grand Prix,22,TSU,AlphaTauri,20.0,18.0,0,Finished,20,96.447,3.721
+2023,Round Dutch Grand Prix,24,ZHO,Alfa Romeo,15.0,18.0,0,Accident,16,82.067,11.5
+2023,Round Australian Grand Prix,23,ALB,Williams,8.0,19.0,0,Retired,8,77.609,0.877
+2023,Round Saudi Arabian Grand Prix,23,ALB,Williams,17.0,19.0,0,Retired,17,89.994,1.729
+2023,Round São Paulo Grand Prix,23,ALB,Williams,13.0,19.0,0,Retired,15,70.84,0.51
+2023,Round Spanish Grand Prix,77,BOT,Alfa Romeo,16.0,19.0,0,Lapped,16,73.977,1.705
+2023,Round Abu Dhabi Grand Prix,77,BOT,Alfa Romeo,18.0,19.0,0,Lapped,18,84.788,1.343
+2023,Round United States Grand Prix,44,HAM,Mercedes,3.0,19.0,0,Disqualified,3,94.862,0.139
+2023,Round Qatar Grand Prix,44,HAM,Mercedes,3.0,19.0,0,Retired,3,84.305,0.527
+2023,Round Las Vegas Grand Prix,27,HUL,Haas F1 Team,13.0,19.0,0,Finished,13,93.979,1.253
+2023,Round Bahrain Grand Prix,16,LEC,Ferrari,3.0,19.0,0,Retired,3,90.0,0.292
+2023,Round Dutch Grand Prix,16,LEC,Ferrari,9.0,19.0,0,Undertray,9,72.665,2.098
+2023,Round Monaco Grand Prix,20,MAG,Haas F1 Team,17.0,19.0,0,Finished,17,73.27,1.905
+2023,Round British Grand Prix,20,MAG,Haas F1 Team,19.0,19.0,0,Retired,19,92.378,5.658
+2023,Round Mexico City Grand Prix,20,MAG,Haas F1 Team,16.0,19.0,0,Accident,17,79.163,1.997
+2023,Round Hungarian Grand Prix,31,OCO,Alpine,12.0,19.0,0,Retired,12,77.841,1.232
+2023,Round Italian Grand Prix,31,OCO,Alpine,18.0,19.0,0,Retired,18,82.548,2.254
+2023,Round Chinese Grand Prix,11,PER,Red Bull Racing,5.0,19.0,0,Retired,5,89.65,0.773
+2023,Round Japanese Grand Prix,11,PER,Red Bull Racing,5.0,19.0,0,Retired,5,89.65,0.773
+2023,Round Miami Grand Prix,81,PIA,McLaren,19.0,19.0,0,Lapped,19,88.484,1.67
+2023,Round Canadian Grand Prix,63,RUS,Mercedes,4.0,19.0,0,Retired,5,87.893,9.168
+2023,Round Emilia Romagna Grand Prix,55,SAI,Ferrari,4.0,19.0,0,Retired,5,107.152,0.984
+2023,Round Belgian Grand Prix,55,SAI,Ferrari,4.0,19.0,0,Retired,5,107.152,0.984
+2023,Round Austrian Grand Prix,22,TSU,AlphaTauri,16.0,19.0,0,Lapped,16,65.784,1.393
+2023,Round Singapore Grand Prix,22,TSU,AlphaTauri,15.0,19.0,0,Retired,15,91.991,1.007
+2023,Round Azerbaijan Grand Prix,24,ZHO,Alfa Romeo,15.0,19.0,0,Retired,16,102.642,2.439
+2023,Round Chinese Grand Prix,77,BOT,Alfa Romeo,16.0,20.0,0,Retired,16,91.049,2.172
+2023,Round Japanese Grand Prix,77,BOT,Alfa Romeo,16.0,20.0,0,Retired,16,91.049,2.172
+2023,Round Azerbaijan Grand Prix,21,DEV,AlphaTauri,18.0,20.0,0,Retired,20,115.282,15.079
+2023,Round Hungarian Grand Prix,10,GAS,Alpine,15.0,20.0,0,Retired,15,78.217,1.608
+2023,Round Austrian Grand Prix,27,HUL,Haas F1 Team,8.0,20.0,0,Retired,8,65.09,0.699
+2023,Round Australian Grand Prix,16,LEC,Ferrari,7.0,20.0,0,Retired,7,77.369,0.637
+2023,Round United States Grand Prix,16,LEC,Ferrari,1.0,20.0,0,Disqualified,1,94.723,0.0
+2023,Round São Paulo Grand Prix,16,LEC,Ferrari,2.0,20.0,0,Did not start,2,71.021,0.691
+2023,Round Abu Dhabi Grand Prix,20,MAG,Haas F1 Team,17.0,20.0,0,Lapped,17,84.764,1.319
+2023,Round Las Vegas Grand Prix,4,NOR,McLaren,15.0,20.0,0,Retired,16,94.703,1.977
+2023,Round British Grand Prix,31,OCO,Alpine,13.0,20.0,0,Retired,13,88.956,2.236
+2023,Round Mexico City Grand Prix,11,PER,Red Bull Racing,5.0,20.0,0,Collision damage,5,77.423,0.257
+2023,Round Bahrain Grand Prix,81,PIA,McLaren,18.0,20.0,0,Retired,18,92.101,2.393
+2023,Round Emilia Romagna Grand Prix,81,PIA,McLaren,5.0,20.0,0,Retired,6,107.365,1.197
+2023,Round Belgian Grand Prix,81,PIA,McLaren,5.0,20.0,0,Retired,6,107.365,1.197
+2023,Round Qatar Grand Prix,55,SAI,Ferrari,12.0,20.0,0,Did not start,12,85.328,1.55
+2023,Round Miami Grand Prix,2,SAR,Williams,20.0,20.0,0,Lapped,20,88.577,1.763
+2023,Round Spanish Grand Prix,2,SAR,Williams,20.0,20.0,0,Lapped,20,74.699,2.427
+2023,Round Canadian Grand Prix,2,SAR,Williams,18.0,20.0,0,Retired,19,83.337,4.612
+2023,Round Dutch Grand Prix,2,SAR,Williams,10.0,20.0,0,Accident,10,76.748,6.181
+2023,Round Saudi Arabian Grand Prix,18,STR,Aston Martin,5.0,20.0,0,Retired,6,88.945,0.68
+2023,Round Monaco Grand Prix,18,STR,Aston Martin,14.0,20.0,0,Retired,14,72.623,1.258
+2023,Round Italian Grand Prix,22,TSU,AlphaTauri,11.0,20.0,0,Did not start,11,81.594,1.3
