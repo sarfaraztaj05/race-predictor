@@ -1,0 +1,1580 @@
+Season,RaceName,DriverNumber,Driver,Team,GridPos,FinishPos,Points,Status,QPos,QTime,QGapToPole
+2022,Round Australian Grand Prix,16,LEC,Ferrari,1,1,26,Finished,1,0 days 00:01:17.868000,0 days 00:00:00
+2022,Round Australian Grand Prix,11,PER,Red Bull Racing,3,2,18,Finished,3,0 days 00:01:18.240000,0 days 00:00:00.372000
+2022,Round Australian Grand Prix,63,RUS,Mercedes,6,3,15,Finished,6,0 days 00:01:18.933000,0 days 00:00:01.065000
+2022,Round Australian Grand Prix,44,HAM,Mercedes,5,4,12,Finished,5,0 days 00:01:18.825000,0 days 00:00:00.957000
+2022,Round Australian Grand Prix,4,NOR,McLaren,4,5,10,Finished,4,0 days 00:01:18.703000,0 days 00:00:00.835000
+2022,Round Australian Grand Prix,3,RIC,McLaren,7,6,8,Finished,7,0 days 00:01:19.032000,0 days 00:00:01.164000
+2022,Round Australian Grand Prix,31,OCO,Alpine,8,7,6,Finished,8,0 days 00:01:19.061000,0 days 00:00:01.193000
+2022,Round Australian Grand Prix,77,BOT,Alfa Romeo,12,8,4,Finished,12,0 days 00:01:19.410000,0 days 00:00:01.542000
+2022,Round Australian Grand Prix,10,GAS,AlphaTauri,11,9,2,Finished,11,0 days 00:01:19.226000,0 days 00:00:01.358000
+2022,Round Australian Grand Prix,23,ALB,Williams,20,10,1,Finished,16,0 days 00:01:20.135000,0 days 00:00:02.267000
+2022,Round Australian Grand Prix,24,ZHO,Alfa Romeo,14,11,0,Finished,14,0 days 00:01:20.155000,0 days 00:00:02.287000
+2022,Round Australian Grand Prix,18,STR,Aston Martin,19,12,0,Finished,20,,
+2022,Round Australian Grand Prix,47,MSC,Haas F1 Team,15,13,0,+1 Lap,15,0 days 00:01:20.465000,0 days 00:00:02.597000
+2022,Round Australian Grand Prix,20,MAG,Haas F1 Team,16,14,0,+1 Lap,17,0 days 00:01:20.254000,0 days 00:00:02.386000
+2022,Round Australian Grand Prix,22,TSU,AlphaTauri,13,15,0,+1 Lap,13,0 days 00:01:19.424000,0 days 00:00:01.556000
+2022,Round Australian Grand Prix,6,LAT,Williams,18,16,0,+1 Lap,19,0 days 00:01:21.372000,0 days 00:00:03.504000
+2022,Round Australian Grand Prix,14,ALO,Alpine,10,17,0,+1 Lap,10,0 days 00:01:18.815000,0 days 00:00:00.947000
+2022,Round Australian Grand Prix,1,VER,Red Bull Racing,2,18,0,Fuel leak,2,0 days 00:01:18.154000,0 days 00:00:00.286000
+2022,Round Australian Grand Prix,5,VET,Aston Martin,17,19,0,Accident,18,0 days 00:01:21.149000,0 days 00:00:03.281000
+2022,Round Australian Grand Prix,55,SAI,Ferrari,9,20,0,Spun off,9,0 days 00:01:19.408000,0 days 00:00:01.540000
+2022,Round Chinese Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:29.304000,0 days 00:00:00
+2022,Round Chinese Grand Prix,11,PER,Red Bull Racing,4,2,18,Finished,4,0 days 00:01:29.709000,0 days 00:00:00.405000
+2022,Round Chinese Grand Prix,16,LEC,Ferrari,2,3,15,Finished,2,0 days 00:01:29.314000,0 days 00:00:00.010000
+2022,Round Chinese Grand Prix,31,OCO,Alpine,5,4,12,Finished,5,0 days 00:01:30.165000,0 days 00:00:00.861000
+2022,Round Chinese Grand Prix,44,HAM,Mercedes,6,5,10,Finished,6,0 days 00:01:30.261000,0 days 00:00:00.957000
+2022,Round Chinese Grand Prix,5,VET,Aston Martin,9,6,8,Finished,9,0 days 00:01:30.554000,0 days 00:00:01.250000
+2022,Round Chinese Grand Prix,14,ALO,Alpine,7,7,6,Finished,7,0 days 00:01:30.322000,0 days 00:00:01.018000
+2022,Round Chinese Grand Prix,63,RUS,Mercedes,8,8,4,Finished,8,0 days 00:01:30.389000,0 days 00:00:01.085000
+2022,Round Chinese Grand Prix,6,LAT,Williams,20,9,2,Finished,20,0 days 00:01:31.511000,0 days 00:00:02.207000
+2022,Round Chinese Grand Prix,4,NOR,McLaren,10,10,1,Finished,10,0 days 00:01:31.003000,0 days 00:00:01.699000
+2022,Round Chinese Grand Prix,3,RIC,McLaren,11,11,0,Finished,11,0 days 00:01:30.659000,0 days 00:00:01.355000
+2022,Round Chinese Grand Prix,18,STR,Aston Martin,19,12,0,Finished,19,0 days 00:01:31.419000,0 days 00:00:02.115000
+2022,Round Chinese Grand Prix,22,TSU,AlphaTauri,13,13,0,Finished,13,0 days 00:01:30.808000,0 days 00:00:01.504000
+2022,Round Chinese Grand Prix,20,MAG,Haas F1 Team,18,14,0,Finished,18,0 days 00:01:31.352000,0 days 00:00:02.048000
+2022,Round Chinese Grand Prix,77,BOT,Alfa Romeo,12,15,0,Finished,12,0 days 00:01:30.709000,0 days 00:00:01.405000
+2022,Round Chinese Grand Prix,24,ZHO,Alfa Romeo,14,16,0,Finished,14,0 days 00:01:30.953000,0 days 00:00:01.649000
+2022,Round Chinese Grand Prix,47,MSC,Haas F1 Team,15,17,0,Finished,15,0 days 00:01:31.439000,0 days 00:00:02.135000
+2022,Round Chinese Grand Prix,10,GAS,AlphaTauri,17,18,0,Finished,17,0 days 00:01:31.322000,0 days 00:00:02.018000
+2022,Round Chinese Grand Prix,55,SAI,Ferrari,3,19,0,Accident,3,0 days 00:01:29.361000,0 days 00:00:00.057000
+2022,Round Chinese Grand Prix,23,ALB,Williams,16,20,0,Hydraulics,16,0 days 00:01:31.311000,0 days 00:00:02.007000
+2022,Round Japanese Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:29.304000,0 days 00:00:00
+2022,Round Japanese Grand Prix,11,PER,Red Bull Racing,4,2,18,Finished,4,0 days 00:01:29.709000,0 days 00:00:00.405000
+2022,Round Japanese Grand Prix,16,LEC,Ferrari,2,3,15,Finished,2,0 days 00:01:29.314000,0 days 00:00:00.010000
+2022,Round Japanese Grand Prix,31,OCO,Alpine,5,4,12,Finished,5,0 days 00:01:30.165000,0 days 00:00:00.861000
+2022,Round Japanese Grand Prix,44,HAM,Mercedes,6,5,10,Finished,6,0 days 00:01:30.261000,0 days 00:00:00.957000
+2022,Round Japanese Grand Prix,5,VET,Aston Martin,9,6,8,Finished,9,0 days 00:01:30.554000,0 days 00:00:01.250000
+2022,Round Japanese Grand Prix,14,ALO,Alpine,7,7,6,Finished,7,0 days 00:01:30.322000,0 days 00:00:01.018000
+2022,Round Japanese Grand Prix,63,RUS,Mercedes,8,8,4,Finished,8,0 days 00:01:30.389000,0 days 00:00:01.085000
+2022,Round Japanese Grand Prix,6,LAT,Williams,20,9,2,Finished,20,0 days 00:01:31.511000,0 days 00:00:02.207000
+2022,Round Japanese Grand Prix,4,NOR,McLaren,10,10,1,Finished,10,0 days 00:01:31.003000,0 days 00:00:01.699000
+2022,Round Japanese Grand Prix,3,RIC,McLaren,11,11,0,Finished,11,0 days 00:01:30.659000,0 days 00:00:01.355000
+2022,Round Japanese Grand Prix,18,STR,Aston Martin,19,12,0,Finished,19,0 days 00:01:31.419000,0 days 00:00:02.115000
+2022,Round Japanese Grand Prix,22,TSU,AlphaTauri,13,13,0,Finished,13,0 days 00:01:30.808000,0 days 00:00:01.504000
+2022,Round Japanese Grand Prix,20,MAG,Haas F1 Team,18,14,0,Finished,18,0 days 00:01:31.352000,0 days 00:00:02.048000
+2022,Round Japanese Grand Prix,77,BOT,Alfa Romeo,12,15,0,Finished,12,0 days 00:01:30.709000,0 days 00:00:01.405000
+2022,Round Japanese Grand Prix,24,ZHO,Alfa Romeo,14,16,0,Finished,14,0 days 00:01:30.953000,0 days 00:00:01.649000
+2022,Round Japanese Grand Prix,47,MSC,Haas F1 Team,15,17,0,Finished,15,0 days 00:01:31.439000,0 days 00:00:02.135000
+2022,Round Japanese Grand Prix,10,GAS,AlphaTauri,17,18,0,Finished,17,0 days 00:01:31.322000,0 days 00:00:02.018000
+2022,Round Japanese Grand Prix,55,SAI,Ferrari,3,19,0,Accident,3,0 days 00:01:29.361000,0 days 00:00:00.057000
+2022,Round Japanese Grand Prix,23,ALB,Williams,16,20,0,Hydraulics,16,0 days 00:01:31.311000,0 days 00:00:02.007000
+2022,Round Bahrain Grand Prix,16,LEC,Ferrari,1,1,26,Finished,1,0 days 00:01:30.558000,0 days 00:00:00
+2022,Round Bahrain Grand Prix,55,SAI,Ferrari,3,2,18,Finished,3,0 days 00:01:30.687000,0 days 00:00:00.129000
+2022,Round Bahrain Grand Prix,44,HAM,Mercedes,5,3,15,Finished,5,0 days 00:01:31.238000,0 days 00:00:00.680000
+2022,Round Bahrain Grand Prix,63,RUS,Mercedes,9,4,12,Finished,9,0 days 00:01:32.216000,0 days 00:00:01.658000
+2022,Round Bahrain Grand Prix,20,MAG,Haas F1 Team,7,5,10,Finished,7,0 days 00:01:31.808000,0 days 00:00:01.250000
+2022,Round Bahrain Grand Prix,77,BOT,Alfa Romeo,6,6,8,Finished,6,0 days 00:01:31.560000,0 days 00:00:01.002000
+2022,Round Bahrain Grand Prix,31,OCO,Alpine,11,7,6,Finished,11,0 days 00:01:31.782000,0 days 00:00:01.224000
+2022,Round Bahrain Grand Prix,22,TSU,AlphaTauri,16,8,4,Finished,16,0 days 00:01:32.750000,0 days 00:00:02.192000
+2022,Round Bahrain Grand Prix,14,ALO,Alpine,8,9,2,Finished,8,0 days 00:01:32.195000,0 days 00:00:01.637000
+2022,Round Bahrain Grand Prix,24,ZHO,Alfa Romeo,15,10,1,Finished,15,0 days 00:01:33.543000,0 days 00:00:02.985000
+2022,Round Bahrain Grand Prix,47,MSC,Haas F1 Team,12,11,0,Finished,12,0 days 00:01:31.998000,0 days 00:00:01.440000
+2022,Round Bahrain Grand Prix,18,STR,Aston Martin,19,12,0,Finished,19,0 days 00:01:33.032000,0 days 00:00:02.474000
+2022,Round Bahrain Grand Prix,23,ALB,Williams,14,13,0,Finished,14,0 days 00:01:32.664000,0 days 00:00:02.106000
+2022,Round Bahrain Grand Prix,3,RIC,McLaren,18,14,0,Finished,18,0 days 00:01:32.945000,0 days 00:00:02.387000
+2022,Round Bahrain Grand Prix,4,NOR,McLaren,13,15,0,Finished,13,0 days 00:01:32.008000,0 days 00:00:01.450000
+2022,Round Bahrain Grand Prix,6,LAT,Williams,20,16,0,Finished,20,0 days 00:01:33.634000,0 days 00:00:03.076000
+2022,Round Bahrain Grand Prix,27,HUL,Aston Martin,17,17,0,Finished,17,0 days 00:01:32.777000,0 days 00:00:02.219000
+2022,Round Bahrain Grand Prix,11,PER,Red Bull Racing,4,18,0,Fuel pressure,4,0 days 00:01:30.921000,0 days 00:00:00.363000
+2022,Round Bahrain Grand Prix,1,VER,Red Bull Racing,2,19,0,Fuel pressure,2,0 days 00:01:30.681000,0 days 00:00:00.123000
+2022,Round Bahrain Grand Prix,10,GAS,AlphaTauri,10,20,0,Power Unit,10,0 days 00:01:32.338000,0 days 00:00:01.780000
+2022,Round Saudi Arabian Grand Prix,1,VER,Red Bull Racing,4,1,25,Finished,4,0 days 00:01:28.461000,0 days 00:00:00.261000
+2022,Round Saudi Arabian Grand Prix,16,LEC,Ferrari,2,2,19,Finished,2,0 days 00:01:28.225000,0 days 00:00:00.025000
+2022,Round Saudi Arabian Grand Prix,55,SAI,Ferrari,3,3,15,Finished,3,0 days 00:01:28.402000,0 days 00:00:00.202000
+2022,Round Saudi Arabian Grand Prix,11,PER,Red Bull Racing,1,4,12,Finished,1,0 days 00:01:28.200000,0 days 00:00:00
+2022,Round Saudi Arabian Grand Prix,63,RUS,Mercedes,6,5,10,Finished,6,0 days 00:01:29.104000,0 days 00:00:00.904000
+2022,Round Saudi Arabian Grand Prix,31,OCO,Alpine,5,6,8,Finished,5,0 days 00:01:29.068000,0 days 00:00:00.868000
+2022,Round Saudi Arabian Grand Prix,4,NOR,McLaren,11,7,6,Finished,11,0 days 00:01:29.651000,0 days 00:00:01.451000
+2022,Round Saudi Arabian Grand Prix,10,GAS,AlphaTauri,9,8,4,Finished,9,0 days 00:01:29.254000,0 days 00:00:01.054000
+2022,Round Saudi Arabian Grand Prix,20,MAG,Haas F1 Team,10,9,2,Finished,10,0 days 00:01:29.588000,0 days 00:00:01.388000
+2022,Round Saudi Arabian Grand Prix,44,HAM,Mercedes,15,10,1,Finished,16,0 days 00:01:30.343000,0 days 00:00:02.143000
+2022,Round Saudi Arabian Grand Prix,24,ZHO,Alfa Romeo,12,11,0,Finished,13,0 days 00:01:29.819000,0 days 00:00:01.619000
+2022,Round Saudi Arabian Grand Prix,27,HUL,Aston Martin,17,12,0,Finished,18,0 days 00:01:30.543000,0 days 00:00:02.343000
+2022,Round Saudi Arabian Grand Prix,18,STR,Aston Martin,13,13,0,+1 Lap,15,0 days 00:01:31.009000,0 days 00:00:02.809000
+2022,Round Saudi Arabian Grand Prix,23,ALB,Williams,16,14,0,Collision damage,17,0 days 00:01:30.492000,0 days 00:00:02.292000
+2022,Round Saudi Arabian Grand Prix,77,BOT,Alfa Romeo,8,15,0,Cooling system,8,0 days 00:01:29.183000,0 days 00:00:00.983000
+2022,Round Saudi Arabian Grand Prix,14,ALO,Alpine,7,16,0,Water pump,7,0 days 00:01:29.147000,0 days 00:00:00.947000
+2022,Round Saudi Arabian Grand Prix,3,RIC,McLaren,14,17,0,Gearbox,12,0 days 00:01:29.773000,0 days 00:00:01.573000
+2022,Round Saudi Arabian Grand Prix,6,LAT,Williams,18,18,0,Accident,19,0 days 00:01:31.817000,0 days 00:00:03.617000
+2022,Round Saudi Arabian Grand Prix,22,TSU,AlphaTauri,19,19,0,Power Unit,20,,
+2022,Round Saudi Arabian Grand Prix,47,MSC,Haas F1 Team,,,0,Withdrew,14,0 days 00:01:29.920000,0 days 00:00:01.720000
+2022,Round Miami Grand Prix,1,VER,Red Bull Racing,3,1,26,Finished,3,0 days 00:01:28.991000,0 days 00:00:00.195000
+2022,Round Miami Grand Prix,16,LEC,Ferrari,1,2,18,Finished,1,0 days 00:01:28.796000,0 days 00:00:00
+2022,Round Miami Grand Prix,55,SAI,Ferrari,2,3,15,Finished,2,0 days 00:01:28.986000,0 days 00:00:00.190000
+2022,Round Miami Grand Prix,11,PER,Red Bull Racing,4,4,12,Finished,4,0 days 00:01:29.036000,0 days 00:00:00.240000
+2022,Round Miami Grand Prix,63,RUS,Mercedes,12,5,10,Finished,12,0 days 00:01:30.173000,0 days 00:00:01.377000
+2022,Round Miami Grand Prix,44,HAM,Mercedes,6,6,8,Finished,6,0 days 00:01:29.625000,0 days 00:00:00.829000
+2022,Round Miami Grand Prix,77,BOT,Alfa Romeo,5,7,6,Finished,5,0 days 00:01:29.475000,0 days 00:00:00.679000
+2022,Round Miami Grand Prix,31,OCO,Alpine,20,8,4,Finished,20,,
+2022,Round Miami Grand Prix,23,ALB,Williams,18,9,2,Finished,18,0 days 00:01:31.266000,0 days 00:00:02.470000
+2022,Round Miami Grand Prix,18,STR,Aston Martin,0,10,1,Finished,10,0 days 00:01:30.676000,0 days 00:00:01.880000
+2022,Round Miami Grand Prix,14,ALO,Alpine,11,11,0,Finished,11,0 days 00:01:30.160000,0 days 00:00:01.364000
+2022,Round Miami Grand Prix,22,TSU,AlphaTauri,9,12,0,Finished,9,0 days 00:01:29.932000,0 days 00:00:01.136000
+2022,Round Miami Grand Prix,3,RIC,McLaren,14,13,0,Finished,14,0 days 00:01:30.310000,0 days 00:00:01.514000
+2022,Round Miami Grand Prix,6,LAT,Williams,19,14,0,Finished,19,0 days 00:01:31.325000,0 days 00:00:02.529000
+2022,Round Miami Grand Prix,47,MSC,Haas F1 Team,15,15,0,Finished,15,0 days 00:01:30.423000,0 days 00:00:01.627000
+2022,Round Miami Grand Prix,20,MAG,Haas F1 Team,16,16,0,Front wing,16,0 days 00:01:30.975000,0 days 00:00:02.179000
+2022,Round Miami Grand Prix,5,VET,Aston Martin,0,17,0,Collision,13,0 days 00:01:30.214000,0 days 00:00:01.418000
+2022,Round Miami Grand Prix,10,GAS,AlphaTauri,7,18,0,Suspension,7,0 days 00:01:29.690000,0 days 00:00:00.894000
+2022,Round Miami Grand Prix,4,NOR,McLaren,8,19,0,Collision,8,0 days 00:01:29.750000,0 days 00:00:00.954000
+2022,Round Miami Grand Prix,24,ZHO,Alfa Romeo,17,20,0,Water leak,17,0 days 00:01:31.020000,0 days 00:00:02.224000
+2022,Round Emilia Romagna Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:27.999000,0 days 00:00:09.009000
+2022,Round Emilia Romagna Grand Prix,11,PER,Red Bull Racing,3,2,18,Finished,7,0 days 00:01:29.808000,0 days 00:00:10.818000
+2022,Round Emilia Romagna Grand Prix,4,NOR,McLaren,5,3,15,Finished,3,0 days 00:01:29.131000,0 days 00:00:10.141000
+2022,Round Emilia Romagna Grand Prix,63,RUS,Mercedes,11,4,12,Finished,11,0 days 00:01:20.757000,0 days 00:00:01.767000
+2022,Round Emilia Romagna Grand Prix,77,BOT,Alfa Romeo,7,5,10,Finished,8,0 days 00:01:30.439000,0 days 00:00:11.449000
+2022,Round Emilia Romagna Grand Prix,16,LEC,Ferrari,2,6,8,Finished,2,0 days 00:01:28.778000,0 days 00:00:09.788000
+2022,Round Emilia Romagna Grand Prix,22,TSU,AlphaTauri,12,7,6,Finished,16,0 days 00:01:20.474000,0 days 00:00:01.484000
+2022,Round Emilia Romagna Grand Prix,5,VET,Aston Martin,13,8,4,Finished,9,0 days 00:01:31.062000,0 days 00:00:12.072000
+2022,Round Emilia Romagna Grand Prix,20,MAG,Haas F1 Team,8,9,2,Finished,4,0 days 00:01:29.164000,0 days 00:00:10.174000
+2022,Round Emilia Romagna Grand Prix,18,STR,Aston Martin,15,10,1,+1 Lap,15,0 days 00:01:28.119000,0 days 00:00:09.129000
+2022,Round Emilia Romagna Grand Prix,23,ALB,Williams,18,11,0,+1 Lap,20,,
+2022,Round Emilia Romagna Grand Prix,10,GAS,AlphaTauri,17,12,0,+1 Lap,17,0 days 00:01:20.732000,0 days 00:00:01.742000
+2022,Round Emilia Romagna Grand Prix,44,HAM,Mercedes,14,13,0,+1 Lap,13,0 days 00:01:21.138000,0 days 00:00:02.148000
+2022,Round Emilia Romagna Grand Prix,31,OCO,Alpine,16,14,0,+1 Lap,19,0 days 00:01:22.338000,0 days 00:00:03.348000
+2022,Round Emilia Romagna Grand Prix,24,ZHO,Alfa Romeo,0,15,0,+1 Lap,14,0 days 00:01:21.434000,0 days 00:00:02.444000
+2022,Round Emilia Romagna Grand Prix,6,LAT,Williams,19,16,0,+1 Lap,18,0 days 00:01:21.971000,0 days 00:00:02.981000
+2022,Round Emilia Romagna Grand Prix,47,MSC,Haas F1 Team,10,17,0,+1 Lap,12,0 days 00:01:20.916000,0 days 00:00:01.926000
+2022,Round Emilia Romagna Grand Prix,3,RIC,McLaren,6,18,0,+1 Lap,6,0 days 00:01:29.742000,0 days 00:00:10.752000
+2022,Round Emilia Romagna Grand Prix,14,ALO,Alpine,9,19,0,Collision damage,5,0 days 00:01:29.202000,0 days 00:00:10.212000
+2022,Round Emilia Romagna Grand Prix,55,SAI,Ferrari,4,20,0,Collision,10,0 days 00:01:18.990000,0 days 00:00:00
+2022,Round Monaco Grand Prix,11,PER,Red Bull Racing,3,1,25,Finished,3,0 days 00:01:11.629000,0 days 00:00:00.253000
+2022,Round Monaco Grand Prix,55,SAI,Ferrari,2,2,18,Finished,2,0 days 00:01:11.601000,0 days 00:00:00.225000
+2022,Round Monaco Grand Prix,1,VER,Red Bull Racing,4,3,15,Finished,4,0 days 00:01:11.666000,0 days 00:00:00.290000
+2022,Round Monaco Grand Prix,16,LEC,Ferrari,1,4,12,Finished,1,0 days 00:01:11.376000,0 days 00:00:00
+2022,Round Monaco Grand Prix,63,RUS,Mercedes,6,5,10,Finished,6,0 days 00:01:12.112000,0 days 00:00:00.736000
+2022,Round Monaco Grand Prix,4,NOR,McLaren,5,6,9,Finished,5,0 days 00:01:11.849000,0 days 00:00:00.473000
+2022,Round Monaco Grand Prix,14,ALO,Alpine,7,7,6,Finished,7,0 days 00:01:12.247000,0 days 00:00:00.871000
+2022,Round Monaco Grand Prix,44,HAM,Mercedes,8,8,4,Finished,8,0 days 00:01:12.560000,0 days 00:00:01.184000
+2022,Round Monaco Grand Prix,77,BOT,Alfa Romeo,12,9,2,Finished,12,0 days 00:01:12.909000,0 days 00:00:01.533000
+2022,Round Monaco Grand Prix,5,VET,Aston Martin,9,10,1,Finished,9,0 days 00:01:12.732000,0 days 00:00:01.356000
+2022,Round Monaco Grand Prix,10,GAS,AlphaTauri,17,11,0,Finished,17,0 days 00:01:13.660000,0 days 00:00:02.284000
+2022,Round Monaco Grand Prix,31,OCO,Alpine,10,12,0,Finished,10,0 days 00:01:13.047000,0 days 00:00:01.671000
+2022,Round Monaco Grand Prix,3,RIC,McLaren,14,13,0,Finished,14,0 days 00:01:12.964000,0 days 00:00:01.588000
+2022,Round Monaco Grand Prix,18,STR,Aston Martin,18,14,0,Finished,18,0 days 00:01:13.678000,0 days 00:00:02.302000
+2022,Round Monaco Grand Prix,6,LAT,Williams,19,15,0,+1 Lap,19,0 days 00:01:14.403000,0 days 00:00:03.027000
+2022,Round Monaco Grand Prix,24,ZHO,Alfa Romeo,20,16,0,+1 Lap,20,0 days 00:01:15.606000,0 days 00:00:04.230000
+2022,Round Monaco Grand Prix,22,TSU,AlphaTauri,11,17,0,+1 Lap,11,0 days 00:01:12.797000,0 days 00:00:01.421000
+2022,Round Monaco Grand Prix,23,ALB,Williams,16,18,0,Mechanical,16,0 days 00:01:13.611000,0 days 00:00:02.235000
+2022,Round Monaco Grand Prix,47,MSC,Haas F1 Team,15,19,0,Accident,15,0 days 00:01:13.081000,0 days 00:00:01.705000
+2022,Round Monaco Grand Prix,20,MAG,Haas F1 Team,13,20,0,Water pressure,13,0 days 00:01:12.921000,0 days 00:00:01.545000
+2022,Round Spanish Grand Prix,1,VER,Red Bull Racing,2,1,25,Finished,2,0 days 00:01:19.073000,0 days 00:00:00.323000
+2022,Round Spanish Grand Prix,11,PER,Red Bull Racing,5,2,19,Finished,5,0 days 00:01:19.420000,0 days 00:00:00.670000
+2022,Round Spanish Grand Prix,63,RUS,Mercedes,4,3,15,Finished,4,0 days 00:01:19.393000,0 days 00:00:00.643000
+2022,Round Spanish Grand Prix,55,SAI,Ferrari,3,4,12,Finished,3,0 days 00:01:19.166000,0 days 00:00:00.416000
+2022,Round Spanish Grand Prix,44,HAM,Mercedes,6,5,10,Finished,6,0 days 00:01:19.512000,0 days 00:00:00.762000
+2022,Round Spanish Grand Prix,77,BOT,Alfa Romeo,7,6,8,Finished,7,0 days 00:01:19.608000,0 days 00:00:00.858000
+2022,Round Spanish Grand Prix,31,OCO,Alpine,12,7,6,Finished,12,0 days 00:01:20.638000,0 days 00:00:01.888000
+2022,Round Spanish Grand Prix,4,NOR,McLaren,11,8,4,Finished,11,0 days 00:01:20.471000,0 days 00:00:01.721000
+2022,Round Spanish Grand Prix,14,ALO,Alpine,20,9,2,+1 Lap,17,0 days 00:01:21.043000,0 days 00:00:02.293000
+2022,Round Spanish Grand Prix,22,TSU,AlphaTauri,13,10,1,+1 Lap,13,0 days 00:01:20.639000,0 days 00:00:01.889000
+2022,Round Spanish Grand Prix,5,VET,Aston Martin,16,11,0,+1 Lap,16,0 days 00:01:20.954000,0 days 00:00:02.204000
+2022,Round Spanish Grand Prix,3,RIC,McLaren,9,12,0,+1 Lap,9,0 days 00:01:20.297000,0 days 00:00:01.547000
+2022,Round Spanish Grand Prix,10,GAS,AlphaTauri,14,13,0,+1 Lap,14,0 days 00:01:20.861000,0 days 00:00:02.111000
+2022,Round Spanish Grand Prix,47,MSC,Haas F1 Team,10,14,0,+1 Lap,10,0 days 00:01:20.368000,0 days 00:00:01.618000
+2022,Round Spanish Grand Prix,18,STR,Aston Martin,17,15,0,+1 Lap,18,0 days 00:01:21.418000,0 days 00:00:02.668000
+2022,Round Spanish Grand Prix,6,LAT,Williams,19,16,0,+2 Laps,20,0 days 00:01:21.915000,0 days 00:00:03.165000
+2022,Round Spanish Grand Prix,20,MAG,Haas F1 Team,8,17,0,+2 Laps,8,0 days 00:01:19.682000,0 days 00:00:00.932000
+2022,Round Spanish Grand Prix,23,ALB,Williams,18,18,0,+2 Laps,19,0 days 00:01:21.645000,0 days 00:00:02.895000
+2022,Round Spanish Grand Prix,24,ZHO,Alfa Romeo,15,19,0,Power loss,15,0 days 00:01:21.094000,0 days 00:00:02.344000
+2022,Round Spanish Grand Prix,16,LEC,Ferrari,1,20,0,Turbo,1,0 days 00:01:18.750000,0 days 00:00:00
+2022,Round Canadian Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:21.299000,0 days 00:00:00
+2022,Round Canadian Grand Prix,55,SAI,Ferrari,3,2,19,Finished,3,0 days 00:01:22.096000,0 days 00:00:00.797000
+2022,Round Canadian Grand Prix,44,HAM,Mercedes,4,3,15,Finished,4,0 days 00:01:22.891000,0 days 00:00:01.592000
+2022,Round Canadian Grand Prix,63,RUS,Mercedes,8,4,12,Finished,8,0 days 00:01:23.557000,0 days 00:00:02.258000
+2022,Round Canadian Grand Prix,16,LEC,Ferrari,19,5,10,Finished,15,0 days 00:01:33.008000,0 days 00:00:11.709000
+2022,Round Canadian Grand Prix,31,OCO,Alpine,7,6,8,Finished,7,0 days 00:01:23.529000,0 days 00:00:02.230000
+2022,Round Canadian Grand Prix,77,BOT,Alfa Romeo,11,7,6,Finished,11,0 days 00:01:26.788000,0 days 00:00:05.489000
+2022,Round Canadian Grand Prix,24,ZHO,Alfa Romeo,10,8,4,Finished,10,0 days 00:01:24.030000,0 days 00:00:02.731000
+2022,Round Canadian Grand Prix,14,ALO,Alpine,2,9,2,Finished,2,0 days 00:01:21.944000,0 days 00:00:00.645000
+2022,Round Canadian Grand Prix,18,STR,Aston Martin,17,10,1,Finished,18,0 days 00:01:35.532000,0 days 00:00:14.233000
+2022,Round Canadian Grand Prix,3,RIC,McLaren,9,11,0,Finished,9,0 days 00:01:23.749000,0 days 00:00:02.450000
+2022,Round Canadian Grand Prix,5,VET,Aston Martin,16,12,0,Finished,17,0 days 00:01:34.512000,0 days 00:00:13.213000
+2022,Round Canadian Grand Prix,23,ALB,Williams,12,13,0,Finished,12,0 days 00:01:26.858000,0 days 00:00:05.559000
+2022,Round Canadian Grand Prix,10,GAS,AlphaTauri,15,14,0,Finished,16,0 days 00:01:34.492000,0 days 00:00:13.193000
+2022,Round Canadian Grand Prix,4,NOR,McLaren,14,15,0,Finished,14,0 days 00:01:34.066000,0 days 00:00:12.767000
+2022,Round Canadian Grand Prix,6,LAT,Williams,18,16,0,Finished,19,0 days 00:01:35.660000,0 days 00:00:14.361000
+2022,Round Canadian Grand Prix,20,MAG,Haas F1 Team,5,17,0,Finished,5,0 days 00:01:22.960000,0 days 00:00:01.661000
+2022,Round Canadian Grand Prix,22,TSU,AlphaTauri,20,18,0,Accident,20,0 days 00:01:36.575000,0 days 00:00:15.276000
+2022,Round Canadian Grand Prix,47,MSC,Haas F1 Team,6,19,0,Engine,6,0 days 00:01:23.356000,0 days 00:00:02.057000
+2022,Round Canadian Grand Prix,11,PER,Red Bull Racing,13,20,0,Gearbox,13,0 days 00:01:33.127000,0 days 00:00:11.828000
+2022,Round Austrian Grand Prix,16,LEC,Ferrari,2,1,25,Finished,2,0 days 00:01:05.013000,0 days 00:00:00.029000
+2022,Round Austrian Grand Prix,1,VER,Red Bull Racing,1,2,19,Finished,1,0 days 00:01:04.984000,0 days 00:00:00
+2022,Round Austrian Grand Prix,44,HAM,Mercedes,8,3,15,Finished,9,0 days 00:01:13.151000,0 days 00:00:08.167000
+2022,Round Austrian Grand Prix,63,RUS,Mercedes,4,4,12,Finished,4,0 days 00:01:05.431000,0 days 00:00:00.447000
+2022,Round Austrian Grand Prix,31,OCO,Alpine,6,5,10,Finished,5,0 days 00:01:05.726000,0 days 00:00:00.742000
+2022,Round Austrian Grand Prix,47,MSC,Haas F1 Team,9,6,8,+1 Lap,7,0 days 00:01:06.011000,0 days 00:00:01.027000
+2022,Round Austrian Grand Prix,4,NOR,McLaren,10,7,6,+1 Lap,15,0 days 00:01:25.847000,0 days 00:00:20.863000
+2022,Round Austrian Grand Prix,20,MAG,Haas F1 Team,7,8,4,+1 Lap,6,0 days 00:01:05.879000,0 days 00:00:00.895000
+2022,Round Austrian Grand Prix,3,RIC,McLaren,11,9,2,+1 Lap,16,0 days 00:01:06.613000,0 days 00:00:01.629000
+2022,Round Austrian Grand Prix,14,ALO,Alpine,19,10,1,+1 Lap,8,0 days 00:01:06.103000,0 days 00:00:01.119000
+2022,Round Austrian Grand Prix,77,BOT,Alfa Romeo,0,11,0,+1 Lap,12,0 days 00:01:06.319000,0 days 00:00:01.335000
+2022,Round Austrian Grand Prix,23,ALB,Williams,15,12,0,+1 Lap,11,0 days 00:01:06.230000,0 days 00:00:01.246000
+2022,Round Austrian Grand Prix,18,STR,Aston Martin,12,13,0,+1 Lap,17,0 days 00:01:06.847000,0 days 00:00:01.863000
+2022,Round Austrian Grand Prix,24,ZHO,Alfa Romeo,13,14,0,+1 Lap,18,0 days 00:01:06.901000,0 days 00:00:01.917000
+2022,Round Austrian Grand Prix,10,GAS,AlphaTauri,14,15,0,+1 Lap,10,0 days 00:01:06.160000,0 days 00:00:01.176000
+2022,Round Austrian Grand Prix,22,TSU,AlphaTauri,16,16,0,+1 Lap,14,0 days 00:01:06.851000,0 days 00:00:01.867000
+2022,Round Austrian Grand Prix,5,VET,Aston Martin,18,17,0,+1 Lap,20,0 days 00:01:07.083000,0 days 00:00:02.099000
+2022,Round Austrian Grand Prix,55,SAI,Ferrari,3,18,0,Power Unit,3,0 days 00:01:05.066000,0 days 00:00:00.082000
+2022,Round Austrian Grand Prix,6,LAT,Williams,17,19,0,Undertray,19,0 days 00:01:07.003000,0 days 00:00:02.019000
+2022,Round Austrian Grand Prix,11,PER,Red Bull Racing,5,20,0,Collision damage,13,0 days 00:01:06.458000,0 days 00:00:01.474000
+2022,Round British Grand Prix,55,SAI,Ferrari,1,1,25,Finished,1,0 days 00:01:40.983000,0 days 00:00:00
+2022,Round British Grand Prix,11,PER,Red Bull Racing,4,2,18,Finished,4,0 days 00:01:41.616000,0 days 00:00:00.633000
+2022,Round British Grand Prix,44,HAM,Mercedes,5,3,16,Finished,5,0 days 00:01:41.995000,0 days 00:00:01.012000
+2022,Round British Grand Prix,16,LEC,Ferrari,3,4,12,Finished,3,0 days 00:01:41.298000,0 days 00:00:00.315000
+2022,Round British Grand Prix,14,ALO,Alpine,7,5,10,Finished,7,0 days 00:01:42.116000,0 days 00:00:01.133000
+2022,Round British Grand Prix,4,NOR,McLaren,6,6,8,Finished,6,0 days 00:01:42.084000,0 days 00:00:01.101000
+2022,Round British Grand Prix,1,VER,Red Bull Racing,2,7,6,Finished,2,0 days 00:01:41.055000,0 days 00:00:00.072000
+2022,Round British Grand Prix,47,MSC,Haas F1 Team,19,8,4,Finished,19,0 days 00:01:42.708000,0 days 00:00:01.725000
+2022,Round British Grand Prix,5,VET,Aston Martin,18,9,2,Finished,18,0 days 00:01:42.666000,0 days 00:00:01.683000
+2022,Round British Grand Prix,20,MAG,Haas F1 Team,17,10,1,Finished,17,0 days 00:01:42.159000,0 days 00:00:01.176000
+2022,Round British Grand Prix,18,STR,Aston Martin,20,11,0,Finished,20,0 days 00:01:43.430000,0 days 00:00:02.447000
+2022,Round British Grand Prix,6,LAT,Williams,10,12,0,Finished,10,0 days 00:02:03.095000,0 days 00:00:22.112000
+2022,Round British Grand Prix,3,RIC,McLaren,14,13,0,Finished,14,0 days 00:01:44.355000,0 days 00:00:03.372000
+2022,Round British Grand Prix,22,TSU,AlphaTauri,13,14,0,Finished,13,0 days 00:01:44.311000,0 days 00:00:03.328000
+2022,Round British Grand Prix,31,OCO,Alpine,15,15,0,Fuel pump,15,0 days 00:01:45.190000,0 days 00:00:04.207000
+2022,Round British Grand Prix,10,GAS,AlphaTauri,11,16,0,Collision damage,11,0 days 00:01:43.702000,0 days 00:00:02.719000
+2022,Round British Grand Prix,77,BOT,Alfa Romeo,12,17,0,Gearbox,12,0 days 00:01:44.232000,0 days 00:00:03.249000
+2022,Round British Grand Prix,63,RUS,Mercedes,8,18,0,Collision,8,0 days 00:01:42.161000,0 days 00:00:01.178000
+2022,Round British Grand Prix,24,ZHO,Alfa Romeo,9,19,0,Collision,9,0 days 00:01:42.719000,0 days 00:00:01.736000
+2022,Round British Grand Prix,23,ALB,Williams,16,20,0,Collision,16,0 days 00:01:42.078000,0 days 00:00:01.095000
+2022,Round Belgian Grand Prix,1,VER,Red Bull Racing,14,1,26,Finished,1,0 days 00:01:43.665000,0 days 00:00:00
+2022,Round Belgian Grand Prix,11,PER,Red Bull Racing,2,2,18,Finished,3,0 days 00:01:44.462000,0 days 00:00:00.797000
+2022,Round Belgian Grand Prix,55,SAI,Ferrari,1,3,15,Finished,2,0 days 00:01:44.297000,0 days 00:00:00.632000
+2022,Round Belgian Grand Prix,63,RUS,Mercedes,5,4,12,Finished,8,0 days 00:01:45.776000,0 days 00:00:02.111000
+2022,Round Belgian Grand Prix,14,ALO,Alpine,3,5,10,Finished,6,0 days 00:01:45.368000,0 days 00:00:01.703000
+2022,Round Belgian Grand Prix,16,LEC,Ferrari,15,6,8,Finished,4,0 days 00:01:44.553000,0 days 00:00:00.888000
+2022,Round Belgian Grand Prix,31,OCO,Alpine,16,7,6,Finished,5,0 days 00:01:45.180000,0 days 00:00:01.515000
+2022,Round Belgian Grand Prix,5,VET,Aston Martin,10,8,4,Finished,16,0 days 00:01:46.344000,0 days 00:00:02.679000
+2022,Round Belgian Grand Prix,10,GAS,AlphaTauri,0,9,2,Finished,12,0 days 00:01:45.827000,0 days 00:00:02.162000
+2022,Round Belgian Grand Prix,23,ALB,Williams,6,10,1,Finished,9,0 days 00:01:45.837000,0 days 00:00:02.172000
+2022,Round Belgian Grand Prix,18,STR,Aston Martin,9,11,0,Finished,14,0 days 00:01:46.611000,0 days 00:00:02.946000
+2022,Round Belgian Grand Prix,4,NOR,McLaren,17,12,0,Finished,10,0 days 00:01:46.178000,0 days 00:00:02.513000
+2022,Round Belgian Grand Prix,22,TSU,AlphaTauri,0,13,0,Finished,19,0 days 00:01:46.692000,0 days 00:00:03.027000
+2022,Round Belgian Grand Prix,24,ZHO,Alfa Romeo,18,14,0,Finished,13,0 days 00:01:46.085000,0 days 00:00:02.420000
+2022,Round Belgian Grand Prix,3,RIC,McLaren,7,15,0,Finished,11,0 days 00:01:45.767000,0 days 00:00:02.102000
+2022,Round Belgian Grand Prix,20,MAG,Haas F1 Team,12,16,0,+1 Lap,18,0 days 00:01:46.557000,0 days 00:00:02.892000
+2022,Round Belgian Grand Prix,47,MSC,Haas F1 Team,19,17,0,+1 Lap,15,0 days 00:01:47.718000,0 days 00:00:04.053000
+2022,Round Belgian Grand Prix,6,LAT,Williams,11,18,0,+1 Lap,17,0 days 00:01:46.401000,0 days 00:00:02.736000
+2022,Round Belgian Grand Prix,77,BOT,Alfa Romeo,13,19,0,Accident,20,0 days 00:01:47.866000,0 days 00:00:04.201000
+2022,Round Belgian Grand Prix,44,HAM,Mercedes,4,20,0,Collision damage,7,0 days 00:01:45.503000,0 days 00:00:01.838000
+2022,Round Hungarian Grand Prix,1,VER,Red Bull,10,1,25,Finished,10,0 days 00:01:18.823000,0 days 00:00:01.446000
+2022,Round Hungarian Grand Prix,44,HAM,Mercedes,7,2,19,Finished,7,0 days 00:01:18.142000,0 days 00:00:00.765000
+2022,Round Hungarian Grand Prix,63,RUS,Mercedes,1,3,15,Finished,1,0 days 00:01:17.377000,0 days 00:00:00
+2022,Round Hungarian Grand Prix,55,SAI,Ferrari,2,4,12,Finished,2,0 days 00:01:17.421000,0 days 00:00:00.044000
+2022,Round Hungarian Grand Prix,11,PER,Red Bull,11,5,10,Finished,11,0 days 00:01:18.516000,0 days 00:00:01.139000
+2022,Round Hungarian Grand Prix,16,LEC,Ferrari,3,6,8,Finished,3,0 days 00:01:17.567000,0 days 00:00:00.190000
+2022,Round Hungarian Grand Prix,4,NOR,McLaren,4,7,6,Finished,4,0 days 00:01:17.769000,0 days 00:00:00.392000
+2022,Round Hungarian Grand Prix,14,ALO,Alpine F1 Team,6,8,4,+1 Lap,6,0 days 00:01:18.078000,0 days 00:00:00.701000
+2022,Round Hungarian Grand Prix,31,OCO,Alpine F1 Team,5,9,2,+1 Lap,5,0 days 00:01:18.018000,0 days 00:00:00.641000
+2022,Round Hungarian Grand Prix,5,VET,Aston Martin,18,10,1,+1 Lap,18,0 days 00:01:19.273000,0 days 00:00:01.896000
+2022,Round Hungarian Grand Prix,18,STR,Aston Martin,14,11,0,+1 Lap,14,0 days 00:01:19.137000,0 days 00:00:01.760000
+2022,Round Hungarian Grand Prix,10,GAS,AlphaTauri,0,12,0,+1 Lap,19,0 days 00:01:19.527000,0 days 00:00:02.150000
+2022,Round Hungarian Grand Prix,24,ZHO,Alfa Romeo,12,13,0,+1 Lap,12,0 days 00:01:18.573000,0 days 00:00:01.196000
+2022,Round Hungarian Grand Prix,47,MSC,Haas F1 Team,15,14,0,+1 Lap,15,0 days 00:01:19.202000,0 days 00:00:01.825000
+2022,Round Hungarian Grand Prix,3,RIC,McLaren,9,15,0,+1 Lap,9,0 days 00:01:18.379000,0 days 00:00:01.002000
+2022,Round Hungarian Grand Prix,20,MAG,Haas F1 Team,13,16,0,+1 Lap,13,0 days 00:01:18.825000,0 days 00:00:01.448000
+2022,Round Hungarian Grand Prix,23,ALB,Williams,17,17,0,+1 Lap,17,0 days 00:01:19.256000,0 days 00:00:01.879000
+2022,Round Hungarian Grand Prix,6,LAT,Williams,19,18,0,+1 Lap,20,0 days 00:01:19.570000,0 days 00:00:02.193000
+2022,Round Hungarian Grand Prix,22,TSU,AlphaTauri,16,19,0,+2 Laps,16,0 days 00:01:19.240000,0 days 00:00:01.863000
+2022,Round Hungarian Grand Prix,77,BOT,Alfa Romeo,8,20,0,Power Unit,8,0 days 00:01:18.157000,0 days 00:00:00.780000
+2022,Round Dutch Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:10.342000,0 days 00:00:00
+2022,Round Dutch Grand Prix,63,RUS,Mercedes,6,2,18,Finished,6,0 days 00:01:11.147000,0 days 00:00:00.805000
+2022,Round Dutch Grand Prix,16,LEC,Ferrari,2,3,15,Finished,2,0 days 00:01:10.363000,0 days 00:00:00.021000
+2022,Round Dutch Grand Prix,44,HAM,Mercedes,4,4,12,Finished,4,0 days 00:01:10.648000,0 days 00:00:00.306000
+2022,Round Dutch Grand Prix,11,PER,Red Bull Racing,5,5,10,Finished,5,0 days 00:01:11.077000,0 days 00:00:00.735000
+2022,Round Dutch Grand Prix,14,ALO,Alpine,13,6,8,Finished,13,0 days 00:01:11.613000,0 days 00:00:01.271000
+2022,Round Dutch Grand Prix,4,NOR,McLaren,7,7,6,Finished,7,0 days 00:01:11.174000,0 days 00:00:00.832000
+2022,Round Dutch Grand Prix,55,SAI,Ferrari,3,8,4,Finished,3,0 days 00:01:10.434000,0 days 00:00:00.092000
+2022,Round Dutch Grand Prix,31,OCO,Alpine,12,9,2,Finished,12,0 days 00:01:11.605000,0 days 00:00:01.263000
+2022,Round Dutch Grand Prix,18,STR,Aston Martin,10,10,1,Finished,10,0 days 00:01:11.416000,0 days 00:00:01.074000
+2022,Round Dutch Grand Prix,10,GAS,AlphaTauri,11,11,0,Finished,11,0 days 00:01:11.512000,0 days 00:00:01.170000
+2022,Round Dutch Grand Prix,23,ALB,Williams,15,12,0,Finished,15,0 days 00:01:11.802000,0 days 00:00:01.460000
+2022,Round Dutch Grand Prix,47,MSC,Haas F1 Team,8,13,0,Finished,8,0 days 00:01:11.442000,0 days 00:00:01.100000
+2022,Round Dutch Grand Prix,5,VET,Aston Martin,19,14,0,Finished,19,0 days 00:01:12.391000,0 days 00:00:02.049000
+2022,Round Dutch Grand Prix,20,MAG,Haas F1 Team,18,15,0,Finished,18,0 days 00:01:12.319000,0 days 00:00:01.977000
+2022,Round Dutch Grand Prix,24,ZHO,Alfa Romeo,14,16,0,Finished,14,0 days 00:01:11.704000,0 days 00:00:01.362000
+2022,Round Dutch Grand Prix,3,RIC,McLaren,17,17,0,Finished,17,0 days 00:01:12.081000,0 days 00:00:01.739000
+2022,Round Dutch Grand Prix,6,LAT,Williams,20,18,0,+1 Lap,20,0 days 00:01:13.353000,0 days 00:00:03.011000
+2022,Round Dutch Grand Prix,77,BOT,Alfa Romeo,16,19,0,Engine,16,0 days 00:01:11.961000,0 days 00:00:01.619000
+2022,Round Dutch Grand Prix,22,TSU,AlphaTauri,9,20,0,Differential,9,0 days 00:01:12.556000,0 days 00:00:02.214000
+2022,Round Italian Grand Prix,1,VER,Red Bull,7,1,25,Finished,2,0 days 00:01:20.306000,0 days 00:00:00.145000
+2022,Round Italian Grand Prix,16,LEC,Ferrari,1,2,18,Finished,1,0 days 00:01:20.161000,0 days 00:00:00
+2022,Round Italian Grand Prix,63,RUS,Mercedes,2,3,15,Finished,6,0 days 00:01:21.542000,0 days 00:00:01.381000
+2022,Round Italian Grand Prix,55,SAI,Ferrari,18,4,12,Finished,3,0 days 00:01:20.429000,0 days 00:00:00.268000
+2022,Round Italian Grand Prix,44,HAM,Mercedes,19,5,10,Finished,5,0 days 00:01:21.524000,0 days 00:00:01.363000
+2022,Round Italian Grand Prix,11,PER,Red Bull,13,6,9,Finished,4,0 days 00:01:21.206000,0 days 00:00:01.045000
+2022,Round Italian Grand Prix,4,NOR,McLaren,3,7,6,Finished,7,0 days 00:01:21.584000,0 days 00:00:01.423000
+2022,Round Italian Grand Prix,10,GAS,AlphaTauri,5,8,4,Finished,9,0 days 00:01:22.648000,0 days 00:00:02.487000
+2022,Round Italian Grand Prix,45,DEV,Williams,8,9,2,Finished,13,0 days 00:01:22.471000,0 days 00:00:02.310000
+2022,Round Italian Grand Prix,24,ZHO,Alfa Romeo,9,10,1,Finished,14,0 days 00:01:22.577000,0 days 00:00:02.416000
+2022,Round Italian Grand Prix,31,OCO,Alpine F1 Team,14,11,0,Finished,11,0 days 00:01:22.130000,0 days 00:00:01.969000
+2022,Round Italian Grand Prix,47,MSC,Haas F1 Team,17,12,0,Finished,20,0 days 00:01:23.005000,0 days 00:00:02.844000
+2022,Round Italian Grand Prix,77,BOT,Alfa Romeo,15,13,0,+1 Lap,12,0 days 00:01:22.235000,0 days 00:00:02.074000
+2022,Round Italian Grand Prix,22,TSU,AlphaTauri,20,14,0,+1 Lap,15,0 days 00:01:22.020000,0 days 00:00:01.859000
+2022,Round Italian Grand Prix,6,LAT,Williams,10,15,0,+1 Lap,16,0 days 00:01:22.587000,0 days 00:00:02.426000
+2022,Round Italian Grand Prix,20,MAG,Haas F1 Team,16,16,0,+1 Lap,19,0 days 00:01:22.908000,0 days 00:00:02.747000
+2022,Round Italian Grand Prix,3,RIC,McLaren,4,17,0,Oil leak,8,0 days 00:01:21.925000,0 days 00:00:01.764000
+2022,Round Italian Grand Prix,18,STR,Aston Martin,12,18,0,Engine,18,0 days 00:01:22.748000,0 days 00:00:02.587000
+2022,Round Italian Grand Prix,14,ALO,Alpine F1 Team,6,19,0,Water pressure,10,0 days 00:01:21.861000,0 days 00:00:01.700000
+2022,Round Italian Grand Prix,5,VET,Aston Martin,11,20,0,Engine,17,0 days 00:01:22.636000,0 days 00:00:02.475000
+2022,Round Azerbaijan Grand Prix,1,VER,Red Bull,3,1,25,Finished,3,0 days 00:01:41.706000,0 days 00:00:00.347000
+2022,Round Azerbaijan Grand Prix,11,PER,Red Bull,2,2,19,Finished,2,0 days 00:01:41.641000,0 days 00:00:00.282000
+2022,Round Azerbaijan Grand Prix,63,RUS,Mercedes,5,3,15,Finished,5,0 days 00:01:42.712000,0 days 00:00:01.353000
+2022,Round Azerbaijan Grand Prix,44,HAM,Mercedes,7,4,12,Finished,7,0 days 00:01:42.924000,0 days 00:00:01.565000
+2022,Round Azerbaijan Grand Prix,10,GAS,AlphaTauri,6,5,10,Finished,6,0 days 00:01:42.845000,0 days 00:00:01.486000
+2022,Round Azerbaijan Grand Prix,5,VET,Aston Martin,9,6,8,Finished,9,0 days 00:01:43.091000,0 days 00:00:01.732000
+2022,Round Azerbaijan Grand Prix,14,ALO,Alpine F1 Team,10,7,6,Finished,10,0 days 00:01:43.173000,0 days 00:00:01.814000
+2022,Round Azerbaijan Grand Prix,3,RIC,McLaren,12,8,4,Finished,12,0 days 00:01:43.574000,0 days 00:00:02.215000
+2022,Round Azerbaijan Grand Prix,4,NOR,McLaren,11,9,2,Finished,11,0 days 00:01:43.398000,0 days 00:00:02.039000
+2022,Round Azerbaijan Grand Prix,31,OCO,Alpine F1 Team,13,10,1,Finished,13,0 days 00:01:43.585000,0 days 00:00:02.226000
+2022,Round Azerbaijan Grand Prix,77,BOT,Alfa Romeo,15,11,0,+1 Lap,15,0 days 00:01:44.444000,0 days 00:00:03.085000
+2022,Round Azerbaijan Grand Prix,23,ALB,Williams,17,12,0,+1 Lap,17,0 days 00:01:44.719000,0 days 00:00:03.360000
+2022,Round Azerbaijan Grand Prix,22,TSU,AlphaTauri,8,13,0,+1 Lap,8,0 days 00:01:43.056000,0 days 00:00:01.697000
+2022,Round Azerbaijan Grand Prix,47,MSC,Haas F1 Team,20,14,0,+1 Lap,20,0 days 00:01:45.775000,0 days 00:00:04.416000
+2022,Round Azerbaijan Grand Prix,6,LAT,Williams,18,15,0,+1 Lap,18,0 days 00:01:45.367000,0 days 00:00:04.008000
+2022,Round Azerbaijan Grand Prix,18,STR,Aston Martin,19,16,0,Vibrations,19,0 days 00:01:45.371000,0 days 00:00:04.012000
+2022,Round Azerbaijan Grand Prix,20,MAG,Haas F1 Team,16,17,0,Power Unit,16,0 days 00:01:44.643000,0 days 00:00:03.284000
+2022,Round Azerbaijan Grand Prix,24,ZHO,Alfa Romeo,14,18,0,Hydraulics,14,0 days 00:01:43.790000,0 days 00:00:02.431000
+2022,Round Azerbaijan Grand Prix,16,LEC,Ferrari,1,19,0,Power Unit,1,0 days 00:01:41.359000,0 days 00:00:00
+2022,Round Azerbaijan Grand Prix,55,SAI,Ferrari,4,20,0,Hydraulics,4,0 days 00:01:41.814000,0 days 00:00:00.455000
+2022,Round Singapore Grand Prix,11,PER,Red Bull,2,1,25,Finished,2,0 days 00:01:49.434000,0 days 00:00:00.022000
+2022,Round Singapore Grand Prix,16,LEC,Ferrari,1,2,18,Finished,1,0 days 00:01:49.412000,0 days 00:00:00
+2022,Round Singapore Grand Prix,55,SAI,Ferrari,4,3,15,Finished,4,0 days 00:01:49.583000,0 days 00:00:00.171000
+2022,Round Singapore Grand Prix,4,NOR,McLaren,6,4,12,Finished,6,0 days 00:01:50.584000,0 days 00:00:01.172000
+2022,Round Singapore Grand Prix,3,RIC,McLaren,16,5,10,Finished,17,0 days 00:01:56.226000,0 days 00:00:06.814000
+2022,Round Singapore Grand Prix,18,STR,Aston Martin,11,6,8,Finished,12,0 days 00:01:54.211000,0 days 00:00:04.799000
+2022,Round Singapore Grand Prix,1,VER,Red Bull,8,7,6,Finished,8,0 days 00:01:51.395000,0 days 00:00:01.983000
+2022,Round Singapore Grand Prix,5,VET,Aston Martin,13,8,4,Finished,14,0 days 00:01:54.380000,0 days 00:00:04.968000
+2022,Round Singapore Grand Prix,44,HAM,Mercedes,3,9,2,Finished,3,0 days 00:01:49.466000,0 days 00:00:00.054000
+2022,Round Singapore Grand Prix,10,GAS,AlphaTauri,7,10,1,Finished,7,0 days 00:01:51.211000,0 days 00:00:01.799000
+2022,Round Singapore Grand Prix,77,BOT,Alfa Romeo,15,11,0,Finished,16,0 days 00:01:56.083000,0 days 00:00:06.671000
+2022,Round Singapore Grand Prix,20,MAG,Haas F1 Team,9,12,0,Finished,9,0 days 00:01:51.573000,0 days 00:00:02.161000
+2022,Round Singapore Grand Prix,47,MSC,Haas F1 Team,12,13,0,+1 Lap,13,0 days 00:01:54.370000,0 days 00:00:04.958000
+2022,Round Singapore Grand Prix,63,RUS,Mercedes,0,14,0,+2 Laps,11,0 days 00:01:54.012000,0 days 00:00:04.600000
+2022,Round Singapore Grand Prix,22,TSU,AlphaTauri,10,15,0,Accident,10,0 days 00:01:51.983000,0 days 00:00:02.571000
+2022,Round Singapore Grand Prix,31,OCO,Alpine F1 Team,17,16,0,Engine,18,0 days 00:01:56.337000,0 days 00:00:06.925000
+2022,Round Singapore Grand Prix,23,ALB,Williams,18,17,0,Collision damage,19,0 days 00:01:56.985000,0 days 00:00:07.573000
+2022,Round Singapore Grand Prix,14,ALO,Alpine F1 Team,5,18,0,Engine,5,0 days 00:01:49.966000,0 days 00:00:00.554000
+2022,Round Singapore Grand Prix,6,LAT,Williams,19,19,0,Collision damage,20,0 days 00:01:57.532000,0 days 00:00:08.120000
+2022,Round Singapore Grand Prix,24,ZHO,Alfa Romeo,14,20,0,Collision,15,0 days 00:01:55.518000,0 days 00:00:06.106000
+2022,Round United States Grand Prix,1,VER,Red Bull,2,1,25,Finished,3,0 days 00:01:34.448000,0 days 00:00:00.092000
+2022,Round United States Grand Prix,44,HAM,Mercedes,3,2,18,Finished,5,0 days 00:01:34.947000,0 days 00:00:00.591000
+2022,Round United States Grand Prix,16,LEC,Ferrari,12,3,15,Finished,2,0 days 00:01:34.421000,0 days 00:00:00.065000
+2022,Round United States Grand Prix,11,PER,Red Bull,9,4,12,Finished,4,0 days 00:01:34.645000,0 days 00:00:00.289000
+2022,Round United States Grand Prix,63,RUS,Mercedes,4,5,11,Finished,6,0 days 00:01:34.988000,0 days 00:00:00.632000
+2022,Round United States Grand Prix,4,NOR,McLaren,6,6,8,Finished,8,0 days 00:01:35.690000,0 days 00:00:01.334000
+2022,Round United States Grand Prix,14,ALO,Alpine F1 Team,14,7,6,Finished,9,0 days 00:01:35.876000,0 days 00:00:01.520000
+2022,Round United States Grand Prix,5,VET,Aston Martin,10,8,4,Finished,12,0 days 00:01:36.398000,0 days 00:00:02.042000
+2022,Round United States Grand Prix,20,MAG,Haas F1 Team,13,9,2,Finished,16,0 days 00:01:36.949000,0 days 00:00:02.593000
+2022,Round United States Grand Prix,22,TSU,AlphaTauri,19,10,1,Finished,15,0 days 00:01:37.147000,0 days 00:00:02.791000
+2022,Round United States Grand Prix,31,OCO,Alpine F1 Team,0,11,0,Finished,18,0 days 00:01:37.068000,0 days 00:00:02.712000
+2022,Round United States Grand Prix,24,ZHO,Alfa Romeo,18,12,0,Finished,14,0 days 00:01:36.970000,0 days 00:00:02.614000
+2022,Round United States Grand Prix,23,ALB,Williams,8,13,0,Finished,11,0 days 00:01:36.368000,0 days 00:00:02.012000
+2022,Round United States Grand Prix,10,GAS,AlphaTauri,11,14,0,Finished,13,0 days 00:01:36.740000,0 days 00:00:02.384000
+2022,Round United States Grand Prix,47,MSC,Haas F1 Team,16,15,0,Finished,19,0 days 00:01:37.111000,0 days 00:00:02.755000
+2022,Round United States Grand Prix,3,RIC,McLaren,15,16,0,Finished,17,0 days 00:01:37.046000,0 days 00:00:02.690000
+2022,Round United States Grand Prix,6,LAT,Williams,17,17,0,Finished,20,0 days 00:01:37.244000,0 days 00:00:02.888000
+2022,Round United States Grand Prix,18,STR,Aston Martin,5,18,0,Collision,7,0 days 00:01:35.598000,0 days 00:00:01.242000
+2022,Round United States Grand Prix,77,BOT,Alfa Romeo,7,19,0,Spun off,10,0 days 00:01:36.319000,0 days 00:00:01.963000
+2022,Round United States Grand Prix,55,SAI,Ferrari,1,20,0,Collision damage,1,0 days 00:01:34.356000,0 days 00:00:00
+2022,Round Mexico City Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:17.775000,0 days 00:00:00
+2022,Round Mexico City Grand Prix,44,HAM,Mercedes,3,2,18,Finished,3,0 days 00:01:18.084000,0 days 00:00:00.309000
+2022,Round Mexico City Grand Prix,11,PER,Red Bull Racing,4,3,15,Finished,4,0 days 00:01:18.128000,0 days 00:00:00.353000
+2022,Round Mexico City Grand Prix,63,RUS,Mercedes,2,4,13,Finished,2,0 days 00:01:18.079000,0 days 00:00:00.304000
+2022,Round Mexico City Grand Prix,55,SAI,Ferrari,5,5,10,Finished,5,0 days 00:01:18.351000,0 days 00:00:00.576000
+2022,Round Mexico City Grand Prix,16,LEC,Ferrari,7,6,8,Finished,7,0 days 00:01:18.555000,0 days 00:00:00.780000
+2022,Round Mexico City Grand Prix,3,RIC,McLaren,11,7,6,+1 Lap,11,0 days 00:01:19.325000,0 days 00:00:01.550000
+2022,Round Mexico City Grand Prix,31,OCO,Alpine,10,8,4,+1 Lap,10,0 days 00:01:19.010000,0 days 00:00:01.235000
+2022,Round Mexico City Grand Prix,4,NOR,McLaren,8,9,2,+1 Lap,8,0 days 00:01:18.721000,0 days 00:00:00.946000
+2022,Round Mexico City Grand Prix,77,BOT,Alfa Romeo,6,10,1,+1 Lap,6,0 days 00:01:18.401000,0 days 00:00:00.626000
+2022,Round Mexico City Grand Prix,10,GAS,AlphaTauri,14,11,0,+1 Lap,14,0 days 00:01:19.672000,0 days 00:00:01.897000
+2022,Round Mexico City Grand Prix,23,ALB,Williams,17,12,0,+1 Lap,19,0 days 00:01:20.859000,0 days 00:00:03.084000
+2022,Round Mexico City Grand Prix,24,ZHO,Alfa Romeo,12,13,0,+1 Lap,12,0 days 00:01:19.476000,0 days 00:00:01.701000
+2022,Round Mexico City Grand Prix,5,VET,Aston Martin,16,14,0,+1 Lap,17,0 days 00:01:20.419000,0 days 00:00:02.644000
+2022,Round Mexico City Grand Prix,18,STR,Aston Martin,20,15,0,+1 Lap,18,0 days 00:01:20.520000,0 days 00:00:02.745000
+2022,Round Mexico City Grand Prix,47,MSC,Haas F1 Team,15,16,0,+1 Lap,16,0 days 00:01:20.419000,0 days 00:00:02.644000
+2022,Round Mexico City Grand Prix,20,MAG,Haas F1 Team,19,17,0,+1 Lap,15,0 days 00:01:19.833000,0 days 00:00:02.058000
+2022,Round Mexico City Grand Prix,6,LAT,Williams,18,18,0,+2 Laps,20,0 days 00:01:21.167000,0 days 00:00:03.392000
+2022,Round Mexico City Grand Prix,14,ALO,Alpine,9,19,0,Engine,9,0 days 00:01:18.939000,0 days 00:00:01.164000
+2022,Round Mexico City Grand Prix,22,TSU,AlphaTauri,13,20,0,Collision damage,13,0 days 00:01:19.589000,0 days 00:00:01.814000
+2022,Round São Paulo Grand Prix,63,RUS,Mercedes,1,1,26,Finished,3,0 days 00:01:12.059000,0 days 00:00:01.109000
+2022,Round São Paulo Grand Prix,44,HAM,Mercedes,2,2,18,Finished,8,0 days 00:01:12.611000,0 days 00:00:01.661000
+2022,Round São Paulo Grand Prix,55,SAI,Ferrari,7,3,15,Finished,5,0 days 00:01:12.357000,0 days 00:00:01.407000
+2022,Round São Paulo Grand Prix,16,LEC,Ferrari,5,4,12,Finished,10,0 days 00:01:10.950000,0 days 00:00:00
+2022,Round São Paulo Grand Prix,14,ALO,Alpine,17,5,10,Finished,7,0 days 00:01:12.504000,0 days 00:00:01.554000
+2022,Round São Paulo Grand Prix,1,VER,Red Bull Racing,3,6,8,Finished,2,0 days 00:01:11.877000,0 days 00:00:00.927000
+2022,Round São Paulo Grand Prix,11,PER,Red Bull Racing,4,7,6,Finished,9,0 days 00:01:15.601000,0 days 00:00:04.651000
+2022,Round São Paulo Grand Prix,31,OCO,Alpine,16,8,4,Finished,6,0 days 00:01:12.425000,0 days 00:00:01.475000
+2022,Round São Paulo Grand Prix,77,BOT,Alfa Romeo,14,9,2,Finished,18,0 days 00:01:15.486000,0 days 00:00:04.536000
+2022,Round São Paulo Grand Prix,18,STR,Aston Martin,15,10,1,Finished,15,0 days 00:01:12.210000,0 days 00:00:01.260000
+2022,Round São Paulo Grand Prix,5,VET,Aston Martin,9,11,0,Finished,13,0 days 00:01:11.678000,0 days 00:00:00.728000
+2022,Round São Paulo Grand Prix,24,ZHO,Alfa Romeo,13,12,0,Finished,17,0 days 00:01:15.197000,0 days 00:00:04.247000
+2022,Round São Paulo Grand Prix,47,MSC,Haas F1 Team,12,13,0,Finished,20,0 days 00:01:16.361000,0 days 00:00:05.411000
+2022,Round São Paulo Grand Prix,10,GAS,AlphaTauri,10,14,0,Finished,12,0 days 00:01:11.675000,0 days 00:00:00.725000
+2022,Round São Paulo Grand Prix,23,ALB,Williams,19,15,0,Finished,11,0 days 00:01:11.631000,0 days 00:00:00.681000
+2022,Round São Paulo Grand Prix,6,LAT,Williams,18,16,0,Finished,16,0 days 00:01:15.095000,0 days 00:00:04.145000
+2022,Round São Paulo Grand Prix,22,TSU,AlphaTauri,0,17,0,+1 Lap,19,0 days 00:01:16.264000,0 days 00:00:05.314000
+2022,Round São Paulo Grand Prix,4,NOR,McLaren,6,18,0,Gearbox,4,0 days 00:01:12.263000,0 days 00:00:01.313000
+2022,Round São Paulo Grand Prix,20,MAG,Haas F1 Team,8,19,0,Collision,1,0 days 00:01:11.674000,0 days 00:00:00.724000
+2022,Round São Paulo Grand Prix,3,RIC,McLaren,11,20,0,Collision,14,0 days 00:01:12.140000,0 days 00:00:01.190000
+2022,Round Las Vegas Grand Prix,55,SAI,Ferrari,1,1,25,Finished,1,0 days 00:01:40.983000,0 days 00:00:00
+2022,Round Las Vegas Grand Prix,11,PER,Red Bull Racing,4,2,18,Finished,4,0 days 00:01:41.616000,0 days 00:00:00.633000
+2022,Round Las Vegas Grand Prix,44,HAM,Mercedes,5,3,16,Finished,5,0 days 00:01:41.995000,0 days 00:00:01.012000
+2022,Round Las Vegas Grand Prix,16,LEC,Ferrari,3,4,12,Finished,3,0 days 00:01:41.298000,0 days 00:00:00.315000
+2022,Round Las Vegas Grand Prix,14,ALO,Alpine,7,5,10,Finished,7,0 days 00:01:42.116000,0 days 00:00:01.133000
+2022,Round Las Vegas Grand Prix,4,NOR,McLaren,6,6,8,Finished,6,0 days 00:01:42.084000,0 days 00:00:01.101000
+2022,Round Las Vegas Grand Prix,1,VER,Red Bull Racing,2,7,6,Finished,2,0 days 00:01:41.055000,0 days 00:00:00.072000
+2022,Round Las Vegas Grand Prix,47,MSC,Haas F1 Team,19,8,4,Finished,19,0 days 00:01:42.708000,0 days 00:00:01.725000
+2022,Round Las Vegas Grand Prix,5,VET,Aston Martin,18,9,2,Finished,18,0 days 00:01:42.666000,0 days 00:00:01.683000
+2022,Round Las Vegas Grand Prix,20,MAG,Haas F1 Team,17,10,1,Finished,17,0 days 00:01:42.159000,0 days 00:00:01.176000
+2022,Round Las Vegas Grand Prix,18,STR,Aston Martin,20,11,0,Finished,20,0 days 00:01:43.430000,0 days 00:00:02.447000
+2022,Round Las Vegas Grand Prix,6,LAT,Williams,10,12,0,Finished,10,0 days 00:02:03.095000,0 days 00:00:22.112000
+2022,Round Las Vegas Grand Prix,3,RIC,McLaren,14,13,0,Finished,14,0 days 00:01:44.355000,0 days 00:00:03.372000
+2022,Round Las Vegas Grand Prix,22,TSU,AlphaTauri,13,14,0,Finished,13,0 days 00:01:44.311000,0 days 00:00:03.328000
+2022,Round Las Vegas Grand Prix,31,OCO,Alpine,15,15,0,Fuel pump,15,0 days 00:01:45.190000,0 days 00:00:04.207000
+2022,Round Las Vegas Grand Prix,10,GAS,AlphaTauri,11,16,0,Collision damage,11,0 days 00:01:43.702000,0 days 00:00:02.719000
+2022,Round Las Vegas Grand Prix,77,BOT,Alfa Romeo,12,17,0,Gearbox,12,0 days 00:01:44.232000,0 days 00:00:03.249000
+2022,Round Las Vegas Grand Prix,63,RUS,Mercedes,8,18,0,Collision,8,0 days 00:01:42.161000,0 days 00:00:01.178000
+2022,Round Las Vegas Grand Prix,24,ZHO,Alfa Romeo,9,19,0,Collision,9,0 days 00:01:42.719000,0 days 00:00:01.736000
+2022,Round Las Vegas Grand Prix,23,ALB,Williams,16,20,0,Collision,16,0 days 00:01:42.078000,0 days 00:00:01.095000
+2022,Round Qatar Grand Prix,16,LEC,Ferrari,2,1,25,Finished,2,0 days 00:01:05.013000,0 days 00:00:00.029000
+2022,Round Qatar Grand Prix,1,VER,Red Bull Racing,1,2,19,Finished,1,0 days 00:01:04.984000,0 days 00:00:00
+2022,Round Qatar Grand Prix,44,HAM,Mercedes,8,3,15,Finished,9,0 days 00:01:13.151000,0 days 00:00:08.167000
+2022,Round Qatar Grand Prix,63,RUS,Mercedes,4,4,12,Finished,4,0 days 00:01:05.431000,0 days 00:00:00.447000
+2022,Round Qatar Grand Prix,31,OCO,Alpine,6,5,10,Finished,5,0 days 00:01:05.726000,0 days 00:00:00.742000
+2022,Round Qatar Grand Prix,47,MSC,Haas F1 Team,9,6,8,+1 Lap,7,0 days 00:01:06.011000,0 days 00:00:01.027000
+2022,Round Qatar Grand Prix,4,NOR,McLaren,10,7,6,+1 Lap,15,0 days 00:01:25.847000,0 days 00:00:20.863000
+2022,Round Qatar Grand Prix,20,MAG,Haas F1 Team,7,8,4,+1 Lap,6,0 days 00:01:05.879000,0 days 00:00:00.895000
+2022,Round Qatar Grand Prix,3,RIC,McLaren,11,9,2,+1 Lap,16,0 days 00:01:06.613000,0 days 00:00:01.629000
+2022,Round Qatar Grand Prix,14,ALO,Alpine,19,10,1,+1 Lap,8,0 days 00:01:06.103000,0 days 00:00:01.119000
+2022,Round Qatar Grand Prix,77,BOT,Alfa Romeo,0,11,0,+1 Lap,12,0 days 00:01:06.319000,0 days 00:00:01.335000
+2022,Round Qatar Grand Prix,23,ALB,Williams,15,12,0,+1 Lap,11,0 days 00:01:06.230000,0 days 00:00:01.246000
+2022,Round Qatar Grand Prix,18,STR,Aston Martin,12,13,0,+1 Lap,17,0 days 00:01:06.847000,0 days 00:00:01.863000
+2022,Round Qatar Grand Prix,24,ZHO,Alfa Romeo,13,14,0,+1 Lap,18,0 days 00:01:06.901000,0 days 00:00:01.917000
+2022,Round Qatar Grand Prix,10,GAS,AlphaTauri,14,15,0,+1 Lap,10,0 days 00:01:06.160000,0 days 00:00:01.176000
+2022,Round Qatar Grand Prix,22,TSU,AlphaTauri,16,16,0,+1 Lap,14,0 days 00:01:06.851000,0 days 00:00:01.867000
+2022,Round Qatar Grand Prix,5,VET,Aston Martin,18,17,0,+1 Lap,20,0 days 00:01:07.083000,0 days 00:00:02.099000
+2022,Round Qatar Grand Prix,55,SAI,Ferrari,3,18,0,Power Unit,3,0 days 00:01:05.066000,0 days 00:00:00.082000
+2022,Round Qatar Grand Prix,6,LAT,Williams,17,19,0,Undertray,19,0 days 00:01:07.003000,0 days 00:00:02.019000
+2022,Round Qatar Grand Prix,11,PER,Red Bull Racing,5,20,0,Collision damage,13,0 days 00:01:06.458000,0 days 00:00:01.474000
+2022,Round Abu Dhabi Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:23.824000,0 days 00:00:00
+2022,Round Abu Dhabi Grand Prix,16,LEC,Ferrari,3,2,18,Finished,3,0 days 00:01:24.092000,0 days 00:00:00.268000
+2022,Round Abu Dhabi Grand Prix,11,PER,Red Bull Racing,2,3,15,Finished,2,0 days 00:01:24.052000,0 days 00:00:00.228000
+2022,Round Abu Dhabi Grand Prix,55,SAI,Ferrari,4,4,12,Finished,4,0 days 00:01:24.242000,0 days 00:00:00.418000
+2022,Round Abu Dhabi Grand Prix,63,RUS,Mercedes,6,5,10,Finished,6,0 days 00:01:24.511000,0 days 00:00:00.687000
+2022,Round Abu Dhabi Grand Prix,4,NOR,McLaren,7,6,9,Finished,7,0 days 00:01:24.769000,0 days 00:00:00.945000
+2022,Round Abu Dhabi Grand Prix,31,OCO,Alpine,8,7,6,Finished,8,0 days 00:01:24.830000,0 days 00:00:01.006000
+2022,Round Abu Dhabi Grand Prix,18,STR,Aston Martin,14,8,4,Finished,14,0 days 00:01:25.359000,0 days 00:00:01.535000
+2022,Round Abu Dhabi Grand Prix,3,RIC,McLaren,13,9,2,Finished,10,0 days 00:01:25.045000,0 days 00:00:01.221000
+2022,Round Abu Dhabi Grand Prix,5,VET,Aston Martin,9,10,1,Finished,9,0 days 00:01:24.961000,0 days 00:00:01.137000
+2022,Round Abu Dhabi Grand Prix,22,TSU,AlphaTauri,11,11,0,Finished,12,0 days 00:01:25.219000,0 days 00:00:01.395000
+2022,Round Abu Dhabi Grand Prix,24,ZHO,Alfa Romeo,15,12,0,+1 Lap,15,0 days 00:01:25.408000,0 days 00:00:01.584000
+2022,Round Abu Dhabi Grand Prix,23,ALB,Williams,19,13,0,+1 Lap,19,0 days 00:01:26.028000,0 days 00:00:02.204000
+2022,Round Abu Dhabi Grand Prix,10,GAS,AlphaTauri,17,14,0,+1 Lap,17,0 days 00:01:25.859000,0 days 00:00:02.035000
+2022,Round Abu Dhabi Grand Prix,77,BOT,Alfa Romeo,18,15,0,+1 Lap,18,0 days 00:01:25.892000,0 days 00:00:02.068000
+2022,Round Abu Dhabi Grand Prix,47,MSC,Haas F1 Team,12,16,0,+1 Lap,13,0 days 00:01:25.225000,0 days 00:00:01.401000
+2022,Round Abu Dhabi Grand Prix,20,MAG,Haas F1 Team,16,17,0,+1 Lap,16,0 days 00:01:25.834000,0 days 00:00:02.010000
+2022,Round Abu Dhabi Grand Prix,44,HAM,Mercedes,5,18,0,Hydraulics,5,0 days 00:01:24.508000,0 days 00:00:00.684000
+2022,Round Abu Dhabi Grand Prix,6,LAT,Williams,20,19,0,Collision damage,20,0 days 00:01:26.054000,0 days 00:00:02.230000
+2022,Round Abu Dhabi Grand Prix,14,ALO,Alpine,10,20,0,Water leak,11,0 days 00:01:25.096000,0 days 00:00:01.272000
+2023,Round Australian Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:16.732000,0 days 00:00:00
+2023,Round Australian Grand Prix,44,HAM,Mercedes,3,2,18,Finished,3,0 days 00:01:17.104000,0 days 00:00:00.372000
+2023,Round Australian Grand Prix,14,ALO,Aston Martin,4,3,15,Finished,4,0 days 00:01:17.139000,0 days 00:00:00.407000
+2023,Round Australian Grand Prix,18,STR,Aston Martin,6,4,12,Finished,6,0 days 00:01:17.308000,0 days 00:00:00.576000
+2023,Round Australian Grand Prix,11,PER,Red Bull Racing,20,5,11,Finished,20,,
+2023,Round Australian Grand Prix,4,NOR,McLaren,13,6,8,Finished,13,0 days 00:01:18.119000,0 days 00:00:01.387000
+2023,Round Australian Grand Prix,27,HUL,Haas F1 Team,10,7,6,Finished,10,0 days 00:01:17.735000,0 days 00:00:01.003000
+2023,Round Australian Grand Prix,81,PIA,McLaren,16,8,4,Finished,16,0 days 00:01:18.517000,0 days 00:00:01.785000
+2023,Round Australian Grand Prix,24,ZHO,Alfa Romeo,17,9,2,Finished,17,0 days 00:01:18.540000,0 days 00:00:01.808000
+2023,Round Australian Grand Prix,22,TSU,AlphaTauri,12,10,1,Finished,12,0 days 00:01:18.099000,0 days 00:00:01.367000
+2023,Round Australian Grand Prix,77,BOT,Alfa Romeo,19,11,0,Finished,19,0 days 00:01:18.714000,0 days 00:00:01.982000
+2023,Round Australian Grand Prix,55,SAI,Ferrari,5,12,0,Finished,5,0 days 00:01:17.270000,0 days 00:00:00.538000
+2023,Round Australian Grand Prix,10,GAS,Alpine,9,13,0,Finished,9,0 days 00:01:17.675000,0 days 00:00:00.943000
+2023,Round Australian Grand Prix,31,OCO,Alpine,11,14,0,Finished,11,0 days 00:01:17.768000,0 days 00:00:01.036000
+2023,Round Australian Grand Prix,21,DEV,AlphaTauri,15,15,0,Finished,15,0 days 00:01:18.335000,0 days 00:00:01.603000
+2023,Round Australian Grand Prix,2,SAR,Williams,18,16,0,Finished,18,0 days 00:01:18.557000,0 days 00:00:01.825000
+2023,Round Australian Grand Prix,20,MAG,Haas F1 Team,14,17,0,Finished,14,0 days 00:01:18.129000,0 days 00:00:01.397000
+2023,Round Australian Grand Prix,63,RUS,Mercedes,2,18,0,Retired,2,0 days 00:01:16.968000,0 days 00:00:00.236000
+2023,Round Australian Grand Prix,23,ALB,Williams,8,19,0,Retired,8,0 days 00:01:17.609000,0 days 00:00:00.877000
+2023,Round Australian Grand Prix,16,LEC,Ferrari,7,20,0,Retired,7,0 days 00:01:17.369000,0 days 00:00:00.637000
+2023,Round Chinese Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:28.877000,0 days 00:00:00
+2023,Round Chinese Grand Prix,4,NOR,McLaren,3,2,18,Finished,3,0 days 00:01:29.493000,0 days 00:00:00.616000
+2023,Round Chinese Grand Prix,81,PIA,McLaren,2,3,15,Finished,2,0 days 00:01:29.458000,0 days 00:00:00.581000
+2023,Round Chinese Grand Prix,16,LEC,Ferrari,4,4,12,Finished,4,0 days 00:01:29.542000,0 days 00:00:00.665000
+2023,Round Chinese Grand Prix,44,HAM,Mercedes,7,5,10,Finished,7,0 days 00:01:29.908000,0 days 00:00:01.031000
+2023,Round Chinese Grand Prix,55,SAI,Ferrari,6,6,8,Finished,6,0 days 00:01:29.850000,0 days 00:00:00.973000
+2023,Round Chinese Grand Prix,63,RUS,Mercedes,8,7,6,Finished,8,0 days 00:01:30.219000,0 days 00:00:01.342000
+2023,Round Chinese Grand Prix,14,ALO,Aston Martin,10,8,4,Finished,10,0 days 00:01:30.560000,0 days 00:00:01.683000
+2023,Round Chinese Grand Prix,31,OCO,Alpine,14,9,2,Finished,14,0 days 00:01:30.586000,0 days 00:00:01.709000
+2023,Round Chinese Grand Prix,10,GAS,Alpine,12,10,1,Finished,12,0 days 00:01:30.509000,0 days 00:00:01.632000
+2023,Round Chinese Grand Prix,40,LAW,AlphaTauri,11,11,0,Lapped,11,0 days 00:01:30.508000,0 days 00:00:01.631000
+2023,Round Chinese Grand Prix,22,TSU,AlphaTauri,9,12,0,Lapped,9,0 days 00:01:30.303000,0 days 00:00:01.426000
+2023,Round Chinese Grand Prix,24,ZHO,Alfa Romeo,19,13,0,Lapped,19,0 days 00:01:31.398000,0 days 00:00:02.521000
+2023,Round Chinese Grand Prix,27,HUL,Haas F1 Team,18,14,0,Lapped,18,0 days 00:01:31.299000,0 days 00:00:02.422000
+2023,Round Chinese Grand Prix,20,MAG,Haas F1 Team,15,15,0,Lapped,15,0 days 00:01:30.665000,0 days 00:00:01.788000
+2023,Round Chinese Grand Prix,23,ALB,Williams,13,16,0,Retired,13,0 days 00:01:30.537000,0 days 00:00:01.660000
+2023,Round Chinese Grand Prix,2,SAR,Williams,20,17,0,Retired,20,,
+2023,Round Chinese Grand Prix,18,STR,Aston Martin,17,18,0,Retired,17,0 days 00:01:31.181000,0 days 00:00:02.304000
+2023,Round Chinese Grand Prix,11,PER,Red Bull Racing,5,19,0,Retired,5,0 days 00:01:29.650000,0 days 00:00:00.773000
+2023,Round Chinese Grand Prix,77,BOT,Alfa Romeo,16,20,0,Retired,16,0 days 00:01:31.049000,0 days 00:00:02.172000
+2023,Round Japanese Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:28.877000,0 days 00:00:00
+2023,Round Japanese Grand Prix,4,NOR,McLaren,3,2,18,Finished,3,0 days 00:01:29.493000,0 days 00:00:00.616000
+2023,Round Japanese Grand Prix,81,PIA,McLaren,2,3,15,Finished,2,0 days 00:01:29.458000,0 days 00:00:00.581000
+2023,Round Japanese Grand Prix,16,LEC,Ferrari,4,4,12,Finished,4,0 days 00:01:29.542000,0 days 00:00:00.665000
+2023,Round Japanese Grand Prix,44,HAM,Mercedes,7,5,10,Finished,7,0 days 00:01:29.908000,0 days 00:00:01.031000
+2023,Round Japanese Grand Prix,55,SAI,Ferrari,6,6,8,Finished,6,0 days 00:01:29.850000,0 days 00:00:00.973000
+2023,Round Japanese Grand Prix,63,RUS,Mercedes,8,7,6,Finished,8,0 days 00:01:30.219000,0 days 00:00:01.342000
+2023,Round Japanese Grand Prix,14,ALO,Aston Martin,10,8,4,Finished,10,0 days 00:01:30.560000,0 days 00:00:01.683000
+2023,Round Japanese Grand Prix,31,OCO,Alpine,14,9,2,Finished,14,0 days 00:01:30.586000,0 days 00:00:01.709000
+2023,Round Japanese Grand Prix,10,GAS,Alpine,12,10,1,Finished,12,0 days 00:01:30.509000,0 days 00:00:01.632000
+2023,Round Japanese Grand Prix,40,LAW,AlphaTauri,11,11,0,Lapped,11,0 days 00:01:30.508000,0 days 00:00:01.631000
+2023,Round Japanese Grand Prix,22,TSU,AlphaTauri,9,12,0,Lapped,9,0 days 00:01:30.303000,0 days 00:00:01.426000
+2023,Round Japanese Grand Prix,24,ZHO,Alfa Romeo,19,13,0,Lapped,19,0 days 00:01:31.398000,0 days 00:00:02.521000
+2023,Round Japanese Grand Prix,27,HUL,Haas F1 Team,18,14,0,Lapped,18,0 days 00:01:31.299000,0 days 00:00:02.422000
+2023,Round Japanese Grand Prix,20,MAG,Haas F1 Team,15,15,0,Lapped,15,0 days 00:01:30.665000,0 days 00:00:01.788000
+2023,Round Japanese Grand Prix,23,ALB,Williams,13,16,0,Retired,13,0 days 00:01:30.537000,0 days 00:00:01.660000
+2023,Round Japanese Grand Prix,2,SAR,Williams,20,17,0,Retired,20,,
+2023,Round Japanese Grand Prix,18,STR,Aston Martin,17,18,0,Retired,17,0 days 00:01:31.181000,0 days 00:00:02.304000
+2023,Round Japanese Grand Prix,11,PER,Red Bull Racing,5,19,0,Retired,5,0 days 00:01:29.650000,0 days 00:00:00.773000
+2023,Round Japanese Grand Prix,77,BOT,Alfa Romeo,16,20,0,Retired,16,0 days 00:01:31.049000,0 days 00:00:02.172000
+2023,Round Bahrain Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:29.708000,0 days 00:00:00
+2023,Round Bahrain Grand Prix,11,PER,Red Bull Racing,2,2,18,Finished,2,0 days 00:01:29.846000,0 days 00:00:00.138000
+2023,Round Bahrain Grand Prix,14,ALO,Aston Martin,5,3,15,Finished,5,0 days 00:01:30.336000,0 days 00:00:00.628000
+2023,Round Bahrain Grand Prix,55,SAI,Ferrari,4,4,12,Finished,4,0 days 00:01:30.154000,0 days 00:00:00.446000
+2023,Round Bahrain Grand Prix,44,HAM,Mercedes,7,5,10,Finished,7,0 days 00:01:30.384000,0 days 00:00:00.676000
+2023,Round Bahrain Grand Prix,18,STR,Aston Martin,8,6,8,Finished,8,0 days 00:01:30.836000,0 days 00:00:01.128000
+2023,Round Bahrain Grand Prix,63,RUS,Mercedes,6,7,6,Finished,6,0 days 00:01:30.340000,0 days 00:00:00.632000
+2023,Round Bahrain Grand Prix,77,BOT,Alfa Romeo,12,8,4,Finished,12,0 days 00:01:31.443000,0 days 00:00:01.735000
+2023,Round Bahrain Grand Prix,10,GAS,Alpine,20,9,2,Finished,20,0 days 00:01:32.181000,0 days 00:00:02.473000
+2023,Round Bahrain Grand Prix,23,ALB,Williams,15,10,1,Finished,15,0 days 00:01:31.461000,0 days 00:00:01.753000
+2023,Round Bahrain Grand Prix,22,TSU,AlphaTauri,14,11,0,Finished,14,0 days 00:01:32.510000,0 days 00:00:02.802000
+2023,Round Bahrain Grand Prix,2,SAR,Williams,16,12,0,Lapped,16,0 days 00:01:31.652000,0 days 00:00:01.944000
+2023,Round Bahrain Grand Prix,20,MAG,Haas F1 Team,17,13,0,Lapped,17,0 days 00:01:31.892000,0 days 00:00:02.184000
+2023,Round Bahrain Grand Prix,21,DEV,AlphaTauri,19,14,0,Lapped,19,0 days 00:01:32.121000,0 days 00:00:02.413000
+2023,Round Bahrain Grand Prix,27,HUL,Haas F1 Team,10,15,0,Lapped,10,0 days 00:01:30.809000,0 days 00:00:01.101000
+2023,Round Bahrain Grand Prix,24,ZHO,Alfa Romeo,13,16,0,Lapped,13,0 days 00:01:31.473000,0 days 00:00:01.765000
+2023,Round Bahrain Grand Prix,4,NOR,McLaren,11,17,0,Lapped,11,0 days 00:01:31.381000,0 days 00:00:01.673000
+2023,Round Bahrain Grand Prix,31,OCO,Alpine,9,18,0,Retired,9,0 days 00:01:30.984000,0 days 00:00:01.276000
+2023,Round Bahrain Grand Prix,16,LEC,Ferrari,3,19,0,Retired,3,0 days 00:01:30,0 days 00:00:00.292000
+2023,Round Bahrain Grand Prix,81,PIA,McLaren,18,20,0,Retired,18,0 days 00:01:32.101000,0 days 00:00:02.393000
+2023,Round Saudi Arabian Grand Prix,11,PER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:28.265000,0 days 00:00:00
+2023,Round Saudi Arabian Grand Prix,1,VER,Red Bull Racing,15,2,19,Finished,15,0 days 00:01:49.953000,0 days 00:00:21.688000
+2023,Round Saudi Arabian Grand Prix,14,ALO,Aston Martin,2,3,15,Finished,3,0 days 00:01:28.730000,0 days 00:00:00.465000
+2023,Round Saudi Arabian Grand Prix,63,RUS,Mercedes,3,4,12,Finished,4,0 days 00:01:28.857000,0 days 00:00:00.592000
+2023,Round Saudi Arabian Grand Prix,44,HAM,Mercedes,7,5,10,Finished,8,0 days 00:01:29.223000,0 days 00:00:00.958000
+2023,Round Saudi Arabian Grand Prix,55,SAI,Ferrari,4,6,8,Finished,5,0 days 00:01:28.931000,0 days 00:00:00.666000
+2023,Round Saudi Arabian Grand Prix,16,LEC,Ferrari,12,7,6,Finished,2,0 days 00:01:28.420000,0 days 00:00:00.155000
+2023,Round Saudi Arabian Grand Prix,31,OCO,Alpine,6,8,4,Finished,7,0 days 00:01:29.078000,0 days 00:00:00.813000
+2023,Round Saudi Arabian Grand Prix,10,GAS,Alpine,9,9,2,Finished,10,0 days 00:01:29.357000,0 days 00:00:01.092000
+2023,Round Saudi Arabian Grand Prix,20,MAG,Haas F1 Team,13,10,1,Finished,13,0 days 00:01:29.634000,0 days 00:00:01.369000
+2023,Round Saudi Arabian Grand Prix,22,TSU,AlphaTauri,16,11,0,Finished,16,0 days 00:01:29.939000,0 days 00:00:01.674000
+2023,Round Saudi Arabian Grand Prix,27,HUL,Haas F1 Team,10,12,0,Finished,11,0 days 00:01:29.451000,0 days 00:00:01.186000
+2023,Round Saudi Arabian Grand Prix,24,ZHO,Alfa Romeo,11,13,0,Finished,12,0 days 00:01:29.461000,0 days 00:00:01.196000
+2023,Round Saudi Arabian Grand Prix,21,DEV,AlphaTauri,18,14,0,Finished,18,0 days 00:01:30.244000,0 days 00:00:01.979000
+2023,Round Saudi Arabian Grand Prix,81,PIA,McLaren,8,15,0,Finished,9,0 days 00:01:29.243000,0 days 00:00:00.978000
+2023,Round Saudi Arabian Grand Prix,2,SAR,Williams,20,16,0,Finished,20,0 days 00:02:08.510000,0 days 00:00:40.245000
+2023,Round Saudi Arabian Grand Prix,4,NOR,McLaren,19,17,0,Finished,19,0 days 00:01:30.447000,0 days 00:00:02.182000
+2023,Round Saudi Arabian Grand Prix,77,BOT,Alfa Romeo,14,18,0,Lapped,14,0 days 00:01:29.668000,0 days 00:00:01.403000
+2023,Round Saudi Arabian Grand Prix,23,ALB,Williams,17,19,0,Retired,17,0 days 00:01:29.994000,0 days 00:00:01.729000
+2023,Round Saudi Arabian Grand Prix,18,STR,Aston Martin,5,20,0,Retired,6,0 days 00:01:28.945000,0 days 00:00:00.680000
+2023,Round Miami Grand Prix,1,VER,Red Bull Racing,9,1,26,Finished,9,0 days 00:01:26.814000,0 days 00:00:00
+2023,Round Miami Grand Prix,11,PER,Red Bull Racing,1,2,18,Finished,1,0 days 00:01:26.841000,0 days 00:00:00.027000
+2023,Round Miami Grand Prix,14,ALO,Aston Martin,2,3,15,Finished,2,0 days 00:01:27.202000,0 days 00:00:00.388000
+2023,Round Miami Grand Prix,63,RUS,Mercedes,6,4,12,Finished,6,0 days 00:01:27.804000,0 days 00:00:00.990000
+2023,Round Miami Grand Prix,55,SAI,Ferrari,3,5,10,Finished,3,0 days 00:01:27.349000,0 days 00:00:00.535000
+2023,Round Miami Grand Prix,44,HAM,Mercedes,13,6,8,Finished,13,0 days 00:01:27.975000,0 days 00:00:01.161000
+2023,Round Miami Grand Prix,16,LEC,Ferrari,7,7,6,Finished,7,0 days 00:01:27.861000,0 days 00:00:01.047000
+2023,Round Miami Grand Prix,10,GAS,Alpine,5,8,4,Finished,5,0 days 00:01:27.786000,0 days 00:00:00.972000
+2023,Round Miami Grand Prix,31,OCO,Alpine,8,9,2,Finished,8,0 days 00:01:27.935000,0 days 00:00:01.121000
+2023,Round Miami Grand Prix,20,MAG,Haas F1 Team,4,10,1,Finished,4,0 days 00:01:27.767000,0 days 00:00:00.953000
+2023,Round Miami Grand Prix,22,TSU,AlphaTauri,17,11,0,Finished,17,0 days 00:01:28.429000,0 days 00:00:01.615000
+2023,Round Miami Grand Prix,18,STR,Aston Martin,18,12,0,Finished,18,0 days 00:01:28.476000,0 days 00:00:01.662000
+2023,Round Miami Grand Prix,77,BOT,Alfa Romeo,10,13,0,Finished,10,0 days 00:01:27.564000,0 days 00:00:00.750000
+2023,Round Miami Grand Prix,23,ALB,Williams,11,14,0,Finished,11,0 days 00:01:27.795000,0 days 00:00:00.981000
+2023,Round Miami Grand Prix,27,HUL,Haas F1 Team,12,15,0,Finished,12,0 days 00:01:27.903000,0 days 00:00:01.089000
+2023,Round Miami Grand Prix,24,ZHO,Alfa Romeo,14,16,0,Finished,14,0 days 00:01:28.091000,0 days 00:00:01.277000
+2023,Round Miami Grand Prix,4,NOR,McLaren,16,17,0,Finished,16,0 days 00:01:28.394000,0 days 00:00:01.580000
+2023,Round Miami Grand Prix,21,DEV,AlphaTauri,15,18,0,Finished,15,0 days 00:01:28.395000,0 days 00:00:01.581000
+2023,Round Miami Grand Prix,81,PIA,McLaren,19,19,0,Lapped,19,0 days 00:01:28.484000,0 days 00:00:01.670000
+2023,Round Miami Grand Prix,2,SAR,Williams,20,20,0,Lapped,20,0 days 00:01:28.577000,0 days 00:00:01.763000
+2023,Round Emilia Romagna Grand Prix,1,VER,Red Bull Racing,6,1,25,Finished,1,0 days 00:01:46.168000,0 days 00:00:00
+2023,Round Emilia Romagna Grand Prix,11,PER,Red Bull Racing,2,2,18,Finished,3,0 days 00:01:47.045000,0 days 00:00:00.877000
+2023,Round Emilia Romagna Grand Prix,16,LEC,Ferrari,1,3,15,Finished,2,0 days 00:01:46.988000,0 days 00:00:00.820000
+2023,Round Emilia Romagna Grand Prix,44,HAM,Mercedes,3,4,13,Finished,4,0 days 00:01:47.087000,0 days 00:00:00.919000
+2023,Round Emilia Romagna Grand Prix,14,ALO,Aston Martin,9,5,10,Finished,9,0 days 00:01:47.843000,0 days 00:00:01.675000
+2023,Round Emilia Romagna Grand Prix,63,RUS,Mercedes,8,6,8,Finished,8,0 days 00:01:47.805000,0 days 00:00:01.637000
+2023,Round Emilia Romagna Grand Prix,4,NOR,McLaren,7,7,6,Finished,7,0 days 00:01:47.669000,0 days 00:00:01.501000
+2023,Round Emilia Romagna Grand Prix,31,OCO,Alpine,14,8,4,Finished,15,0 days 00:01:56.372000,0 days 00:00:10.204000
+2023,Round Emilia Romagna Grand Prix,18,STR,Aston Martin,10,9,2,Finished,10,0 days 00:01:48.841000,0 days 00:00:02.673000
+2023,Round Emilia Romagna Grand Prix,22,TSU,AlphaTauri,11,10,1,Finished,11,0 days 00:01:53.148000,0 days 00:00:06.980000
+2023,Round Emilia Romagna Grand Prix,10,GAS,Alpine,12,11,0,Finished,12,0 days 00:01:53.671000,0 days 00:00:07.503000
+2023,Round Emilia Romagna Grand Prix,77,BOT,Alfa Romeo,13,12,0,Finished,14,0 days 00:01:54.694000,0 days 00:00:08.526000
+2023,Round Emilia Romagna Grand Prix,24,ZHO,Alfa Romeo,17,13,0,Finished,17,0 days 00:02:00.832000,0 days 00:00:14.664000
+2023,Round Emilia Romagna Grand Prix,23,ALB,Williams,15,14,0,Finished,16,0 days 00:02:00.314000,0 days 00:00:14.146000
+2023,Round Emilia Romagna Grand Prix,20,MAG,Haas F1 Team,16,15,0,Finished,13,0 days 00:01:54.160000,0 days 00:00:07.992000
+2023,Round Emilia Romagna Grand Prix,3,RIC,AlphaTauri,19,16,0,Finished,19,0 days 00:02:02.159000,0 days 00:00:15.991000
+2023,Round Emilia Romagna Grand Prix,2,SAR,Williams,18,17,0,Finished,18,0 days 00:02:01.535000,0 days 00:00:15.367000
+2023,Round Emilia Romagna Grand Prix,27,HUL,Haas F1 Team,20,18,0,Finished,20,0 days 00:02:03.166000,0 days 00:00:16.998000
+2023,Round Emilia Romagna Grand Prix,55,SAI,Ferrari,4,19,0,Retired,5,0 days 00:01:47.152000,0 days 00:00:00.984000
+2023,Round Emilia Romagna Grand Prix,81,PIA,McLaren,5,20,0,Retired,6,0 days 00:01:47.365000,0 days 00:00:01.197000
+2023,Round Monaco Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:11.365000,0 days 00:00:00
+2023,Round Monaco Grand Prix,14,ALO,Aston Martin,2,2,18,Finished,2,0 days 00:01:11.449000,0 days 00:00:00.084000
+2023,Round Monaco Grand Prix,31,OCO,Alpine,3,3,15,Finished,4,0 days 00:01:11.553000,0 days 00:00:00.188000
+2023,Round Monaco Grand Prix,44,HAM,Mercedes,5,4,13,Finished,6,0 days 00:01:11.725000,0 days 00:00:00.360000
+2023,Round Monaco Grand Prix,63,RUS,Mercedes,8,5,10,Finished,8,0 days 00:01:11.964000,0 days 00:00:00.599000
+2023,Round Monaco Grand Prix,16,LEC,Ferrari,6,6,8,Finished,3,0 days 00:01:11.471000,0 days 00:00:00.106000
+2023,Round Monaco Grand Prix,10,GAS,Alpine,7,7,6,Finished,7,0 days 00:01:11.933000,0 days 00:00:00.568000
+2023,Round Monaco Grand Prix,55,SAI,Ferrari,4,8,4,Finished,5,0 days 00:01:11.630000,0 days 00:00:00.265000
+2023,Round Monaco Grand Prix,4,NOR,McLaren,10,9,2,Lapped,10,0 days 00:01:12.254000,0 days 00:00:00.889000
+2023,Round Monaco Grand Prix,81,PIA,McLaren,11,10,1,Lapped,11,0 days 00:01:12.395000,0 days 00:00:01.030000
+2023,Round Monaco Grand Prix,77,BOT,Alfa Romeo,15,11,0,Lapped,15,0 days 00:01:12.625000,0 days 00:00:01.260000
+2023,Round Monaco Grand Prix,21,DEV,AlphaTauri,12,12,0,Lapped,12,0 days 00:01:12.428000,0 days 00:00:01.063000
+2023,Round Monaco Grand Prix,24,ZHO,Alfa Romeo,19,13,0,Lapped,19,0 days 00:01:13.523000,0 days 00:00:02.158000
+2023,Round Monaco Grand Prix,23,ALB,Williams,13,14,0,Lapped,13,0 days 00:01:12.527000,0 days 00:00:01.162000
+2023,Round Monaco Grand Prix,22,TSU,AlphaTauri,9,15,0,Lapped,9,0 days 00:01:12.082000,0 days 00:00:00.717000
+2023,Round Monaco Grand Prix,11,PER,Red Bull Racing,20,16,0,Lapped,20,0 days 00:01:13.850000,0 days 00:00:02.485000
+2023,Round Monaco Grand Prix,27,HUL,Haas F1 Team,18,17,0,Lapped,18,0 days 00:01:13.279000,0 days 00:00:01.914000
+2023,Round Monaco Grand Prix,2,SAR,Williams,16,18,0,Lapped,16,0 days 00:01:13.113000,0 days 00:00:01.748000
+2023,Round Monaco Grand Prix,20,MAG,Haas F1 Team,17,19,0,Finished,17,0 days 00:01:13.270000,0 days 00:00:01.905000
+2023,Round Monaco Grand Prix,18,STR,Aston Martin,14,20,0,Retired,14,0 days 00:01:12.623000,0 days 00:00:01.258000
+2023,Round Spanish Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:12.272000,0 days 00:00:00
+2023,Round Spanish Grand Prix,44,HAM,Mercedes,4,2,18,Finished,5,0 days 00:01:12.818000,0 days 00:00:00.546000
+2023,Round Spanish Grand Prix,63,RUS,Mercedes,12,3,15,Finished,12,0 days 00:01:13.447000,0 days 00:00:01.175000
+2023,Round Spanish Grand Prix,11,PER,Red Bull Racing,11,4,12,Finished,11,0 days 00:01:13.334000,0 days 00:00:01.062000
+2023,Round Spanish Grand Prix,55,SAI,Ferrari,2,5,10,Finished,2,0 days 00:01:12.734000,0 days 00:00:00.462000
+2023,Round Spanish Grand Prix,18,STR,Aston Martin,5,6,8,Finished,6,0 days 00:01:12.994000,0 days 00:00:00.722000
+2023,Round Spanish Grand Prix,14,ALO,Aston Martin,8,7,6,Finished,9,0 days 00:01:13.507000,0 days 00:00:01.235000
+2023,Round Spanish Grand Prix,31,OCO,Alpine,6,8,4,Finished,7,0 days 00:01:13.083000,0 days 00:00:00.811000
+2023,Round Spanish Grand Prix,24,ZHO,Alfa Romeo,13,9,2,Finished,13,0 days 00:01:13.521000,0 days 00:00:01.249000
+2023,Round Spanish Grand Prix,10,GAS,Alpine,10,10,1,Finished,4,0 days 00:01:12.816000,0 days 00:00:00.544000
+2023,Round Spanish Grand Prix,16,LEC,Ferrari,19,11,0,Finished,19,0 days 00:01:14.079000,0 days 00:00:01.807000
+2023,Round Spanish Grand Prix,22,TSU,AlphaTauri,15,12,0,Finished,15,0 days 00:01:14.477000,0 days 00:00:02.205000
+2023,Round Spanish Grand Prix,81,PIA,McLaren,9,13,0,Lapped,10,0 days 00:01:13.682000,0 days 00:00:01.410000
+2023,Round Spanish Grand Prix,21,DEV,AlphaTauri,14,14,0,Lapped,14,0 days 00:01:14.083000,0 days 00:00:01.811000
+2023,Round Spanish Grand Prix,27,HUL,Haas F1 Team,7,15,0,Lapped,8,0 days 00:01:13.229000,0 days 00:00:00.957000
+2023,Round Spanish Grand Prix,23,ALB,Williams,18,16,0,Lapped,18,0 days 00:01:14.063000,0 days 00:00:01.791000
+2023,Round Spanish Grand Prix,4,NOR,McLaren,3,17,0,Lapped,3,0 days 00:01:12.792000,0 days 00:00:00.520000
+2023,Round Spanish Grand Prix,20,MAG,Haas F1 Team,17,18,0,Lapped,17,0 days 00:01:14.042000,0 days 00:00:01.770000
+2023,Round Spanish Grand Prix,77,BOT,Alfa Romeo,16,19,0,Lapped,16,0 days 00:01:13.977000,0 days 00:00:01.705000
+2023,Round Spanish Grand Prix,2,SAR,Williams,20,20,0,Lapped,20,0 days 00:01:14.699000,0 days 00:00:02.427000
+2023,Round Canadian Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:25.858000,0 days 00:00:07.133000
+2023,Round Canadian Grand Prix,14,ALO,Aston Martin,2,2,18,Finished,3,0 days 00:01:27.286000,0 days 00:00:08.561000
+2023,Round Canadian Grand Prix,44,HAM,Mercedes,3,3,15,Finished,4,0 days 00:01:27.627000,0 days 00:00:08.902000
+2023,Round Canadian Grand Prix,16,LEC,Ferrari,10,4,12,Finished,11,0 days 00:01:20.615000,0 days 00:00:01.890000
+2023,Round Canadian Grand Prix,55,SAI,Ferrari,11,5,10,Finished,8,0 days 00:01:29.294000,0 days 00:00:10.569000
+2023,Round Canadian Grand Prix,11,PER,Red Bull Racing,12,6,9,Finished,12,0 days 00:01:20.959000,0 days 00:00:02.234000
+2023,Round Canadian Grand Prix,23,ALB,Williams,9,7,6,Finished,10,0 days 00:01:18.725000,0 days 00:00:00
+2023,Round Canadian Grand Prix,31,OCO,Alpine,6,8,4,Finished,6,0 days 00:01:27.945000,0 days 00:00:09.220000
+2023,Round Canadian Grand Prix,18,STR,Aston Martin,16,9,2,Finished,13,0 days 00:01:21.484000,0 days 00:00:02.759000
+2023,Round Canadian Grand Prix,77,BOT,Alfa Romeo,14,10,1,Finished,15,0 days 00:01:21.821000,0 days 00:00:03.096000
+2023,Round Canadian Grand Prix,81,PIA,McLaren,8,11,0,Finished,9,0 days 00:01:31.349000,0 days 00:00:12.624000
+2023,Round Canadian Grand Prix,10,GAS,Alpine,15,12,0,Finished,17,0 days 00:01:22.886000,0 days 00:00:04.161000
+2023,Round Canadian Grand Prix,4,NOR,McLaren,7,13,0,Finished,7,0 days 00:01:28.046000,0 days 00:00:09.321000
+2023,Round Canadian Grand Prix,22,TSU,AlphaTauri,19,14,0,Finished,16,0 days 00:01:22.746000,0 days 00:00:04.021000
+2023,Round Canadian Grand Prix,27,HUL,Haas F1 Team,5,15,0,Lapped,2,0 days 00:01:27.102000,0 days 00:00:08.377000
+2023,Round Canadian Grand Prix,24,ZHO,Alfa Romeo,20,16,0,Lapped,20,0 days 00:01:23.342000,0 days 00:00:04.617000
+2023,Round Canadian Grand Prix,20,MAG,Haas F1 Team,13,17,0,Lapped,14,0 days 00:01:21.678000,0 days 00:00:02.953000
+2023,Round Canadian Grand Prix,21,DEV,AlphaTauri,17,18,0,Lapped,18,0 days 00:01:23.137000,0 days 00:00:04.412000
+2023,Round Canadian Grand Prix,63,RUS,Mercedes,4,19,0,Retired,5,0 days 00:01:27.893000,0 days 00:00:09.168000
+2023,Round Canadian Grand Prix,2,SAR,Williams,18,20,0,Retired,19,0 days 00:01:23.337000,0 days 00:00:04.612000
+2023,Round Austrian Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:04.391000,0 days 00:00:00
+2023,Round Austrian Grand Prix,16,LEC,Ferrari,2,2,18,Finished,2,0 days 00:01:04.439000,0 days 00:00:00.048000
+2023,Round Austrian Grand Prix,11,PER,Red Bull Racing,15,3,15,Finished,15,0 days 00:02:06.688000,0 days 00:01:02.297000
+2023,Round Austrian Grand Prix,4,NOR,McLaren,4,4,12,Finished,4,0 days 00:01:04.658000,0 days 00:00:00.267000
+2023,Round Austrian Grand Prix,14,ALO,Aston Martin,7,5,10,Finished,7,0 days 00:01:04.911000,0 days 00:00:00.520000
+2023,Round Austrian Grand Prix,55,SAI,Ferrari,3,6,8,Finished,3,0 days 00:01:04.581000,0 days 00:00:00.190000
+2023,Round Austrian Grand Prix,63,RUS,Mercedes,11,7,6,Finished,11,0 days 00:01:05.428000,0 days 00:00:01.037000
+2023,Round Austrian Grand Prix,44,HAM,Mercedes,5,8,4,Finished,5,0 days 00:01:04.819000,0 days 00:00:00.428000
+2023,Round Austrian Grand Prix,18,STR,Aston Martin,6,9,2,Finished,6,0 days 00:01:04.893000,0 days 00:00:00.502000
+2023,Round Austrian Grand Prix,10,GAS,Alpine,9,10,1,Finished,9,0 days 00:01:05.170000,0 days 00:00:00.779000
+2023,Round Austrian Grand Prix,23,ALB,Williams,10,11,0,Finished,10,0 days 00:01:05.823000,0 days 00:00:01.432000
+2023,Round Austrian Grand Prix,24,ZHO,Alfa Romeo,17,12,0,Lapped,17,0 days 00:01:05.818000,0 days 00:00:01.427000
+2023,Round Austrian Grand Prix,2,SAR,Williams,18,13,0,Lapped,18,0 days 00:01:05.948000,0 days 00:00:01.557000
+2023,Round Austrian Grand Prix,31,OCO,Alpine,12,14,0,Lapped,12,0 days 00:01:05.453000,0 days 00:00:01.062000
+2023,Round Austrian Grand Prix,77,BOT,Alfa Romeo,14,15,0,Lapped,14,0 days 00:01:05.680000,0 days 00:00:01.289000
+2023,Round Austrian Grand Prix,81,PIA,McLaren,13,16,0,Lapped,13,0 days 00:01:05.605000,0 days 00:00:01.214000
+2023,Round Austrian Grand Prix,21,DEV,AlphaTauri,20,17,0,Lapped,20,0 days 00:01:05.974000,0 days 00:00:01.583000
+2023,Round Austrian Grand Prix,20,MAG,Haas F1 Team,19,18,0,Lapped,19,0 days 00:01:05.971000,0 days 00:00:01.580000
+2023,Round Austrian Grand Prix,22,TSU,AlphaTauri,16,19,0,Lapped,16,0 days 00:01:05.784000,0 days 00:00:01.393000
+2023,Round Austrian Grand Prix,27,HUL,Haas F1 Team,8,20,0,Retired,8,0 days 00:01:05.090000,0 days 00:00:00.699000
+2023,Round British Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:26.720000,0 days 00:00:00
+2023,Round British Grand Prix,4,NOR,McLaren,2,2,18,Finished,2,0 days 00:01:26.961000,0 days 00:00:00.241000
+2023,Round British Grand Prix,44,HAM,Mercedes,7,3,15,Finished,7,0 days 00:01:27.211000,0 days 00:00:00.491000
+2023,Round British Grand Prix,81,PIA,McLaren,3,4,12,Finished,3,0 days 00:01:27.092000,0 days 00:00:00.372000
+2023,Round British Grand Prix,63,RUS,Mercedes,6,5,10,Finished,6,0 days 00:01:27.155000,0 days 00:00:00.435000
+2023,Round British Grand Prix,11,PER,Red Bull Racing,15,6,8,Finished,15,0 days 00:01:29.968000,0 days 00:00:03.248000
+2023,Round British Grand Prix,14,ALO,Aston Martin,9,7,6,Finished,9,0 days 00:01:27.659000,0 days 00:00:00.939000
+2023,Round British Grand Prix,23,ALB,Williams,8,8,4,Finished,8,0 days 00:01:27.530000,0 days 00:00:00.810000
+2023,Round British Grand Prix,16,LEC,Ferrari,4,9,2,Finished,4,0 days 00:01:27.136000,0 days 00:00:00.416000
+2023,Round British Grand Prix,55,SAI,Ferrari,5,10,1,Finished,5,0 days 00:01:27.148000,0 days 00:00:00.428000
+2023,Round British Grand Prix,2,SAR,Williams,14,11,0,Finished,14,0 days 00:01:29.031000,0 days 00:00:02.311000
+2023,Round British Grand Prix,77,BOT,Alfa Romeo,20,12,0,Finished,15,0 days 00:01:29.798000,0 days 00:00:03.078000
+2023,Round British Grand Prix,27,HUL,Haas F1 Team,11,13,0,Finished,11,0 days 00:01:28.896000,0 days 00:00:02.176000
+2023,Round British Grand Prix,18,STR,Aston Martin,12,14,0,Finished,12,0 days 00:01:28.935000,0 days 00:00:02.215000
+2023,Round British Grand Prix,24,ZHO,Alfa Romeo,17,15,0,Finished,17,0 days 00:01:30.123000,0 days 00:00:03.403000
+2023,Round British Grand Prix,22,TSU,AlphaTauri,16,16,0,Finished,16,0 days 00:01:30.025000,0 days 00:00:03.305000
+2023,Round British Grand Prix,21,DEV,AlphaTauri,18,17,0,Finished,18,0 days 00:01:30.513000,0 days 00:00:03.793000
+2023,Round British Grand Prix,10,GAS,Alpine,10,18,0,Finished,10,0 days 00:01:27.689000,0 days 00:00:00.969000
+2023,Round British Grand Prix,20,MAG,Haas F1 Team,19,19,0,Retired,19,0 days 00:01:32.378000,0 days 00:00:05.658000
+2023,Round British Grand Prix,31,OCO,Alpine,13,20,0,Retired,13,0 days 00:01:28.956000,0 days 00:00:02.236000
+2023,Round Belgian Grand Prix,1,VER,Red Bull Racing,6,1,25,Finished,1,0 days 00:01:46.168000,0 days 00:00:00
+2023,Round Belgian Grand Prix,11,PER,Red Bull Racing,2,2,18,Finished,3,0 days 00:01:47.045000,0 days 00:00:00.877000
+2023,Round Belgian Grand Prix,16,LEC,Ferrari,1,3,15,Finished,2,0 days 00:01:46.988000,0 days 00:00:00.820000
+2023,Round Belgian Grand Prix,44,HAM,Mercedes,3,4,13,Finished,4,0 days 00:01:47.087000,0 days 00:00:00.919000
+2023,Round Belgian Grand Prix,14,ALO,Aston Martin,9,5,10,Finished,9,0 days 00:01:47.843000,0 days 00:00:01.675000
+2023,Round Belgian Grand Prix,63,RUS,Mercedes,8,6,8,Finished,8,0 days 00:01:47.805000,0 days 00:00:01.637000
+2023,Round Belgian Grand Prix,4,NOR,McLaren,7,7,6,Finished,7,0 days 00:01:47.669000,0 days 00:00:01.501000
+2023,Round Belgian Grand Prix,31,OCO,Alpine,14,8,4,Finished,15,0 days 00:01:56.372000,0 days 00:00:10.204000
+2023,Round Belgian Grand Prix,18,STR,Aston Martin,10,9,2,Finished,10,0 days 00:01:48.841000,0 days 00:00:02.673000
+2023,Round Belgian Grand Prix,22,TSU,AlphaTauri,11,10,1,Finished,11,0 days 00:01:53.148000,0 days 00:00:06.980000
+2023,Round Belgian Grand Prix,10,GAS,Alpine,12,11,0,Finished,12,0 days 00:01:53.671000,0 days 00:00:07.503000
+2023,Round Belgian Grand Prix,77,BOT,Alfa Romeo,13,12,0,Finished,14,0 days 00:01:54.694000,0 days 00:00:08.526000
+2023,Round Belgian Grand Prix,24,ZHO,Alfa Romeo,17,13,0,Finished,17,0 days 00:02:00.832000,0 days 00:00:14.664000
+2023,Round Belgian Grand Prix,23,ALB,Williams,15,14,0,Finished,16,0 days 00:02:00.314000,0 days 00:00:14.146000
+2023,Round Belgian Grand Prix,20,MAG,Haas F1 Team,16,15,0,Finished,13,0 days 00:01:54.160000,0 days 00:00:07.992000
+2023,Round Belgian Grand Prix,3,RIC,AlphaTauri,19,16,0,Finished,19,0 days 00:02:02.159000,0 days 00:00:15.991000
+2023,Round Belgian Grand Prix,2,SAR,Williams,18,17,0,Finished,18,0 days 00:02:01.535000,0 days 00:00:15.367000
+2023,Round Belgian Grand Prix,27,HUL,Haas F1 Team,20,18,0,Finished,20,0 days 00:02:03.166000,0 days 00:00:16.998000
+2023,Round Belgian Grand Prix,55,SAI,Ferrari,4,19,0,Retired,5,0 days 00:01:47.152000,0 days 00:00:00.984000
+2023,Round Belgian Grand Prix,81,PIA,McLaren,5,20,0,Retired,6,0 days 00:01:47.365000,0 days 00:00:01.197000
+2023,Round Hungarian Grand Prix,1,VER,Red Bull Racing,2,1,26,Finished,2,0 days 00:01:16.612000,0 days 00:00:00.003000
+2023,Round Hungarian Grand Prix,4,NOR,McLaren,3,2,18,Finished,3,0 days 00:01:16.694000,0 days 00:00:00.085000
+2023,Round Hungarian Grand Prix,11,PER,Red Bull Racing,9,3,15,Finished,9,0 days 00:01:17.045000,0 days 00:00:00.436000
+2023,Round Hungarian Grand Prix,44,HAM,Mercedes,1,4,12,Finished,1,0 days 00:01:16.609000,0 days 00:00:00
+2023,Round Hungarian Grand Prix,81,PIA,McLaren,4,5,10,Finished,4,0 days 00:01:16.905000,0 days 00:00:00.296000
+2023,Round Hungarian Grand Prix,63,RUS,Mercedes,18,6,8,Finished,18,0 days 00:01:19.027000,0 days 00:00:02.418000
+2023,Round Hungarian Grand Prix,16,LEC,Ferrari,6,7,6,Finished,6,0 days 00:01:16.992000,0 days 00:00:00.383000
+2023,Round Hungarian Grand Prix,55,SAI,Ferrari,11,8,4,Finished,11,0 days 00:01:17.703000,0 days 00:00:01.094000
+2023,Round Hungarian Grand Prix,14,ALO,Aston Martin,8,9,2,Finished,8,0 days 00:01:17.035000,0 days 00:00:00.426000
+2023,Round Hungarian Grand Prix,18,STR,Aston Martin,14,10,1,Lapped,14,0 days 00:01:18.144000,0 days 00:00:01.535000
+2023,Round Hungarian Grand Prix,23,ALB,Williams,16,11,0,Lapped,16,0 days 00:01:18.917000,0 days 00:00:02.308000
+2023,Round Hungarian Grand Prix,77,BOT,Alfa Romeo,7,12,0,Lapped,7,0 days 00:01:17.034000,0 days 00:00:00.425000
+2023,Round Hungarian Grand Prix,3,RIC,AlphaTauri,13,13,0,Lapped,13,0 days 00:01:18.002000,0 days 00:00:01.393000
+2023,Round Hungarian Grand Prix,27,HUL,Haas F1 Team,10,14,0,Lapped,10,0 days 00:01:17.186000,0 days 00:00:00.577000
+2023,Round Hungarian Grand Prix,22,TSU,AlphaTauri,17,15,0,Lapped,17,0 days 00:01:18.919000,0 days 00:00:02.310000
+2023,Round Hungarian Grand Prix,24,ZHO,Alfa Romeo,5,16,0,Lapped,5,0 days 00:01:16.971000,0 days 00:00:00.362000
+2023,Round Hungarian Grand Prix,20,MAG,Haas F1 Team,19,17,0,Lapped,19,0 days 00:01:19.206000,0 days 00:00:02.597000
+2023,Round Hungarian Grand Prix,2,SAR,Williams,20,18,0,Finished,20,0 days 00:01:19.248000,0 days 00:00:02.639000
+2023,Round Hungarian Grand Prix,31,OCO,Alpine,12,19,0,Retired,12,0 days 00:01:17.841000,0 days 00:00:01.232000
+2023,Round Hungarian Grand Prix,10,GAS,Alpine,15,20,0,Retired,15,0 days 00:01:18.217000,0 days 00:00:01.608000
+2023,Round Dutch Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:10.567000,0 days 00:00:00
+2023,Round Dutch Grand Prix,14,ALO,Aston Martin,5,2,19,Finished,5,0 days 00:01:11.506000,0 days 00:00:00.939000
+2023,Round Dutch Grand Prix,10,GAS,Alpine,12,3,15,Finished,12,0 days 00:01:20.128000,0 days 00:00:09.561000
+2023,Round Dutch Grand Prix,11,PER,Red Bull Racing,7,4,12,Finished,7,0 days 00:01:11.880000,0 days 00:00:01.313000
+2023,Round Dutch Grand Prix,55,SAI,Ferrari,6,5,10,Finished,6,0 days 00:01:11.754000,0 days 00:00:01.187000
+2023,Round Dutch Grand Prix,44,HAM,Mercedes,13,6,8,Finished,13,0 days 00:01:20.151000,0 days 00:00:09.584000
+2023,Round Dutch Grand Prix,4,NOR,McLaren,2,7,6,Finished,2,0 days 00:01:11.104000,0 days 00:00:00.537000
+2023,Round Dutch Grand Prix,23,ALB,Williams,4,8,4,Finished,4,0 days 00:01:11.419000,0 days 00:00:00.852000
+2023,Round Dutch Grand Prix,81,PIA,McLaren,8,9,2,Finished,8,0 days 00:01:11.938000,0 days 00:00:01.371000
+2023,Round Dutch Grand Prix,31,OCO,Alpine,16,10,1,Finished,17,0 days 00:01:22.110000,0 days 00:00:11.543000
+2023,Round Dutch Grand Prix,18,STR,Aston Martin,11,11,0,Finished,11,0 days 00:01:20.121000,0 days 00:00:09.554000
+2023,Round Dutch Grand Prix,27,HUL,Haas F1 Team,14,12,0,Finished,15,0 days 00:01:20.250000,0 days 00:00:09.683000
+2023,Round Dutch Grand Prix,40,LAW,AlphaTauri,19,13,0,Finished,20,0 days 00:01:23.420000,0 days 00:00:12.853000
+2023,Round Dutch Grand Prix,77,BOT,Alfa Romeo,18,14,0,Finished,19,0 days 00:01:22.260000,0 days 00:00:11.693000
+2023,Round Dutch Grand Prix,22,TSU,AlphaTauri,17,15,0,Finished,14,0 days 00:01:20.230000,0 days 00:00:09.663000
+2023,Round Dutch Grand Prix,20,MAG,Haas F1 Team,0,16,0,Finished,18,0 days 00:01:22.192000,0 days 00:00:11.625000
+2023,Round Dutch Grand Prix,63,RUS,Mercedes,3,17,0,Finished,3,0 days 00:01:11.294000,0 days 00:00:00.727000
+2023,Round Dutch Grand Prix,24,ZHO,Alfa Romeo,15,18,0,Accident,16,0 days 00:01:22.067000,0 days 00:00:11.500000
+2023,Round Dutch Grand Prix,16,LEC,Ferrari,9,19,0,Undertray,9,0 days 00:01:12.665000,0 days 00:00:02.098000
+2023,Round Dutch Grand Prix,2,SAR,Williams,10,20,0,Accident,10,0 days 00:01:16.748000,0 days 00:00:06.181000
+2023,Round Italian Grand Prix,1,VER,Red Bull Racing,2,1,25,Finished,2,0 days 00:01:20.307000,0 days 00:00:00.013000
+2023,Round Italian Grand Prix,11,PER,Red Bull Racing,5,2,18,Finished,5,0 days 00:01:20.688000,0 days 00:00:00.394000
+2023,Round Italian Grand Prix,55,SAI,Ferrari,1,3,15,Finished,1,0 days 00:01:20.294000,0 days 00:00:00
+2023,Round Italian Grand Prix,16,LEC,Ferrari,3,4,12,Finished,3,0 days 00:01:20.361000,0 days 00:00:00.067000
+2023,Round Italian Grand Prix,63,RUS,Mercedes,4,5,10,Finished,4,0 days 00:01:20.671000,0 days 00:00:00.377000
+2023,Round Italian Grand Prix,44,HAM,Mercedes,8,6,8,Finished,8,0 days 00:01:20.820000,0 days 00:00:00.526000
+2023,Round Italian Grand Prix,23,ALB,Williams,6,7,6,Finished,6,0 days 00:01:20.760000,0 days 00:00:00.466000
+2023,Round Italian Grand Prix,4,NOR,McLaren,9,8,4,Finished,9,0 days 00:01:20.979000,0 days 00:00:00.685000
+2023,Round Italian Grand Prix,14,ALO,Aston Martin,10,9,2,Finished,10,0 days 00:01:21.417000,0 days 00:00:01.123000
+2023,Round Italian Grand Prix,77,BOT,Alfa Romeo,14,10,1,Finished,14,0 days 00:01:21.940000,0 days 00:00:01.646000
+2023,Round Italian Grand Prix,40,LAW,AlphaTauri,12,11,0,Finished,12,0 days 00:01:21.758000,0 days 00:00:01.464000
+2023,Round Italian Grand Prix,81,PIA,McLaren,7,12,0,Finished,7,0 days 00:01:20.785000,0 days 00:00:00.491000
+2023,Round Italian Grand Prix,2,SAR,Williams,15,13,0,Finished,15,0 days 00:01:21.944000,0 days 00:00:01.650000
+2023,Round Italian Grand Prix,24,ZHO,Alfa Romeo,16,14,0,Finished,16,0 days 00:01:22.390000,0 days 00:00:02.096000
+2023,Round Italian Grand Prix,10,GAS,Alpine,17,15,0,Finished,17,0 days 00:01:22.545000,0 days 00:00:02.251000
+2023,Round Italian Grand Prix,18,STR,Aston Martin,20,16,0,Finished,20,0 days 00:01:22.860000,0 days 00:00:02.566000
+2023,Round Italian Grand Prix,27,HUL,Haas F1 Team,13,17,0,Lapped,13,0 days 00:01:21.776000,0 days 00:00:01.482000
+2023,Round Italian Grand Prix,20,MAG,Haas F1 Team,19,18,0,Lapped,19,0 days 00:01:22.592000,0 days 00:00:02.298000
+2023,Round Italian Grand Prix,31,OCO,Alpine,18,19,0,Retired,18,0 days 00:01:22.548000,0 days 00:00:02.254000
+2023,Round Italian Grand Prix,22,TSU,AlphaTauri,11,20,0,Did not start,11,0 days 00:01:21.594000,0 days 00:00:01.300000
+2023,Round Azerbaijan Grand Prix,11,PER,Red Bull Racing,3,1,25,Finished,3,0 days 00:01:40.495000,0 days 00:00:00.292000
+2023,Round Azerbaijan Grand Prix,1,VER,Red Bull Racing,2,2,18,Finished,2,0 days 00:01:40.391000,0 days 00:00:00.188000
+2023,Round Azerbaijan Grand Prix,16,LEC,Ferrari,1,3,15,Finished,1,0 days 00:01:40.203000,0 days 00:00:00
+2023,Round Azerbaijan Grand Prix,14,ALO,Aston Martin,6,4,12,Finished,6,0 days 00:01:41.253000,0 days 00:00:01.050000
+2023,Round Azerbaijan Grand Prix,55,SAI,Ferrari,4,5,10,Finished,4,0 days 00:01:41.016000,0 days 00:00:00.813000
+2023,Round Azerbaijan Grand Prix,44,HAM,Mercedes,5,6,8,Finished,5,0 days 00:01:41.177000,0 days 00:00:00.974000
+2023,Round Azerbaijan Grand Prix,18,STR,Aston Martin,9,7,6,Finished,9,0 days 00:01:41.611000,0 days 00:00:01.408000
+2023,Round Azerbaijan Grand Prix,63,RUS,Mercedes,11,8,5,Finished,11,0 days 00:01:41.654000,0 days 00:00:01.451000
+2023,Round Azerbaijan Grand Prix,4,NOR,McLaren,7,9,2,Finished,7,0 days 00:01:41.281000,0 days 00:00:01.078000
+2023,Round Azerbaijan Grand Prix,22,TSU,AlphaTauri,8,10,1,Finished,8,0 days 00:01:41.581000,0 days 00:00:01.378000
+2023,Round Azerbaijan Grand Prix,81,PIA,McLaren,10,11,0,Finished,10,0 days 00:01:41.611000,0 days 00:00:01.408000
+2023,Round Azerbaijan Grand Prix,23,ALB,Williams,12,12,0,Finished,13,0 days 00:01:41.818000,0 days 00:00:01.615000
+2023,Round Azerbaijan Grand Prix,20,MAG,Haas F1 Team,16,13,0,Finished,18,0 days 00:01:43.417000,0 days 00:00:03.214000
+2023,Round Azerbaijan Grand Prix,10,GAS,Alpine,17,14,0,Finished,19,0 days 00:01:44.853000,0 days 00:00:04.650000
+2023,Round Azerbaijan Grand Prix,31,OCO,Alpine,19,15,0,Finished,12,0 days 00:01:41.798000,0 days 00:00:01.595000
+2023,Round Azerbaijan Grand Prix,2,SAR,Williams,14,16,0,Finished,15,0 days 00:01:42.395000,0 days 00:00:02.192000
+2023,Round Azerbaijan Grand Prix,27,HUL,Haas F1 Team,20,17,0,Lapped,17,0 days 00:01:42.755000,0 days 00:00:02.552000
+2023,Round Azerbaijan Grand Prix,77,BOT,Alfa Romeo,13,18,0,Lapped,14,0 days 00:01:42.259000,0 days 00:00:02.056000
+2023,Round Azerbaijan Grand Prix,24,ZHO,Alfa Romeo,15,19,0,Retired,16,0 days 00:01:42.642000,0 days 00:00:02.439000
+2023,Round Azerbaijan Grand Prix,21,DEV,AlphaTauri,18,20,0,Retired,20,0 days 00:01:55.282000,0 days 00:00:15.079000
+2023,Round Singapore Grand Prix,55,SAI,Ferrari,1,1,25,Finished,1,0 days 00:01:30.984000,0 days 00:00:00
+2023,Round Singapore Grand Prix,4,NOR,McLaren,4,2,18,Finished,4,0 days 00:01:31.270000,0 days 00:00:00.286000
+2023,Round Singapore Grand Prix,44,HAM,Mercedes,5,3,16,Finished,5,0 days 00:01:31.485000,0 days 00:00:00.501000
+2023,Round Singapore Grand Prix,16,LEC,Ferrari,3,4,12,Finished,3,0 days 00:01:31.063000,0 days 00:00:00.079000
+2023,Round Singapore Grand Prix,1,VER,Red Bull Racing,11,5,10,Finished,11,0 days 00:01:32.173000,0 days 00:00:01.189000
+2023,Round Singapore Grand Prix,10,GAS,Alpine,12,6,8,Finished,12,0 days 00:01:32.274000,0 days 00:00:01.290000
+2023,Round Singapore Grand Prix,81,PIA,McLaren,17,7,6,Finished,17,0 days 00:01:32.902000,0 days 00:00:01.918000
+2023,Round Singapore Grand Prix,11,PER,Red Bull Racing,13,8,4,Finished,13,0 days 00:01:32.310000,0 days 00:00:01.326000
+2023,Round Singapore Grand Prix,40,LAW,AlphaTauri,10,9,2,Finished,10,0 days 00:01:32.268000,0 days 00:00:01.284000
+2023,Round Singapore Grand Prix,20,MAG,Haas F1 Team,6,10,1,Finished,6,0 days 00:01:31.575000,0 days 00:00:00.591000
+2023,Round Singapore Grand Prix,23,ALB,Williams,14,11,0,Finished,14,0 days 00:01:33.719000,0 days 00:00:02.735000
+2023,Round Singapore Grand Prix,24,ZHO,Alfa Romeo,19,12,0,Finished,19,0 days 00:01:33.258000,0 days 00:00:02.274000
+2023,Round Singapore Grand Prix,27,HUL,Haas F1 Team,9,13,0,Finished,9,0 days 00:01:31.808000,0 days 00:00:00.824000
+2023,Round Singapore Grand Prix,2,SAR,Williams,18,14,0,Finished,18,0 days 00:01:33.252000,0 days 00:00:02.268000
+2023,Round Singapore Grand Prix,14,ALO,Aston Martin,7,15,0,Finished,7,0 days 00:01:31.615000,0 days 00:00:00.631000
+2023,Round Singapore Grand Prix,63,RUS,Mercedes,2,16,0,Finished,2,0 days 00:01:31.056000,0 days 00:00:00.072000
+2023,Round Singapore Grand Prix,77,BOT,Alfa Romeo,16,17,0,Retired,16,0 days 00:01:32.809000,0 days 00:00:01.825000
+2023,Round Singapore Grand Prix,31,OCO,Alpine,8,18,0,Retired,8,0 days 00:01:31.673000,0 days 00:00:00.689000
+2023,Round Singapore Grand Prix,22,TSU,AlphaTauri,15,19,0,Retired,15,0 days 00:01:31.991000,0 days 00:00:01.007000
+2023,Round Singapore Grand Prix,18,STR,Aston Martin,,,0,Withdrew,20,0 days 00:01:33.397000,0 days 00:00:02.413000
+2023,Round United States Grand Prix,1,VER,Red Bull Racing,6,1,25,Finished,6,0 days 00:01:35.081000,0 days 00:00:00.358000
+2023,Round United States Grand Prix,4,NOR,McLaren,2,2,18,Finished,2,0 days 00:01:34.853000,0 days 00:00:00.130000
+2023,Round United States Grand Prix,55,SAI,Ferrari,4,3,15,Finished,4,0 days 00:01:34.945000,0 days 00:00:00.222000
+2023,Round United States Grand Prix,11,PER,Red Bull Racing,9,4,12,Finished,9,0 days 00:01:35.173000,0 days 00:00:00.450000
+2023,Round United States Grand Prix,63,RUS,Mercedes,5,5,10,Finished,5,0 days 00:01:35.079000,0 days 00:00:00.356000
+2023,Round United States Grand Prix,10,GAS,Alpine,7,6,8,Finished,7,0 days 00:01:35.089000,0 days 00:00:00.366000
+2023,Round United States Grand Prix,18,STR,Aston Martin,20,7,6,Finished,19,0 days 00:01:36.589000,0 days 00:00:01.866000
+2023,Round United States Grand Prix,22,TSU,AlphaTauri,11,8,5,Finished,11,0 days 00:01:35.697000,0 days 00:00:00.974000
+2023,Round United States Grand Prix,23,ALB,Williams,15,9,2,Finished,18,0 days 00:01:36.315000,0 days 00:00:01.592000
+2023,Round United States Grand Prix,2,SAR,Williams,16,10,1,Finished,20,0 days 00:01:36.827000,0 days 00:00:02.104000
+2023,Round United States Grand Prix,27,HUL,Haas F1 Team,18,11,0,Finished,16,0 days 00:01:36.235000,0 days 00:00:01.512000
+2023,Round United States Grand Prix,77,BOT,Alfa Romeo,13,12,0,Finished,13,0 days 00:01:35.858000,0 days 00:00:01.135000
+2023,Round United States Grand Prix,24,ZHO,Alfa Romeo,12,13,0,Lapped,12,0 days 00:01:35.698000,0 days 00:00:00.975000
+2023,Round United States Grand Prix,20,MAG,Haas F1 Team,17,14,0,Lapped,14,0 days 00:01:35.880000,0 days 00:00:01.157000
+2023,Round United States Grand Prix,3,RIC,AlphaTauri,14,15,0,Lapped,15,0 days 00:01:35.974000,0 days 00:00:01.251000
+2023,Round United States Grand Prix,14,ALO,Aston Martin,19,16,0,Retired,17,0 days 00:01:36.268000,0 days 00:00:01.545000
+2023,Round United States Grand Prix,81,PIA,McLaren,10,17,0,Retired,10,0 days 00:01:35.467000,0 days 00:00:00.744000
+2023,Round United States Grand Prix,31,OCO,Alpine,8,18,0,Retired,8,0 days 00:01:35.154000,0 days 00:00:00.431000
+2023,Round United States Grand Prix,44,HAM,Mercedes,3,19,0,Disqualified,3,0 days 00:01:34.862000,0 days 00:00:00.139000
+2023,Round United States Grand Prix,16,LEC,Ferrari,1,20,0,Disqualified,1,0 days 00:01:34.723000,0 days 00:00:00
+2023,Round Mexico City Grand Prix,1,VER,Red Bull Racing,3,1,25,Finished,3,0 days 00:01:17.263000,0 days 00:00:00.097000
+2023,Round Mexico City Grand Prix,44,HAM,Mercedes,6,2,19,Finished,6,0 days 00:01:17.454000,0 days 00:00:00.288000
+2023,Round Mexico City Grand Prix,16,LEC,Ferrari,1,3,15,Finished,1,0 days 00:01:17.166000,0 days 00:00:00
+2023,Round Mexico City Grand Prix,55,SAI,Ferrari,2,4,12,Finished,2,0 days 00:01:17.233000,0 days 00:00:00.067000
+2023,Round Mexico City Grand Prix,4,NOR,McLaren,17,5,10,Finished,19,0 days 00:01:21.554000,0 days 00:00:04.388000
+2023,Round Mexico City Grand Prix,63,RUS,Mercedes,8,6,8,Finished,8,0 days 00:01:17.674000,0 days 00:00:00.508000
+2023,Round Mexico City Grand Prix,3,RIC,AlphaTauri,4,7,6,Finished,4,0 days 00:01:17.382000,0 days 00:00:00.216000
+2023,Round Mexico City Grand Prix,81,PIA,McLaren,7,8,4,Finished,7,0 days 00:01:17.623000,0 days 00:00:00.457000
+2023,Round Mexico City Grand Prix,23,ALB,Williams,14,9,2,Finished,14,0 days 00:01:19.147000,0 days 00:00:01.981000
+2023,Round Mexico City Grand Prix,31,OCO,Alpine,15,10,1,Finished,16,0 days 00:01:19.080000,0 days 00:00:01.914000
+2023,Round Mexico City Grand Prix,10,GAS,Alpine,11,11,0,Finished,11,0 days 00:01:18.521000,0 days 00:00:01.355000
+2023,Round Mexico City Grand Prix,22,TSU,AlphaTauri,18,12,0,Finished,15,0 days 00:01:18.890000,0 days 00:00:01.724000
+2023,Round Mexico City Grand Prix,27,HUL,Haas F1 Team,12,13,0,Finished,12,0 days 00:01:18.524000,0 days 00:00:01.358000
+2023,Round Mexico City Grand Prix,24,ZHO,Alfa Romeo,10,14,0,Finished,10,0 days 00:01:18.050000,0 days 00:00:00.884000
+2023,Round Mexico City Grand Prix,77,BOT,Alfa Romeo,9,15,0,Finished,9,0 days 00:01:18.032000,0 days 00:00:00.866000
+2023,Round Mexico City Grand Prix,2,SAR,Williams,19,16,0,Retired,20,,
+2023,Round Mexico City Grand Prix,18,STR,Aston Martin,0,17,0,Collision damage,18,0 days 00:01:19.227000,0 days 00:00:02.061000
+2023,Round Mexico City Grand Prix,14,ALO,Aston Martin,13,18,0,Withdrew,13,0 days 00:01:18.738000,0 days 00:00:01.572000
+2023,Round Mexico City Grand Prix,20,MAG,Haas F1 Team,16,19,0,Accident,17,0 days 00:01:19.163000,0 days 00:00:01.997000
+2023,Round Mexico City Grand Prix,11,PER,Red Bull Racing,5,20,0,Collision damage,5,0 days 00:01:17.423000,0 days 00:00:00.257000
+2023,Round São Paulo Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:10.727000,0 days 00:00:00.397000
+2023,Round São Paulo Grand Prix,4,NOR,McLaren,6,2,19,Finished,7,0 days 00:01:11.987000,0 days 00:00:01.657000
+2023,Round São Paulo Grand Prix,14,ALO,Aston Martin,4,3,15,Finished,4,0 days 00:01:11.387000,0 days 00:00:01.057000
+2023,Round São Paulo Grand Prix,11,PER,Red Bull Racing,9,4,12,Finished,9,0 days 00:01:12.321000,0 days 00:00:01.991000
+2023,Round São Paulo Grand Prix,18,STR,Aston Martin,3,5,10,Finished,3,0 days 00:01:11.344000,0 days 00:00:01.014000
+2023,Round São Paulo Grand Prix,55,SAI,Ferrari,7,6,8,Finished,8,0 days 00:01:11.989000,0 days 00:00:01.659000
+2023,Round São Paulo Grand Prix,10,GAS,Alpine,15,7,6,Finished,13,0 days 00:01:10.567000,0 days 00:00:00.237000
+2023,Round São Paulo Grand Prix,44,HAM,Mercedes,5,8,4,Finished,5,0 days 00:01:11.469000,0 days 00:00:01.139000
+2023,Round São Paulo Grand Prix,22,TSU,AlphaTauri,16,9,2,Finished,16,0 days 00:01:10.837000,0 days 00:00:00.507000
+2023,Round São Paulo Grand Prix,31,OCO,Alpine,14,10,1,Lapped,12,0 days 00:01:10.562000,0 days 00:00:00.232000
+2023,Round São Paulo Grand Prix,2,SAR,Williams,19,11,0,Lapped,19,0 days 00:01:11.035000,0 days 00:00:00.705000
+2023,Round São Paulo Grand Prix,27,HUL,Haas F1 Team,11,12,0,Lapped,11,0 days 00:01:10.547000,0 days 00:00:00.217000
+2023,Round São Paulo Grand Prix,3,RIC,AlphaTauri,17,13,0,Lapped,17,0 days 00:01:10.843000,0 days 00:00:00.513000
+2023,Round São Paulo Grand Prix,81,PIA,McLaren,10,14,0,Lapped,10,0 days 00:01:10.330000,0 days 00:00:00
+2023,Round São Paulo Grand Prix,63,RUS,Mercedes,8,15,0,Retired,6,0 days 00:01:11.590000,0 days 00:00:01.260000
+2023,Round São Paulo Grand Prix,77,BOT,Alfa Romeo,18,16,0,Retired,18,0 days 00:01:10.955000,0 days 00:00:00.625000
+2023,Round São Paulo Grand Prix,24,ZHO,Alfa Romeo,20,17,0,Retired,20,0 days 00:01:11.275000,0 days 00:00:00.945000
+2023,Round São Paulo Grand Prix,20,MAG,Haas F1 Team,12,18,0,Retired,14,0 days 00:01:10.723000,0 days 00:00:00.393000
+2023,Round São Paulo Grand Prix,23,ALB,Williams,13,19,0,Retired,15,0 days 00:01:10.840000,0 days 00:00:00.510000
+2023,Round São Paulo Grand Prix,16,LEC,Ferrari,2,20,0,Did not start,2,0 days 00:01:11.021000,0 days 00:00:00.691000
+2023,Round Las Vegas Grand Prix,1,VER,Red Bull Racing,2,1,25,Finished,3,0 days 00:01:33.104000,0 days 00:00:00.378000
+2023,Round Las Vegas Grand Prix,16,LEC,Ferrari,1,2,18,Finished,1,0 days 00:01:32.726000,0 days 00:00:00
+2023,Round Las Vegas Grand Prix,11,PER,Red Bull Racing,11,3,15,Finished,12,0 days 00:01:33.855000,0 days 00:00:01.129000
+2023,Round Las Vegas Grand Prix,31,OCO,Alpine,16,4,12,Finished,17,0 days 00:01:34.834000,0 days 00:00:02.108000
+2023,Round Las Vegas Grand Prix,18,STR,Aston Martin,19,5,10,Finished,14,0 days 00:01:34.199000,0 days 00:00:01.473000
+2023,Round Las Vegas Grand Prix,55,SAI,Ferrari,12,6,8,Finished,2,0 days 00:01:32.770000,0 days 00:00:00.044000
+2023,Round Las Vegas Grand Prix,44,HAM,Mercedes,10,7,6,Finished,11,0 days 00:01:33.837000,0 days 00:00:01.111000
+2023,Round Las Vegas Grand Prix,63,RUS,Mercedes,3,8,4,Finished,4,0 days 00:01:33.112000,0 days 00:00:00.386000
+2023,Round Las Vegas Grand Prix,14,ALO,Aston Martin,9,9,2,Finished,10,0 days 00:01:33.555000,0 days 00:00:00.829000
+2023,Round Las Vegas Grand Prix,81,PIA,McLaren,18,10,2,Finished,19,0 days 00:01:34.850000,0 days 00:00:02.124000
+2023,Round Las Vegas Grand Prix,10,GAS,Alpine,4,11,0,Finished,5,0 days 00:01:33.239000,0 days 00:00:00.513000
+2023,Round Las Vegas Grand Prix,23,ALB,Williams,5,12,0,Finished,6,0 days 00:01:33.323000,0 days 00:00:00.597000
+2023,Round Las Vegas Grand Prix,20,MAG,Haas F1 Team,8,13,0,Finished,9,0 days 00:01:33.537000,0 days 00:00:00.811000
+2023,Round Las Vegas Grand Prix,3,RIC,AlphaTauri,14,14,0,Finished,15,0 days 00:01:34.308000,0 days 00:00:01.582000
+2023,Round Las Vegas Grand Prix,24,ZHO,Alfa Romeo,17,15,0,Finished,18,0 days 00:01:34.849000,0 days 00:00:02.123000
+2023,Round Las Vegas Grand Prix,2,SAR,Williams,6,16,0,Finished,7,0 days 00:01:33.513000,0 days 00:00:00.787000
+2023,Round Las Vegas Grand Prix,77,BOT,Alfa Romeo,7,17,0,Finished,8,0 days 00:01:33.525000,0 days 00:00:00.799000
+2023,Round Las Vegas Grand Prix,22,TSU,AlphaTauri,20,18,0,Finished,20,0 days 00:01:36.447000,0 days 00:00:03.721000
+2023,Round Las Vegas Grand Prix,27,HUL,Haas F1 Team,13,19,0,Finished,13,0 days 00:01:33.979000,0 days 00:00:01.253000
+2023,Round Las Vegas Grand Prix,4,NOR,McLaren,15,20,0,Retired,16,0 days 00:01:34.703000,0 days 00:00:01.977000
+2023,Round Qatar Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:23.778000,0 days 00:00:00
+2023,Round Qatar Grand Prix,81,PIA,McLaren,6,2,18,Finished,6,0 days 00:01:24.540000,0 days 00:00:00.762000
+2023,Round Qatar Grand Prix,4,NOR,McLaren,10,3,15,Finished,10,0 days 00:01:24.685000,0 days 00:00:00.907000
+2023,Round Qatar Grand Prix,63,RUS,Mercedes,2,4,12,Finished,2,0 days 00:01:24.219000,0 days 00:00:00.441000
+2023,Round Qatar Grand Prix,16,LEC,Ferrari,5,5,10,Finished,5,0 days 00:01:24.424000,0 days 00:00:00.646000
+2023,Round Qatar Grand Prix,14,ALO,Aston Martin,4,6,8,Finished,4,0 days 00:01:24.369000,0 days 00:00:00.591000
+2023,Round Qatar Grand Prix,31,OCO,Alpine,8,7,6,Finished,8,0 days 00:01:24.763000,0 days 00:00:00.985000
+2023,Round Qatar Grand Prix,77,BOT,Alfa Romeo,9,8,4,Finished,9,0 days 00:01:25.058000,0 days 00:00:01.280000
+2023,Round Qatar Grand Prix,24,ZHO,Alfa Romeo,19,9,2,Finished,20,0 days 00:01:27.432000,0 days 00:00:03.654000
+2023,Round Qatar Grand Prix,11,PER,Red Bull Racing,20,10,1,Finished,13,0 days 00:01:25.462000,0 days 00:00:01.684000
+2023,Round Qatar Grand Prix,18,STR,Aston Martin,16,11,0,Finished,17,0 days 00:01:26.345000,0 days 00:00:02.567000
+2023,Round Qatar Grand Prix,10,GAS,Alpine,7,12,0,Finished,7,0 days 00:01:24.553000,0 days 00:00:00.775000
+2023,Round Qatar Grand Prix,23,ALB,Williams,13,13,0,Finished,14,0 days 00:01:25.707000,0 days 00:00:01.929000
+2023,Round Qatar Grand Prix,20,MAG,Haas F1 Team,18,14,0,Lapped,19,0 days 00:01:27.046000,0 days 00:00:03.268000
+2023,Round Qatar Grand Prix,22,TSU,AlphaTauri,11,15,0,Lapped,11,0 days 00:01:25.301000,0 days 00:00:01.523000
+2023,Round Qatar Grand Prix,27,HUL,Haas F1 Team,14,16,0,Lapped,15,0 days 00:01:25.783000,0 days 00:00:02.005000
+2023,Round Qatar Grand Prix,40,LAW,AlphaTauri,17,17,0,Lapped,18,0 days 00:01:26.635000,0 days 00:00:02.857000
+2023,Round Qatar Grand Prix,2,SAR,Williams,15,18,0,Retired,16,0 days 00:01:26.210000,0 days 00:00:02.432000
+2023,Round Qatar Grand Prix,44,HAM,Mercedes,3,19,0,Retired,3,0 days 00:01:24.305000,0 days 00:00:00.527000
+2023,Round Qatar Grand Prix,55,SAI,Ferrari,12,20,0,Did not start,12,0 days 00:01:25.328000,0 days 00:00:01.550000
+2023,Round Abu Dhabi Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:23.445000,0 days 00:00:00
+2023,Round Abu Dhabi Grand Prix,16,LEC,Ferrari,2,2,18,Finished,2,0 days 00:01:23.584000,0 days 00:00:00.139000
+2023,Round Abu Dhabi Grand Prix,63,RUS,Mercedes,4,3,15,Finished,4,0 days 00:01:23.788000,0 days 00:00:00.343000
+2023,Round Abu Dhabi Grand Prix,11,PER,Red Bull Racing,9,4,12,Finished,9,0 days 00:01:24.171000,0 days 00:00:00.726000
+2023,Round Abu Dhabi Grand Prix,4,NOR,McLaren,5,5,10,Finished,5,0 days 00:01:23.816000,0 days 00:00:00.371000
+2023,Round Abu Dhabi Grand Prix,81,PIA,McLaren,3,6,8,Finished,3,0 days 00:01:23.782000,0 days 00:00:00.337000
+2023,Round Abu Dhabi Grand Prix,14,ALO,Aston Martin,7,7,6,Finished,7,0 days 00:01:24.084000,0 days 00:00:00.639000
+2023,Round Abu Dhabi Grand Prix,22,TSU,AlphaTauri,6,8,4,Finished,6,0 days 00:01:23.968000,0 days 00:00:00.523000
+2023,Round Abu Dhabi Grand Prix,44,HAM,Mercedes,11,9,2,Finished,11,0 days 00:01:24.359000,0 days 00:00:00.914000
+2023,Round Abu Dhabi Grand Prix,18,STR,Aston Martin,13,10,1,Finished,13,0 days 00:01:24.422000,0 days 00:00:00.977000
+2023,Round Abu Dhabi Grand Prix,3,RIC,AlphaTauri,15,11,0,Finished,15,0 days 00:01:24.442000,0 days 00:00:00.997000
+2023,Round Abu Dhabi Grand Prix,31,OCO,Alpine,12,12,0,Finished,12,0 days 00:01:24.391000,0 days 00:00:00.946000
+2023,Round Abu Dhabi Grand Prix,10,GAS,Alpine,10,13,0,Finished,10,0 days 00:01:24.548000,0 days 00:00:01.103000
+2023,Round Abu Dhabi Grand Prix,23,ALB,Williams,14,14,0,Finished,14,0 days 00:01:24.439000,0 days 00:00:00.994000
+2023,Round Abu Dhabi Grand Prix,27,HUL,Haas F1 Team,8,15,0,Finished,8,0 days 00:01:24.108000,0 days 00:00:00.663000
+2023,Round Abu Dhabi Grand Prix,2,SAR,Williams,20,16,0,Finished,20,,
+2023,Round Abu Dhabi Grand Prix,24,ZHO,Alfa Romeo,19,17,0,Finished,19,0 days 00:01:25.159000,0 days 00:00:01.714000
+2023,Round Abu Dhabi Grand Prix,55,SAI,Ferrari,16,18,0,Finished,16,0 days 00:01:24.738000,0 days 00:00:01.293000
+2023,Round Abu Dhabi Grand Prix,77,BOT,Alfa Romeo,18,19,0,Lapped,18,0 days 00:01:24.788000,0 days 00:00:01.343000
+2023,Round Abu Dhabi Grand Prix,20,MAG,Haas F1 Team,17,20,0,Lapped,17,0 days 00:01:24.764000,0 days 00:00:01.319000
+2024,Round Australian Grand Prix,55,SAI,Ferrari,2,1,25,Finished,2,0 days 00:01:16.185000,0 days 00:00:00.270000
+2024,Round Australian Grand Prix,16,LEC,Ferrari,4,2,19,Finished,5,0 days 00:01:16.435000,0 days 00:00:00.520000
+2024,Round Australian Grand Prix,4,NOR,McLaren,3,3,15,Finished,4,0 days 00:01:16.315000,0 days 00:00:00.400000
+2024,Round Australian Grand Prix,81,PIA,McLaren,5,4,12,Finished,6,0 days 00:01:16.572000,0 days 00:00:00.657000
+2024,Round Australian Grand Prix,11,PER,Red Bull Racing,6,5,10,Finished,3,0 days 00:01:16.274000,0 days 00:00:00.359000
+2024,Round Australian Grand Prix,18,STR,Aston Martin,9,6,8,Finished,9,0 days 00:01:17.072000,0 days 00:00:01.157000
+2024,Round Australian Grand Prix,22,TSU,RB,8,7,6,Finished,8,0 days 00:01:16.788000,0 days 00:00:00.873000
+2024,Round Australian Grand Prix,14,ALO,Aston Martin,10,8,4,Finished,10,0 days 00:01:17.552000,0 days 00:00:01.637000
+2024,Round Australian Grand Prix,27,HUL,Haas F1 Team,16,9,2,Finished,16,0 days 00:01:17.976000,0 days 00:00:02.061000
+2024,Round Australian Grand Prix,20,MAG,Haas F1 Team,14,10,1,Lapped,14,0 days 00:01:17.427000,0 days 00:00:01.512000
+2024,Round Australian Grand Prix,23,ALB,Williams,12,11,0,Lapped,12,0 days 00:01:17.167000,0 days 00:00:01.252000
+2024,Round Australian Grand Prix,3,RIC,RB,18,12,0,Lapped,18,0 days 00:01:18.085000,0 days 00:00:02.170000
+2024,Round Australian Grand Prix,10,GAS,Alpine,17,13,0,Lapped,17,0 days 00:01:17.982000,0 days 00:00:02.067000
+2024,Round Australian Grand Prix,77,BOT,Kick Sauber,13,14,0,Lapped,13,0 days 00:01:17.340000,0 days 00:00:01.425000
+2024,Round Australian Grand Prix,24,ZHO,Kick Sauber,19,15,0,Lapped,19,0 days 00:01:18.188000,0 days 00:00:02.273000
+2024,Round Australian Grand Prix,31,OCO,Alpine,15,16,0,Lapped,15,0 days 00:01:17.697000,0 days 00:00:01.782000
+2024,Round Australian Grand Prix,63,RUS,Mercedes,7,17,0,Retired,7,0 days 00:01:16.724000,0 days 00:00:00.809000
+2024,Round Australian Grand Prix,44,HAM,Mercedes,11,18,0,Retired,11,0 days 00:01:16.960000,0 days 00:00:01.045000
+2024,Round Australian Grand Prix,1,VER,Red Bull Racing,1,19,0,Retired,1,0 days 00:01:15.915000,0 days 00:00:00
+2024,Round Chinese Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:33.660000,0 days 00:00:00
+2024,Round Chinese Grand Prix,4,NOR,McLaren,4,2,18,Finished,4,0 days 00:01:34.165000,0 days 00:00:00.505000
+2024,Round Chinese Grand Prix,11,PER,Red Bull Racing,2,3,15,Finished,2,0 days 00:01:33.982000,0 days 00:00:00.322000
+2024,Round Chinese Grand Prix,16,LEC,Ferrari,6,4,12,Finished,6,0 days 00:01:34.289000,0 days 00:00:00.629000
+2024,Round Chinese Grand Prix,55,SAI,Ferrari,7,5,10,Finished,7,0 days 00:01:34.297000,0 days 00:00:00.637000
+2024,Round Chinese Grand Prix,63,RUS,Mercedes,8,6,8,Finished,8,0 days 00:01:34.433000,0 days 00:00:00.773000
+2024,Round Chinese Grand Prix,14,ALO,Aston Martin,3,7,7,Finished,3,0 days 00:01:34.148000,0 days 00:00:00.488000
+2024,Round Chinese Grand Prix,81,PIA,McLaren,5,8,4,Finished,5,0 days 00:01:34.273000,0 days 00:00:00.613000
+2024,Round Chinese Grand Prix,44,HAM,Mercedes,18,9,2,Finished,18,0 days 00:01:35.573000,0 days 00:00:01.913000
+2024,Round Chinese Grand Prix,27,HUL,Haas F1 Team,9,10,1,Finished,9,0 days 00:01:34.604000,0 days 00:00:00.944000
+2024,Round Chinese Grand Prix,31,OCO,Alpine,13,11,0,Finished,13,0 days 00:01:35.223000,0 days 00:00:01.563000
+2024,Round Chinese Grand Prix,23,ALB,Williams,14,12,0,Finished,14,0 days 00:01:35.241000,0 days 00:00:01.581000
+2024,Round Chinese Grand Prix,10,GAS,Alpine,15,13,0,Finished,15,0 days 00:01:35.463000,0 days 00:00:01.803000
+2024,Round Chinese Grand Prix,24,ZHO,Kick Sauber,16,14,0,Finished,16,0 days 00:01:35.505000,0 days 00:00:01.845000
+2024,Round Chinese Grand Prix,18,STR,Aston Martin,11,15,0,Finished,11,0 days 00:01:34.838000,0 days 00:00:01.178000
+2024,Round Chinese Grand Prix,20,MAG,Haas F1 Team,17,16,0,Finished,17,0 days 00:01:35.516000,0 days 00:00:01.856000
+2024,Round Chinese Grand Prix,2,SAR,Williams,20,17,0,Finished,20,0 days 00:01:36.358000,0 days 00:00:02.698000
+2024,Round Chinese Grand Prix,3,RIC,RB,12,18,0,Retired,12,0 days 00:01:34.934000,0 days 00:00:01.274000
+2024,Round Chinese Grand Prix,22,TSU,RB,19,19,0,Retired,19,0 days 00:01:35.746000,0 days 00:00:02.086000
+2024,Round Chinese Grand Prix,77,BOT,Kick Sauber,10,20,0,Retired,10,0 days 00:01:34.665000,0 days 00:00:01.005000
+2024,Round Japanese Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:28.197000,0 days 00:00:00
+2024,Round Japanese Grand Prix,11,PER,Red Bull Racing,2,2,18,Finished,2,0 days 00:01:28.263000,0 days 00:00:00.066000
+2024,Round Japanese Grand Prix,55,SAI,Ferrari,4,3,15,Finished,4,0 days 00:01:28.682000,0 days 00:00:00.485000
+2024,Round Japanese Grand Prix,16,LEC,Ferrari,8,4,12,Finished,8,0 days 00:01:28.786000,0 days 00:00:00.589000
+2024,Round Japanese Grand Prix,4,NOR,McLaren,3,5,10,Finished,3,0 days 00:01:28.489000,0 days 00:00:00.292000
+2024,Round Japanese Grand Prix,14,ALO,Aston Martin,5,6,8,Finished,5,0 days 00:01:28.686000,0 days 00:00:00.489000
+2024,Round Japanese Grand Prix,63,RUS,Mercedes,9,7,6,Finished,9,0 days 00:01:29.008000,0 days 00:00:00.811000
+2024,Round Japanese Grand Prix,81,PIA,McLaren,6,8,4,Finished,6,0 days 00:01:28.760000,0 days 00:00:00.563000
+2024,Round Japanese Grand Prix,44,HAM,Mercedes,7,9,2,Finished,7,0 days 00:01:28.766000,0 days 00:00:00.569000
+2024,Round Japanese Grand Prix,22,TSU,RB,10,10,1,Lapped,10,0 days 00:01:29.413000,0 days 00:00:01.216000
+2024,Round Japanese Grand Prix,27,HUL,Haas F1 Team,12,11,0,Lapped,12,0 days 00:01:29.494000,0 days 00:00:01.297000
+2024,Round Japanese Grand Prix,18,STR,Aston Martin,16,12,0,Lapped,16,0 days 00:01:30.024000,0 days 00:00:01.827000
+2024,Round Japanese Grand Prix,20,MAG,Haas F1 Team,18,13,0,Lapped,18,0 days 00:01:30.131000,0 days 00:00:01.934000
+2024,Round Japanese Grand Prix,77,BOT,Kick Sauber,13,14,0,Lapped,13,0 days 00:01:29.593000,0 days 00:00:01.396000
+2024,Round Japanese Grand Prix,31,OCO,Alpine,15,15,0,Lapped,15,0 days 00:01:29.816000,0 days 00:00:01.619000
+2024,Round Japanese Grand Prix,10,GAS,Alpine,17,16,0,Lapped,17,0 days 00:01:30.119000,0 days 00:00:01.922000
+2024,Round Japanese Grand Prix,2,SAR,Williams,19,17,0,Lapped,19,0 days 00:01:30.139000,0 days 00:00:01.942000
+2024,Round Japanese Grand Prix,24,ZHO,Kick Sauber,20,18,0,Retired,20,0 days 00:01:30.143000,0 days 00:00:01.946000
+2024,Round Japanese Grand Prix,3,RIC,RB,11,19,0,Retired,11,0 days 00:01:29.472000,0 days 00:00:01.275000
+2024,Round Japanese Grand Prix,23,ALB,Williams,14,20,0,Retired,14,0 days 00:01:29.714000,0 days 00:00:01.517000
+2024,Round Bahrain Grand Prix,1,VER,Red Bull Racing,1,1,26,Finished,1,0 days 00:01:29.179000,0 days 00:00:00
+2024,Round Bahrain Grand Prix,11,PER,Red Bull Racing,5,2,18,Finished,5,0 days 00:01:29.537000,0 days 00:00:00.358000
+2024,Round Bahrain Grand Prix,55,SAI,Ferrari,4,3,15,Finished,4,0 days 00:01:29.507000,0 days 00:00:00.328000
+2024,Round Bahrain Grand Prix,16,LEC,Ferrari,2,4,12,Finished,2,0 days 00:01:29.407000,0 days 00:00:00.228000
+2024,Round Bahrain Grand Prix,63,RUS,Mercedes,3,5,10,Finished,3,0 days 00:01:29.485000,0 days 00:00:00.306000
+2024,Round Bahrain Grand Prix,4,NOR,McLaren,7,6,8,Finished,7,0 days 00:01:29.614000,0 days 00:00:00.435000
+2024,Round Bahrain Grand Prix,44,HAM,Mercedes,9,7,6,Finished,9,0 days 00:01:29.710000,0 days 00:00:00.531000
+2024,Round Bahrain Grand Prix,81,PIA,McLaren,8,8,4,Finished,8,0 days 00:01:29.683000,0 days 00:00:00.504000
+2024,Round Bahrain Grand Prix,14,ALO,Aston Martin,6,9,2,Finished,6,0 days 00:01:29.542000,0 days 00:00:00.363000
+2024,Round Bahrain Grand Prix,18,STR,Aston Martin,12,10,1,Finished,12,0 days 00:01:30.200000,0 days 00:00:01.021000
+2024,Round Bahrain Grand Prix,24,ZHO,Kick Sauber,17,11,0,Lapped,17,0 days 00:01:30.757000,0 days 00:00:01.578000
+2024,Round Bahrain Grand Prix,20,MAG,Haas F1 Team,15,12,0,Lapped,15,0 days 00:01:30.529000,0 days 00:00:01.350000
+2024,Round Bahrain Grand Prix,3,RIC,RB,14,13,0,Lapped,14,0 days 00:01:30.278000,0 days 00:00:01.099000
+2024,Round Bahrain Grand Prix,22,TSU,RB,11,14,0,Lapped,11,0 days 00:01:30.129000,0 days 00:00:00.950000
+2024,Round Bahrain Grand Prix,23,ALB,Williams,13,15,0,Lapped,13,0 days 00:01:30.221000,0 days 00:00:01.042000
+2024,Round Bahrain Grand Prix,27,HUL,Haas F1 Team,10,16,0,Lapped,10,0 days 00:01:30.502000,0 days 00:00:01.323000
+2024,Round Bahrain Grand Prix,31,OCO,Alpine,19,17,0,Lapped,19,0 days 00:01:30.793000,0 days 00:00:01.614000
+2024,Round Bahrain Grand Prix,10,GAS,Alpine,20,18,0,Lapped,20,0 days 00:01:30.948000,0 days 00:00:01.769000
+2024,Round Bahrain Grand Prix,77,BOT,Kick Sauber,16,19,0,Lapped,16,0 days 00:01:30.756000,0 days 00:00:01.577000
+2024,Round Bahrain Grand Prix,2,SAR,Williams,18,20,0,Lapped,18,0 days 00:01:30.770000,0 days 00:00:01.591000
+2024,Round Saudi Arabian Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:27.472000,0 days 00:00:00
+2024,Round Saudi Arabian Grand Prix,11,PER,Red Bull Racing,3,2,18,Finished,3,0 days 00:01:27.807000,0 days 00:00:00.335000
+2024,Round Saudi Arabian Grand Prix,16,LEC,Ferrari,2,3,16,Finished,2,0 days 00:01:27.791000,0 days 00:00:00.319000
+2024,Round Saudi Arabian Grand Prix,81,PIA,McLaren,5,4,12,Finished,5,0 days 00:01:28.089000,0 days 00:00:00.617000
+2024,Round Saudi Arabian Grand Prix,14,ALO,Aston Martin,4,5,10,Finished,4,0 days 00:01:27.846000,0 days 00:00:00.374000
+2024,Round Saudi Arabian Grand Prix,63,RUS,Mercedes,7,6,8,Finished,7,0 days 00:01:28.316000,0 days 00:00:00.844000
+2024,Round Saudi Arabian Grand Prix,38,BEA,Ferrari,11,7,6,Finished,11,0 days 00:01:28.642000,0 days 00:00:01.170000
+2024,Round Saudi Arabian Grand Prix,4,NOR,McLaren,6,8,4,Finished,6,0 days 00:01:28.132000,0 days 00:00:00.660000
+2024,Round Saudi Arabian Grand Prix,44,HAM,Mercedes,8,9,2,Finished,8,0 days 00:01:28.460000,0 days 00:00:00.988000
+2024,Round Saudi Arabian Grand Prix,27,HUL,Haas F1 Team,15,10,1,Finished,15,0 days 00:01:29.055000,0 days 00:00:01.583000
+2024,Round Saudi Arabian Grand Prix,23,ALB,Williams,12,11,0,Finished,12,0 days 00:01:28.980000,0 days 00:00:01.508000
+2024,Round Saudi Arabian Grand Prix,20,MAG,Haas F1 Team,13,12,0,Finished,13,0 days 00:01:29.020000,0 days 00:00:01.548000
+2024,Round Saudi Arabian Grand Prix,31,OCO,Alpine,17,13,0,Lapped,17,0 days 00:01:29.475000,0 days 00:00:02.003000
+2024,Round Saudi Arabian Grand Prix,2,SAR,Williams,19,14,0,Lapped,19,0 days 00:01:29.526000,0 days 00:00:02.054000
+2024,Round Saudi Arabian Grand Prix,22,TSU,RB,9,15,0,Lapped,9,0 days 00:01:28.547000,0 days 00:00:01.075000
+2024,Round Saudi Arabian Grand Prix,3,RIC,RB,14,16,0,Lapped,14,0 days 00:01:29.025000,0 days 00:00:01.553000
+2024,Round Saudi Arabian Grand Prix,77,BOT,Kick Sauber,16,17,0,Lapped,16,0 days 00:01:29.179000,0 days 00:00:01.707000
+2024,Round Saudi Arabian Grand Prix,24,ZHO,Kick Sauber,20,18,0,Lapped,20,,
+2024,Round Saudi Arabian Grand Prix,18,STR,Aston Martin,10,19,0,Retired,10,0 days 00:01:28.572000,0 days 00:00:01.100000
+2024,Round Saudi Arabian Grand Prix,10,GAS,Alpine,18,20,0,Retired,18,0 days 00:01:29.479000,0 days 00:00:02.007000
+2024,Round Miami Grand Prix,4,NOR,McLaren,5,1,25,Finished,5,0 days 00:01:27.594000,0 days 00:00:00.353000
+2024,Round Miami Grand Prix,1,VER,Red Bull Racing,1,2,18,Finished,1,0 days 00:01:27.241000,0 days 00:00:00
+2024,Round Miami Grand Prix,16,LEC,Ferrari,2,3,15,Finished,2,0 days 00:01:27.382000,0 days 00:00:00.141000
+2024,Round Miami Grand Prix,11,PER,Red Bull Racing,4,4,12,Finished,4,0 days 00:01:27.460000,0 days 00:00:00.219000
+2024,Round Miami Grand Prix,55,SAI,Ferrari,3,5,10,Finished,3,0 days 00:01:27.455000,0 days 00:00:00.214000
+2024,Round Miami Grand Prix,44,HAM,Mercedes,8,6,8,Finished,8,0 days 00:01:28.107000,0 days 00:00:00.866000
+2024,Round Miami Grand Prix,22,TSU,RB,10,7,6,Finished,10,0 days 00:01:28.192000,0 days 00:00:00.951000
+2024,Round Miami Grand Prix,63,RUS,Mercedes,7,8,4,Finished,7,0 days 00:01:28.067000,0 days 00:00:00.826000
+2024,Round Miami Grand Prix,14,ALO,Aston Martin,15,9,2,Finished,15,0 days 00:01:28.427000,0 days 00:00:01.186000
+2024,Round Miami Grand Prix,31,OCO,Alpine,13,10,1,Finished,13,0 days 00:01:28.371000,0 days 00:00:01.130000
+2024,Round Miami Grand Prix,27,HUL,Haas F1 Team,9,11,0,Finished,9,0 days 00:01:28.146000,0 days 00:00:00.905000
+2024,Round Miami Grand Prix,10,GAS,Alpine,12,12,0,Finished,12,0 days 00:01:28.324000,0 days 00:00:01.083000
+2024,Round Miami Grand Prix,81,PIA,McLaren,6,13,0,Finished,6,0 days 00:01:27.675000,0 days 00:00:00.434000
+2024,Round Miami Grand Prix,24,ZHO,Kick Sauber,19,14,0,Finished,20,0 days 00:01:28.824000,0 days 00:00:01.583000
+2024,Round Miami Grand Prix,3,RIC,RB,20,15,0,Finished,18,0 days 00:01:28.617000,0 days 00:00:01.376000
+2024,Round Miami Grand Prix,77,BOT,Kick Sauber,16,16,0,Finished,16,0 days 00:01:28.463000,0 days 00:00:01.222000
+2024,Round Miami Grand Prix,18,STR,Aston Martin,11,17,0,Finished,11,0 days 00:01:28.222000,0 days 00:00:00.981000
+2024,Round Miami Grand Prix,23,ALB,Williams,14,18,0,Finished,14,0 days 00:01:28.413000,0 days 00:00:01.172000
+2024,Round Miami Grand Prix,20,MAG,Haas F1 Team,18,19,0,Finished,19,0 days 00:01:28.619000,0 days 00:00:01.378000
+2024,Round Miami Grand Prix,2,SAR,Williams,17,20,0,Retired,17,0 days 00:01:28.487000,0 days 00:00:01.246000
+2024,Round Emilia Romagna Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:14.746000,0 days 00:00:00
+2024,Round Emilia Romagna Grand Prix,4,NOR,McLaren,2,2,18,Finished,3,0 days 00:01:14.837000,0 days 00:00:00.091000
+2024,Round Emilia Romagna Grand Prix,16,LEC,Ferrari,3,3,15,Finished,4,0 days 00:01:14.970000,0 days 00:00:00.224000
+2024,Round Emilia Romagna Grand Prix,81,PIA,McLaren,5,4,12,Finished,2,0 days 00:01:14.820000,0 days 00:00:00.074000
+2024,Round Emilia Romagna Grand Prix,55,SAI,Ferrari,4,5,10,Finished,5,0 days 00:01:15.233000,0 days 00:00:00.487000
+2024,Round Emilia Romagna Grand Prix,44,HAM,Mercedes,8,6,8,Finished,8,0 days 00:01:15.504000,0 days 00:00:00.758000
+2024,Round Emilia Romagna Grand Prix,63,RUS,Mercedes,6,7,7,Finished,6,0 days 00:01:15.234000,0 days 00:00:00.488000
+2024,Round Emilia Romagna Grand Prix,11,PER,Red Bull Racing,11,8,4,Finished,11,0 days 00:01:15.706000,0 days 00:00:00.960000
+2024,Round Emilia Romagna Grand Prix,18,STR,Aston Martin,13,9,2,Finished,13,0 days 00:01:15.992000,0 days 00:00:01.246000
+2024,Round Emilia Romagna Grand Prix,22,TSU,RB,7,10,1,Lapped,7,0 days 00:01:15.465000,0 days 00:00:00.719000
+2024,Round Emilia Romagna Grand Prix,27,HUL,Haas F1 Team,10,11,0,Lapped,10,0 days 00:01:15.980000,0 days 00:00:01.234000
+2024,Round Emilia Romagna Grand Prix,20,MAG,Haas F1 Team,18,12,0,Lapped,18,0 days 00:01:16.854000,0 days 00:00:02.108000
+2024,Round Emilia Romagna Grand Prix,3,RIC,RB,9,13,0,Lapped,9,0 days 00:01:15.674000,0 days 00:00:00.928000
+2024,Round Emilia Romagna Grand Prix,31,OCO,Alpine,12,14,0,Lapped,12,0 days 00:01:15.906000,0 days 00:00:01.160000
+2024,Round Emilia Romagna Grand Prix,24,ZHO,Kick Sauber,17,15,0,Lapped,17,0 days 00:01:16.834000,0 days 00:00:02.088000
+2024,Round Emilia Romagna Grand Prix,10,GAS,Alpine,15,16,0,Lapped,15,0 days 00:01:16.381000,0 days 00:00:01.635000
+2024,Round Emilia Romagna Grand Prix,2,SAR,Williams,19,17,0,Lapped,20,,
+2024,Round Emilia Romagna Grand Prix,77,BOT,Kick Sauber,16,18,0,Lapped,16,0 days 00:01:16.626000,0 days 00:00:01.880000
+2024,Round Emilia Romagna Grand Prix,14,ALO,Aston Martin,20,19,0,Lapped,19,0 days 00:01:16.917000,0 days 00:00:02.171000
+2024,Round Emilia Romagna Grand Prix,23,ALB,Williams,14,20,0,Retired,14,0 days 00:01:16.200000,0 days 00:00:01.454000
+2024,Round Monaco Grand Prix,16,LEC,Ferrari,1,1,25,Finished,1,0 days 00:01:10.270000,0 days 00:00:00
+2024,Round Monaco Grand Prix,81,PIA,McLaren,2,2,18,Finished,2,0 days 00:01:10.424000,0 days 00:00:00.154000
+2024,Round Monaco Grand Prix,55,SAI,Ferrari,3,3,15,Finished,3,0 days 00:01:10.518000,0 days 00:00:00.248000
+2024,Round Monaco Grand Prix,4,NOR,McLaren,4,4,12,Finished,4,0 days 00:01:10.542000,0 days 00:00:00.272000
+2024,Round Monaco Grand Prix,63,RUS,Mercedes,5,5,10,Finished,5,0 days 00:01:10.543000,0 days 00:00:00.273000
+2024,Round Monaco Grand Prix,1,VER,Red Bull Racing,6,6,8,Finished,6,0 days 00:01:10.567000,0 days 00:00:00.297000
+2024,Round Monaco Grand Prix,44,HAM,Mercedes,7,7,7,Finished,7,0 days 00:01:10.621000,0 days 00:00:00.351000
+2024,Round Monaco Grand Prix,22,TSU,RB,8,8,4,Lapped,8,0 days 00:01:10.858000,0 days 00:00:00.588000
+2024,Round Monaco Grand Prix,23,ALB,Williams,9,9,2,Lapped,9,0 days 00:01:10.948000,0 days 00:00:00.678000
+2024,Round Monaco Grand Prix,10,GAS,Alpine,10,10,1,Lapped,10,0 days 00:01:11.311000,0 days 00:00:01.041000
+2024,Round Monaco Grand Prix,14,ALO,Aston Martin,14,11,0,Lapped,14,0 days 00:01:12.019000,0 days 00:00:01.749000
+2024,Round Monaco Grand Prix,3,RIC,RB,12,12,0,Lapped,12,0 days 00:01:11.482000,0 days 00:00:01.212000
+2024,Round Monaco Grand Prix,77,BOT,Kick Sauber,17,13,0,Lapped,17,0 days 00:01:12.512000,0 days 00:00:02.242000
+2024,Round Monaco Grand Prix,18,STR,Aston Martin,13,14,0,Lapped,13,0 days 00:01:11.563000,0 days 00:00:01.293000
+2024,Round Monaco Grand Prix,2,SAR,Williams,15,15,0,Lapped,15,0 days 00:01:12.020000,0 days 00:00:01.750000
+2024,Round Monaco Grand Prix,24,ZHO,Kick Sauber,18,16,0,Lapped,18,0 days 00:01:13.028000,0 days 00:00:02.758000
+2024,Round Monaco Grand Prix,31,OCO,Alpine,11,17,0,Retired,11,0 days 00:01:11.285000,0 days 00:00:01.015000
+2024,Round Monaco Grand Prix,11,PER,Red Bull Racing,16,18,0,Retired,16,0 days 00:01:12.060000,0 days 00:00:01.790000
+2024,Round Monaco Grand Prix,27,HUL,Haas F1 Team,19,19,0,Retired,14,0 days 00:01:11.440000,0 days 00:00:01.170000
+2024,Round Monaco Grand Prix,20,MAG,Haas F1 Team,20,20,0,Retired,15,0 days 00:01:11.725000,0 days 00:00:01.455000
+2024,Round Spanish Grand Prix,1,VER,Red Bull Racing,2,1,25,Finished,2,0 days 00:01:11.403000,0 days 00:00:00.020000
+2024,Round Spanish Grand Prix,4,NOR,McLaren,1,2,19,Finished,1,0 days 00:01:11.383000,0 days 00:00:00
+2024,Round Spanish Grand Prix,44,HAM,Mercedes,3,3,15,Finished,3,0 days 00:01:11.701000,0 days 00:00:00.318000
+2024,Round Spanish Grand Prix,63,RUS,Mercedes,4,4,12,Finished,4,0 days 00:01:11.703000,0 days 00:00:00.320000
+2024,Round Spanish Grand Prix,16,LEC,Ferrari,5,5,10,Finished,5,0 days 00:01:11.731000,0 days 00:00:00.348000
+2024,Round Spanish Grand Prix,55,SAI,Ferrari,6,6,8,Finished,6,0 days 00:01:11.736000,0 days 00:00:00.353000
+2024,Round Spanish Grand Prix,81,PIA,McLaren,9,7,6,Finished,10,0 days 00:01:12.011000,0 days 00:00:00.628000
+2024,Round Spanish Grand Prix,11,PER,Red Bull Racing,11,8,4,Finished,8,0 days 00:01:12.061000,0 days 00:00:00.678000
+2024,Round Spanish Grand Prix,10,GAS,Alpine,7,9,2,Finished,7,0 days 00:01:11.857000,0 days 00:00:00.474000
+2024,Round Spanish Grand Prix,31,OCO,Alpine,8,10,1,Finished,9,0 days 00:01:12.125000,0 days 00:00:00.742000
+2024,Round Spanish Grand Prix,27,HUL,Haas F1 Team,13,11,0,Finished,13,0 days 00:01:12.310000,0 days 00:00:00.927000
+2024,Round Spanish Grand Prix,14,ALO,Aston Martin,10,12,0,Lapped,11,0 days 00:01:12.128000,0 days 00:00:00.745000
+2024,Round Spanish Grand Prix,24,ZHO,Kick Sauber,15,13,0,Lapped,15,0 days 00:01:12.738000,0 days 00:00:01.355000
+2024,Round Spanish Grand Prix,18,STR,Aston Martin,14,14,0,Lapped,14,0 days 00:01:12.372000,0 days 00:00:00.989000
+2024,Round Spanish Grand Prix,3,RIC,RB,18,15,0,Lapped,18,0 days 00:01:13.075000,0 days 00:00:01.692000
+2024,Round Spanish Grand Prix,77,BOT,Kick Sauber,12,16,0,Lapped,12,0 days 00:01:12.227000,0 days 00:00:00.844000
+2024,Round Spanish Grand Prix,20,MAG,Haas F1 Team,16,17,0,Lapped,16,0 days 00:01:12.937000,0 days 00:00:01.554000
+2024,Round Spanish Grand Prix,23,ALB,Williams,20,18,0,Lapped,19,0 days 00:01:13.153000,0 days 00:00:01.770000
+2024,Round Spanish Grand Prix,22,TSU,RB,17,19,0,Lapped,17,0 days 00:01:12.985000,0 days 00:00:01.602000
+2024,Round Spanish Grand Prix,2,SAR,Williams,19,20,0,Lapped,20,0 days 00:01:13.509000,0 days 00:00:02.126000
+2024,Round Canadian Grand Prix,1,VER,Red Bull Racing,2,1,25,Finished,2,0 days 00:01:12,0 days 00:00:00
+2024,Round Canadian Grand Prix,4,NOR,McLaren,3,2,18,Finished,3,0 days 00:01:12.021000,0 days 00:00:00.021000
+2024,Round Canadian Grand Prix,63,RUS,Mercedes,1,3,15,Finished,1,0 days 00:01:12,0 days 00:00:00
+2024,Round Canadian Grand Prix,44,HAM,Mercedes,7,4,13,Finished,7,0 days 00:01:12.280000,0 days 00:00:00.280000
+2024,Round Canadian Grand Prix,81,PIA,McLaren,4,5,10,Finished,4,0 days 00:01:12.103000,0 days 00:00:00.103000
+2024,Round Canadian Grand Prix,14,ALO,Aston Martin,6,6,8,Finished,6,0 days 00:01:12.228000,0 days 00:00:00.228000
+2024,Round Canadian Grand Prix,18,STR,Aston Martin,9,7,6,Finished,9,0 days 00:01:12.701000,0 days 00:00:00.701000
+2024,Round Canadian Grand Prix,3,RIC,RB,5,8,4,Finished,5,0 days 00:01:12.178000,0 days 00:00:00.178000
+2024,Round Canadian Grand Prix,10,GAS,Alpine,15,9,2,Finished,15,0 days 00:01:12.940000,0 days 00:00:00.940000
+2024,Round Canadian Grand Prix,31,OCO,Alpine,18,10,1,Finished,18,0 days 00:01:13.435000,0 days 00:00:01.435000
+2024,Round Canadian Grand Prix,27,HUL,Haas F1 Team,17,11,0,Finished,19,0 days 00:01:13.978000,0 days 00:00:01.978000
+2024,Round Canadian Grand Prix,20,MAG,Haas F1 Team,14,12,0,Finished,14,0 days 00:01:12.916000,0 days 00:00:00.916000
+2024,Round Canadian Grand Prix,77,BOT,Kick Sauber,19,13,0,Finished,17,0 days 00:01:13.366000,0 days 00:00:01.366000
+2024,Round Canadian Grand Prix,22,TSU,RB,8,14,0,Finished,8,0 days 00:01:12.414000,0 days 00:00:00.414000
+2024,Round Canadian Grand Prix,24,ZHO,Kick Sauber,20,15,0,Lapped,20,0 days 00:01:14.292000,0 days 00:00:02.292000
+2024,Round Canadian Grand Prix,55,SAI,Ferrari,12,16,0,Retired,12,0 days 00:01:12.728000,0 days 00:00:00.728000
+2024,Round Canadian Grand Prix,23,ALB,Williams,10,17,0,Retired,10,0 days 00:01:12.796000,0 days 00:00:00.796000
+2024,Round Canadian Grand Prix,11,PER,Red Bull Racing,16,18,0,Retired,16,0 days 00:01:13.326000,0 days 00:00:01.326000
+2024,Round Canadian Grand Prix,16,LEC,Ferrari,11,19,0,Retired,11,0 days 00:01:12.691000,0 days 00:00:00.691000
+2024,Round Canadian Grand Prix,2,SAR,Williams,13,20,0,Retired,13,0 days 00:01:12.736000,0 days 00:00:00.736000
+2024,Round Austrian Grand Prix,63,RUS,Mercedes,3,1,25,Finished,3,0 days 00:01:04.840000,0 days 00:00:00.526000
+2024,Round Austrian Grand Prix,81,PIA,McLaren,7,2,18,Finished,7,0 days 00:01:05.048000,0 days 00:00:00.734000
+2024,Round Austrian Grand Prix,55,SAI,Ferrari,4,3,15,Finished,4,0 days 00:01:04.851000,0 days 00:00:00.537000
+2024,Round Austrian Grand Prix,44,HAM,Mercedes,5,4,12,Finished,5,0 days 00:01:04.903000,0 days 00:00:00.589000
+2024,Round Austrian Grand Prix,1,VER,Red Bull Racing,1,5,10,Finished,1,0 days 00:01:04.314000,0 days 00:00:00
+2024,Round Austrian Grand Prix,27,HUL,Haas F1 Team,9,6,8,Finished,9,0 days 00:01:05.385000,0 days 00:00:01.071000
+2024,Round Austrian Grand Prix,11,PER,Red Bull Racing,8,7,6,Finished,8,0 days 00:01:05.202000,0 days 00:00:00.888000
+2024,Round Austrian Grand Prix,20,MAG,Haas F1 Team,12,8,4,Finished,12,0 days 00:01:05.347000,0 days 00:00:01.033000
+2024,Round Austrian Grand Prix,3,RIC,RB,11,9,2,Finished,11,0 days 00:01:05.289000,0 days 00:00:00.975000
+2024,Round Austrian Grand Prix,10,GAS,Alpine,13,10,1,Finished,13,0 days 00:01:05.359000,0 days 00:00:01.045000
+2024,Round Austrian Grand Prix,16,LEC,Ferrari,6,11,0,Finished,6,0 days 00:01:05.044000,0 days 00:00:00.730000
+2024,Round Austrian Grand Prix,31,OCO,Alpine,10,12,0,Finished,10,0 days 00:01:05.883000,0 days 00:00:01.569000
+2024,Round Austrian Grand Prix,18,STR,Aston Martin,17,13,0,Lapped,17,0 days 00:01:05.819000,0 days 00:00:01.505000
+2024,Round Austrian Grand Prix,22,TSU,RB,14,14,0,Lapped,14,0 days 00:01:05.412000,0 days 00:00:01.098000
+2024,Round Austrian Grand Prix,23,ALB,Williams,16,15,0,Lapped,16,0 days 00:01:05.736000,0 days 00:00:01.422000
+2024,Round Austrian Grand Prix,77,BOT,Kick Sauber,18,16,0,Lapped,18,0 days 00:01:05.847000,0 days 00:00:01.533000
+2024,Round Austrian Grand Prix,24,ZHO,Kick Sauber,20,17,0,Lapped,20,0 days 00:01:06.061000,0 days 00:00:01.747000
+2024,Round Austrian Grand Prix,14,ALO,Aston Martin,15,18,0,Lapped,15,0 days 00:01:05.639000,0 days 00:00:01.325000
+2024,Round Austrian Grand Prix,2,SAR,Williams,19,19,0,Lapped,19,0 days 00:01:05.856000,0 days 00:00:01.542000
+2024,Round Austrian Grand Prix,4,NOR,McLaren,2,20,0,Lapped,2,0 days 00:01:04.718000,0 days 00:00:00.404000
+2024,Round British Grand Prix,44,HAM,Mercedes,2,1,25,Finished,2,0 days 00:01:25.990000,0 days 00:00:00.171000
+2024,Round British Grand Prix,1,VER,Red Bull Racing,4,2,18,Finished,4,0 days 00:01:26.203000,0 days 00:00:00.384000
+2024,Round British Grand Prix,4,NOR,McLaren,3,3,15,Finished,3,0 days 00:01:26.030000,0 days 00:00:00.211000
+2024,Round British Grand Prix,81,PIA,McLaren,5,4,12,Finished,5,0 days 00:01:26.237000,0 days 00:00:00.418000
+2024,Round British Grand Prix,55,SAI,Ferrari,7,5,11,Finished,7,0 days 00:01:26.509000,0 days 00:00:00.690000
+2024,Round British Grand Prix,27,HUL,Haas F1 Team,6,6,8,Finished,6,0 days 00:01:26.338000,0 days 00:00:00.519000
+2024,Round British Grand Prix,18,STR,Aston Martin,8,7,6,Finished,8,0 days 00:01:26.585000,0 days 00:00:00.766000
+2024,Round British Grand Prix,14,ALO,Aston Martin,10,8,4,Finished,10,0 days 00:01:26.917000,0 days 00:00:01.098000
+2024,Round British Grand Prix,23,ALB,Williams,9,9,2,Finished,9,0 days 00:01:26.640000,0 days 00:00:00.821000
+2024,Round British Grand Prix,22,TSU,RB,13,10,1,Finished,13,0 days 00:01:27.269000,0 days 00:00:01.450000
+2024,Round British Grand Prix,2,SAR,Williams,12,11,0,Finished,12,0 days 00:01:27.175000,0 days 00:00:01.356000
+2024,Round British Grand Prix,20,MAG,Haas F1 Team,17,12,0,Finished,17,0 days 00:01:32.905000,0 days 00:00:07.086000
+2024,Round British Grand Prix,3,RIC,RB,15,13,0,Lapped,15,0 days 00:01:27.949000,0 days 00:00:02.130000
+2024,Round British Grand Prix,16,LEC,Ferrari,11,14,0,Lapped,11,0 days 00:01:27.097000,0 days 00:00:01.278000
+2024,Round British Grand Prix,77,BOT,Kick Sauber,16,15,0,Lapped,16,0 days 00:01:32.431000,0 days 00:00:06.612000
+2024,Round British Grand Prix,31,OCO,Alpine,18,16,0,Lapped,18,0 days 00:01:34.557000,0 days 00:00:08.738000
+2024,Round British Grand Prix,11,PER,Red Bull Racing,20,17,0,Lapped,19,0 days 00:01:38.348000,0 days 00:00:12.529000
+2024,Round British Grand Prix,24,ZHO,Kick Sauber,14,18,0,Lapped,14,0 days 00:01:27.867000,0 days 00:00:02.048000
+2024,Round British Grand Prix,63,RUS,Mercedes,1,19,0,Retired,1,0 days 00:01:25.819000,0 days 00:00:00
+2024,Round British Grand Prix,10,GAS,Alpine,19,20,0,Did not start,20,0 days 00:01:39.804000,0 days 00:00:13.985000
+2024,Round Belgian Grand Prix,44,HAM,Mercedes,3,1,25,Finished,4,0 days 00:01:53.835000,0 days 00:00:00.676000
+2024,Round Belgian Grand Prix,81,PIA,McLaren,5,2,18,Finished,6,0 days 00:01:54.027000,0 days 00:00:00.868000
+2024,Round Belgian Grand Prix,16,LEC,Ferrari,1,3,15,Finished,2,0 days 00:01:53.754000,0 days 00:00:00.595000
+2024,Round Belgian Grand Prix,1,VER,Red Bull Racing,11,4,12,Finished,1,0 days 00:01:53.159000,0 days 00:00:00
+2024,Round Belgian Grand Prix,4,NOR,McLaren,4,5,10,Finished,5,0 days 00:01:53.981000,0 days 00:00:00.822000
+2024,Round Belgian Grand Prix,55,SAI,Ferrari,7,6,8,Finished,8,0 days 00:01:54.477000,0 days 00:00:01.318000
+2024,Round Belgian Grand Prix,11,PER,Red Bull Racing,2,7,7,Finished,3,0 days 00:01:53.765000,0 days 00:00:00.606000
+2024,Round Belgian Grand Prix,14,ALO,Aston Martin,8,8,4,Finished,9,0 days 00:01:54.765000,0 days 00:00:01.606000
+2024,Round Belgian Grand Prix,31,OCO,Alpine,9,9,2,Finished,10,0 days 00:01:54.810000,0 days 00:00:01.651000
+2024,Round Belgian Grand Prix,3,RIC,RB,13,10,1,Finished,13,0 days 00:01:54.682000,0 days 00:00:01.523000
+2024,Round Belgian Grand Prix,18,STR,Aston Martin,15,11,0,Finished,15,0 days 00:01:55.716000,0 days 00:00:02.557000
+2024,Round Belgian Grand Prix,23,ALB,Williams,10,12,0,Finished,11,0 days 00:01:54.473000,0 days 00:00:01.314000
+2024,Round Belgian Grand Prix,10,GAS,Alpine,12,13,0,Finished,12,0 days 00:01:54.635000,0 days 00:00:01.476000
+2024,Round Belgian Grand Prix,20,MAG,Haas F1 Team,17,14,0,Finished,17,0 days 00:01:56.500000,0 days 00:00:03.341000
+2024,Round Belgian Grand Prix,77,BOT,Kick Sauber,14,15,0,Finished,14,0 days 00:01:54.764000,0 days 00:00:01.605000
+2024,Round Belgian Grand Prix,22,TSU,RB,20,16,0,Finished,18,0 days 00:01:56.593000,0 days 00:00:03.434000
+2024,Round Belgian Grand Prix,2,SAR,Williams,18,17,0,Finished,19,0 days 00:01:57.230000,0 days 00:00:04.071000
+2024,Round Belgian Grand Prix,27,HUL,Haas F1 Team,16,18,0,Finished,16,0 days 00:01:56.308000,0 days 00:00:03.149000
+2024,Round Belgian Grand Prix,24,ZHO,Kick Sauber,19,19,0,Retired,20,0 days 00:01:57.775000,0 days 00:00:04.616000
+2024,Round Belgian Grand Prix,63,RUS,Mercedes,6,20,0,Disqualified,7,0 days 00:01:54.184000,0 days 00:00:01.025000
+2024,Round Hungarian Grand Prix,81,PIA,McLaren,2,1,25,Finished,2,0 days 00:01:15.249000,0 days 00:00:00.022000
+2024,Round Hungarian Grand Prix,4,NOR,McLaren,1,2,18,Finished,1,0 days 00:01:15.227000,0 days 00:00:00
+2024,Round Hungarian Grand Prix,44,HAM,Mercedes,5,3,15,Finished,5,0 days 00:01:15.854000,0 days 00:00:00.627000
+2024,Round Hungarian Grand Prix,16,LEC,Ferrari,6,4,12,Finished,6,0 days 00:01:15.905000,0 days 00:00:00.678000
+2024,Round Hungarian Grand Prix,1,VER,Red Bull Racing,3,5,10,Finished,3,0 days 00:01:15.273000,0 days 00:00:00.046000
+2024,Round Hungarian Grand Prix,55,SAI,Ferrari,4,6,8,Finished,4,0 days 00:01:15.696000,0 days 00:00:00.469000
+2024,Round Hungarian Grand Prix,11,PER,Red Bull Racing,16,7,6,Finished,16,0 days 00:01:17.886000,0 days 00:00:02.659000
+2024,Round Hungarian Grand Prix,63,RUS,Mercedes,17,8,5,Finished,17,0 days 00:01:17.968000,0 days 00:00:02.741000
+2024,Round Hungarian Grand Prix,22,TSU,RB,10,9,2,Finished,10,0 days 00:01:16.477000,0 days 00:00:01.250000
+2024,Round Hungarian Grand Prix,18,STR,Aston Martin,8,10,1,Finished,8,0 days 00:01:16.244000,0 days 00:00:01.017000
+2024,Round Hungarian Grand Prix,14,ALO,Aston Martin,7,11,0,Finished,7,0 days 00:01:16.043000,0 days 00:00:00.816000
+2024,Round Hungarian Grand Prix,3,RIC,RB,9,12,0,Lapped,9,0 days 00:01:16.447000,0 days 00:00:01.220000
+2024,Round Hungarian Grand Prix,27,HUL,Haas F1 Team,11,13,0,Lapped,11,0 days 00:01:16.317000,0 days 00:00:01.090000
+2024,Round Hungarian Grand Prix,23,ALB,Williams,13,14,0,Lapped,13,0 days 00:01:16.429000,0 days 00:00:01.202000
+2024,Round Hungarian Grand Prix,20,MAG,Haas F1 Team,15,15,0,Lapped,15,0 days 00:01:16.548000,0 days 00:00:01.321000
+2024,Round Hungarian Grand Prix,77,BOT,Kick Sauber,12,16,0,Lapped,12,0 days 00:01:16.384000,0 days 00:00:01.157000
+2024,Round Hungarian Grand Prix,2,SAR,Williams,14,17,0,Lapped,14,0 days 00:01:16.543000,0 days 00:00:01.316000
+2024,Round Hungarian Grand Prix,31,OCO,Alpine,19,18,0,Lapped,19,0 days 00:01:18.049000,0 days 00:00:02.822000
+2024,Round Hungarian Grand Prix,24,ZHO,Kick Sauber,18,19,0,Lapped,18,0 days 00:01:18.037000,0 days 00:00:02.810000
+2024,Round Hungarian Grand Prix,10,GAS,Alpine,20,20,0,Retired,20,0 days 00:01:18.166000,0 days 00:00:02.939000
+2024,Round Dutch Grand Prix,4,NOR,McLaren,1,1,26,Finished,1,0 days 00:01:09.673000,0 days 00:00:00
+2024,Round Dutch Grand Prix,1,VER,Red Bull Racing,2,2,18,Finished,2,0 days 00:01:10.029000,0 days 00:00:00.356000
+2024,Round Dutch Grand Prix,16,LEC,Ferrari,6,3,15,Finished,6,0 days 00:01:10.582000,0 days 00:00:00.909000
+2024,Round Dutch Grand Prix,81,PIA,McLaren,3,4,12,Finished,3,0 days 00:01:10.172000,0 days 00:00:00.499000
+2024,Round Dutch Grand Prix,55,SAI,Ferrari,10,5,10,Finished,10,0 days 00:01:10.914000,0 days 00:00:01.241000
+2024,Round Dutch Grand Prix,11,PER,Red Bull Racing,5,6,8,Finished,5,0 days 00:01:10.416000,0 days 00:00:00.743000
+2024,Round Dutch Grand Prix,63,RUS,Mercedes,4,7,6,Finished,4,0 days 00:01:10.244000,0 days 00:00:00.571000
+2024,Round Dutch Grand Prix,44,HAM,Mercedes,14,8,4,Finished,11,0 days 00:01:10.948000,0 days 00:00:01.275000
+2024,Round Dutch Grand Prix,10,GAS,Alpine,9,9,2,Lapped,9,0 days 00:01:10.977000,0 days 00:00:01.304000
+2024,Round Dutch Grand Prix,14,ALO,Aston Martin,7,10,1,Lapped,7,0 days 00:01:10.633000,0 days 00:00:00.960000
+2024,Round Dutch Grand Prix,27,HUL,Haas F1 Team,12,11,0,Lapped,13,0 days 00:01:11.215000,0 days 00:00:01.542000
+2024,Round Dutch Grand Prix,3,RIC,RB,13,12,0,Lapped,15,0 days 00:01:11.943000,0 days 00:00:02.270000
+2024,Round Dutch Grand Prix,18,STR,Aston Martin,8,13,0,Lapped,8,0 days 00:01:10.857000,0 days 00:00:01.184000
+2024,Round Dutch Grand Prix,23,ALB,Williams,19,14,0,Lapped,10,0 days 00:01:10.653000,0 days 00:00:00.980000
+2024,Round Dutch Grand Prix,31,OCO,Alpine,15,15,0,Lapped,16,0 days 00:01:11.995000,0 days 00:00:02.322000
+2024,Round Dutch Grand Prix,2,SAR,Williams,18,16,0,Lapped,20,,
+2024,Round Dutch Grand Prix,22,TSU,RB,11,17,0,Lapped,12,0 days 00:01:10.955000,0 days 00:00:01.282000
+2024,Round Dutch Grand Prix,20,MAG,Haas F1 Team,20,18,0,Lapped,14,0 days 00:01:11.295000,0 days 00:00:01.622000
+2024,Round Dutch Grand Prix,77,BOT,Kick Sauber,16,19,0,Lapped,17,0 days 00:01:12.168000,0 days 00:00:02.495000
+2024,Round Dutch Grand Prix,24,ZHO,Kick Sauber,17,20,0,Lapped,18,0 days 00:01:13.261000,0 days 00:00:03.588000
+2024,Round Italian Grand Prix,16,LEC,Ferrari,4,1,25,Finished,4,0 days 00:01:19.461000,0 days 00:00:00.134000
+2024,Round Italian Grand Prix,81,PIA,McLaren,2,2,18,Finished,2,0 days 00:01:19.436000,0 days 00:00:00.109000
+2024,Round Italian Grand Prix,4,NOR,McLaren,1,3,16,Finished,1,0 days 00:01:19.327000,0 days 00:00:00
+2024,Round Italian Grand Prix,55,SAI,Ferrari,5,4,12,Finished,5,0 days 00:01:19.467000,0 days 00:00:00.140000
+2024,Round Italian Grand Prix,44,HAM,Mercedes,6,5,10,Finished,6,0 days 00:01:19.513000,0 days 00:00:00.186000
+2024,Round Italian Grand Prix,1,VER,Red Bull Racing,7,6,8,Finished,7,0 days 00:01:20.022000,0 days 00:00:00.695000
+2024,Round Italian Grand Prix,63,RUS,Mercedes,3,7,6,Finished,3,0 days 00:01:19.440000,0 days 00:00:00.113000
+2024,Round Italian Grand Prix,11,PER,Red Bull Racing,8,8,4,Finished,8,0 days 00:01:20.062000,0 days 00:00:00.735000
+2024,Round Italian Grand Prix,23,ALB,Williams,9,9,2,Finished,9,0 days 00:01:20.299000,0 days 00:00:00.972000
+2024,Round Italian Grand Prix,20,MAG,Haas F1 Team,13,10,1,Finished,13,0 days 00:01:20.698000,0 days 00:00:01.371000
+2024,Round Italian Grand Prix,14,ALO,Aston Martin,11,11,0,Finished,11,0 days 00:01:20.421000,0 days 00:00:01.094000
+2024,Round Italian Grand Prix,43,COL,Williams,18,12,0,Finished,18,0 days 00:01:21.061000,0 days 00:00:01.734000
+2024,Round Italian Grand Prix,3,RIC,RB,12,13,0,Finished,12,0 days 00:01:20.479000,0 days 00:00:01.152000
+2024,Round Italian Grand Prix,31,OCO,Alpine,15,14,0,Lapped,15,0 days 00:01:20.766000,0 days 00:00:01.439000
+2024,Round Italian Grand Prix,10,GAS,Alpine,14,15,0,Lapped,14,0 days 00:01:20.738000,0 days 00:00:01.411000
+2024,Round Italian Grand Prix,77,BOT,Kick Sauber,19,16,0,Lapped,19,0 days 00:01:21.101000,0 days 00:00:01.774000
+2024,Round Italian Grand Prix,27,HUL,Haas F1 Team,10,17,0,Lapped,10,0 days 00:01:20.339000,0 days 00:00:01.012000
+2024,Round Italian Grand Prix,24,ZHO,Kick Sauber,20,18,0,Lapped,20,0 days 00:01:21.445000,0 days 00:00:02.118000
+2024,Round Italian Grand Prix,18,STR,Aston Martin,17,19,0,Lapped,17,0 days 00:01:21.013000,0 days 00:00:01.686000
+2024,Round Italian Grand Prix,22,TSU,RB,16,20,0,Retired,16,0 days 00:01:20.945000,0 days 00:00:01.618000
+2024,Round Azerbaijan Grand Prix,81,PIA,McLaren,2,1,25,Finished,2,0 days 00:01:41.686000,0 days 00:00:00.321000
+2024,Round Azerbaijan Grand Prix,16,LEC,Ferrari,1,2,18,Finished,1,0 days 00:01:41.365000,0 days 00:00:00
+2024,Round Azerbaijan Grand Prix,63,RUS,Mercedes,5,3,15,Finished,5,0 days 00:01:41.874000,0 days 00:00:00.509000
+2024,Round Azerbaijan Grand Prix,4,NOR,McLaren,15,4,13,Finished,16,0 days 00:01:43.609000,0 days 00:00:02.244000
+2024,Round Azerbaijan Grand Prix,1,VER,Red Bull Racing,6,5,10,Finished,6,0 days 00:01:42.023000,0 days 00:00:00.658000
+2024,Round Azerbaijan Grand Prix,14,ALO,Aston Martin,7,6,8,Finished,8,0 days 00:01:42.369000,0 days 00:00:01.004000
+2024,Round Azerbaijan Grand Prix,23,ALB,Williams,9,7,6,Finished,10,0 days 00:01:42.859000,0 days 00:00:01.494000
+2024,Round Azerbaijan Grand Prix,43,COL,Williams,8,8,4,Finished,9,0 days 00:01:42.530000,0 days 00:00:01.165000
+2024,Round Azerbaijan Grand Prix,44,HAM,Mercedes,19,9,2,Finished,7,0 days 00:01:42.289000,0 days 00:00:00.924000
+2024,Round Azerbaijan Grand Prix,50,BEA,Haas F1 Team,10,10,1,Finished,11,0 days 00:01:42.968000,0 days 00:00:01.603000
+2024,Round Azerbaijan Grand Prix,27,HUL,Haas F1 Team,12,11,0,Finished,13,0 days 00:01:43.191000,0 days 00:00:01.826000
+2024,Round Azerbaijan Grand Prix,10,GAS,Alpine,18,12,0,Finished,15,0 days 00:01:43.179000,0 days 00:00:01.814000
+2024,Round Azerbaijan Grand Prix,3,RIC,RB,14,13,0,Finished,15,0 days 00:01:43.547000,0 days 00:00:02.182000
+2024,Round Azerbaijan Grand Prix,24,ZHO,Kick Sauber,17,14,0,Finished,18,0 days 00:01:44.246000,0 days 00:00:02.881000
+2024,Round Azerbaijan Grand Prix,31,OCO,Alpine,20,15,0,Lapped,19,0 days 00:01:44.504000,0 days 00:00:03.139000
+2024,Round Azerbaijan Grand Prix,77,BOT,Kick Sauber,16,16,0,Lapped,17,0 days 00:01:43.618000,0 days 00:00:02.253000
+2024,Round Azerbaijan Grand Prix,11,PER,Red Bull Racing,4,17,0,Finished,4,0 days 00:01:41.813000,0 days 00:00:00.448000
+2024,Round Azerbaijan Grand Prix,55,SAI,Ferrari,3,18,0,Finished,3,0 days 00:01:41.805000,0 days 00:00:00.440000
+2024,Round Azerbaijan Grand Prix,18,STR,Aston Martin,13,19,0,Finished,14,0 days 00:01:43.404000,0 days 00:00:02.039000
+2024,Round Azerbaijan Grand Prix,22,TSU,RB,11,20,0,Retired,12,0 days 00:01:43.035000,0 days 00:00:01.670000
+2024,Round Singapore Grand Prix,4,NOR,McLaren,1,1,25,Finished,1,0 days 00:01:29.525000,0 days 00:00:00
+2024,Round Singapore Grand Prix,1,VER,Red Bull Racing,2,2,18,Finished,2,0 days 00:01:29.728000,0 days 00:00:00.203000
+2024,Round Singapore Grand Prix,81,PIA,McLaren,5,3,15,Finished,5,0 days 00:01:29.953000,0 days 00:00:00.428000
+2024,Round Singapore Grand Prix,63,RUS,Mercedes,4,4,12,Finished,4,0 days 00:01:29.867000,0 days 00:00:00.342000
+2024,Round Singapore Grand Prix,16,LEC,Ferrari,9,5,10,Finished,9,0 days 00:01:29.747000,0 days 00:00:00.222000
+2024,Round Singapore Grand Prix,44,HAM,Mercedes,3,6,8,Finished,3,0 days 00:01:29.841000,0 days 00:00:00.316000
+2024,Round Singapore Grand Prix,55,SAI,Ferrari,10,7,6,Finished,10,0 days 00:01:30.108000,0 days 00:00:00.583000
+2024,Round Singapore Grand Prix,14,ALO,Aston Martin,7,8,4,Lapped,7,0 days 00:01:30.214000,0 days 00:00:00.689000
+2024,Round Singapore Grand Prix,27,HUL,Haas F1 Team,6,9,2,Lapped,6,0 days 00:01:30.115000,0 days 00:00:00.590000
+2024,Round Singapore Grand Prix,11,PER,Red Bull Racing,13,10,1,Lapped,13,0 days 00:01:30.579000,0 days 00:00:01.054000
+2024,Round Singapore Grand Prix,43,COL,Williams,12,11,0,Lapped,12,0 days 00:01:30.481000,0 days 00:00:00.956000
+2024,Round Singapore Grand Prix,22,TSU,RB,8,12,0,Lapped,8,0 days 00:01:30.354000,0 days 00:00:00.829000
+2024,Round Singapore Grand Prix,31,OCO,Alpine,15,13,0,Lapped,15,0 days 00:01:30.769000,0 days 00:00:01.244000
+2024,Round Singapore Grand Prix,18,STR,Aston Martin,17,14,0,Lapped,17,0 days 00:01:31.094000,0 days 00:00:01.569000
+2024,Round Singapore Grand Prix,24,ZHO,Kick Sauber,20,15,0,Lapped,20,0 days 00:01:32.054000,0 days 00:00:02.529000
+2024,Round Singapore Grand Prix,77,BOT,Kick Sauber,19,16,0,Lapped,19,0 days 00:01:31.572000,0 days 00:00:02.047000
+2024,Round Singapore Grand Prix,10,GAS,Alpine,18,17,0,Lapped,18,0 days 00:01:31.312000,0 days 00:00:01.787000
+2024,Round Singapore Grand Prix,3,RIC,RB,16,18,0,Lapped,16,0 days 00:01:31.085000,0 days 00:00:01.560000
+2024,Round Singapore Grand Prix,20,MAG,Haas F1 Team,14,19,0,Finished,14,0 days 00:01:30.653000,0 days 00:00:01.128000
+2024,Round Singapore Grand Prix,23,ALB,Williams,11,20,0,Retired,11,0 days 00:01:30.474000,0 days 00:00:00.949000
+2024,Round United States Grand Prix,16,LEC,Ferrari,4,1,25,Finished,4,0 days 00:01:32.740000,0 days 00:00:00.410000
+2024,Round United States Grand Prix,55,SAI,Ferrari,3,2,18,Finished,3,0 days 00:01:32.652000,0 days 00:00:00.322000
+2024,Round United States Grand Prix,1,VER,Red Bull Racing,2,3,15,Finished,2,0 days 00:01:32.361000,0 days 00:00:00.031000
+2024,Round United States Grand Prix,4,NOR,McLaren,1,4,12,Finished,1,0 days 00:01:32.330000,0 days 00:00:00
+2024,Round United States Grand Prix,81,PIA,McLaren,5,5,10,Finished,5,0 days 00:01:32.950000,0 days 00:00:00.620000
+2024,Round United States Grand Prix,63,RUS,Mercedes,20,6,8,Finished,6,0 days 00:01:32.974000,0 days 00:00:00.644000
+2024,Round United States Grand Prix,11,PER,Red Bull Racing,9,7,6,Finished,10,0 days 00:01:33.020000,0 days 00:00:00.690000
+2024,Round United States Grand Prix,27,HUL,Haas F1 Team,11,8,4,Finished,12,0 days 00:01:33.544000,0 days 00:00:01.214000
+2024,Round United States Grand Prix,30,LAW,RB,19,9,2,Finished,15,0 days 00:01:33.339000,0 days 00:00:01.009000
+2024,Round United States Grand Prix,43,COL,Williams,15,10,1,Finished,17,0 days 00:01:34.062000,0 days 00:00:01.732000
+2024,Round United States Grand Prix,20,MAG,Haas F1 Team,8,11,0,Finished,9,0 days 00:01:33.481000,0 days 00:00:01.151000
+2024,Round United States Grand Prix,10,GAS,Alpine,6,12,0,Finished,7,0 days 00:01:33.018000,0 days 00:00:00.688000
+2024,Round United States Grand Prix,14,ALO,Aston Martin,7,13,0,Lapped,8,0 days 00:01:33.309000,0 days 00:00:00.979000
+2024,Round United States Grand Prix,22,TSU,RB,10,14,0,Lapped,11,0 days 00:01:33.506000,0 days 00:00:01.176000
+2024,Round United States Grand Prix,18,STR,Aston Martin,13,15,0,Lapped,14,0 days 00:01:33.759000,0 days 00:00:01.429000
+2024,Round United States Grand Prix,23,ALB,Williams,14,16,0,Lapped,16,0 days 00:01:34.051000,0 days 00:00:01.721000
+2024,Round United States Grand Prix,77,BOT,Kick Sauber,16,17,0,Lapped,18,0 days 00:01:34.152000,0 days 00:00:01.822000
+2024,Round United States Grand Prix,31,OCO,Alpine,12,18,0,Lapped,13,0 days 00:01:33.597000,0 days 00:00:01.267000
+2024,Round United States Grand Prix,24,ZHO,Kick Sauber,18,19,0,Lapped,20,0 days 00:01:34.228000,0 days 00:00:01.898000
+2024,Round United States Grand Prix,44,HAM,Mercedes,17,20,0,Retired,19,0 days 00:01:34.154000,0 days 00:00:01.824000
+2024,Round Mexico City Grand Prix,55,SAI,Ferrari,1,1,25,Finished,1,0 days 00:01:15.946000,0 days 00:00:00
+2024,Round Mexico City Grand Prix,4,NOR,McLaren,3,2,18,Finished,3,0 days 00:01:16.260000,0 days 00:00:00.314000
+2024,Round Mexico City Grand Prix,16,LEC,Ferrari,4,3,16,Finished,4,0 days 00:01:16.265000,0 days 00:00:00.319000
+2024,Round Mexico City Grand Prix,44,HAM,Mercedes,6,4,12,Finished,6,0 days 00:01:16.651000,0 days 00:00:00.705000
+2024,Round Mexico City Grand Prix,63,RUS,Mercedes,5,5,10,Finished,5,0 days 00:01:16.356000,0 days 00:00:00.410000
+2024,Round Mexico City Grand Prix,1,VER,Red Bull Racing,2,6,8,Finished,2,0 days 00:01:16.171000,0 days 00:00:00.225000
+2024,Round Mexico City Grand Prix,20,MAG,Haas F1 Team,7,7,6,Finished,7,0 days 00:01:16.886000,0 days 00:00:00.940000
+2024,Round Mexico City Grand Prix,81,PIA,McLaren,17,8,4,Finished,17,0 days 00:01:17.597000,0 days 00:00:01.651000
+2024,Round Mexico City Grand Prix,27,HUL,Haas F1 Team,10,9,2,Lapped,10,0 days 00:01:17.365000,0 days 00:00:01.419000
+2024,Round Mexico City Grand Prix,10,GAS,Alpine,8,10,1,Lapped,8,0 days 00:01:16.892000,0 days 00:00:00.946000
+2024,Round Mexico City Grand Prix,18,STR,Aston Martin,14,11,0,Lapped,14,0 days 00:01:17.294000,0 days 00:00:01.348000
+2024,Round Mexico City Grand Prix,43,COL,Williams,16,12,0,Lapped,16,0 days 00:01:17.558000,0 days 00:00:01.612000
+2024,Round Mexico City Grand Prix,31,OCO,Alpine,0,13,0,Lapped,19,0 days 00:01:17.617000,0 days 00:00:01.671000
+2024,Round Mexico City Grand Prix,77,BOT,Kick Sauber,15,14,0,Lapped,15,0 days 00:01:17.817000,0 days 00:00:01.871000
+2024,Round Mexico City Grand Prix,24,ZHO,Kick Sauber,19,15,0,Lapped,20,0 days 00:01:18.072000,0 days 00:00:02.126000
+2024,Round Mexico City Grand Prix,30,LAW,RB,12,16,0,Lapped,12,0 days 00:01:17.162000,0 days 00:00:01.216000
+2024,Round Mexico City Grand Prix,11,PER,Red Bull Racing,18,17,0,Lapped,18,0 days 00:01:17.611000,0 days 00:00:01.665000
+2024,Round Mexico City Grand Prix,14,ALO,Aston Martin,13,18,0,Retired,13,0 days 00:01:17.168000,0 days 00:00:01.222000
+2024,Round Mexico City Grand Prix,23,ALB,Williams,9,19,0,Retired,9,0 days 00:01:17.065000,0 days 00:00:01.119000
+2024,Round Mexico City Grand Prix,22,TSU,RB,11,20,0,Retired,11,0 days 00:01:17.129000,0 days 00:00:01.183000
+2024,Round São Paulo Grand Prix,1,VER,Red Bull Racing,17,1,26,Finished,12,0 days 00:01:27.771000,0 days 00:00:04.366000
+2024,Round São Paulo Grand Prix,31,OCO,Alpine,4,2,18,Finished,4,0 days 00:01:24.475000,0 days 00:00:01.070000
+2024,Round São Paulo Grand Prix,10,GAS,Alpine,13,3,15,Finished,15,0 days 00:01:29.614000,0 days 00:00:06.209000
+2024,Round São Paulo Grand Prix,63,RUS,Mercedes,2,4,12,Finished,2,0 days 00:01:23.578000,0 days 00:00:00.173000
+2024,Round São Paulo Grand Prix,16,LEC,Ferrari,6,5,10,Finished,6,0 days 00:01:24.525000,0 days 00:00:01.120000
+2024,Round São Paulo Grand Prix,4,NOR,McLaren,1,6,8,Finished,1,0 days 00:01:23.405000,0 days 00:00:00
+2024,Round São Paulo Grand Prix,22,TSU,RB,3,7,6,Finished,3,0 days 00:01:24.111000,0 days 00:00:00.706000
+2024,Round São Paulo Grand Prix,81,PIA,McLaren,8,8,4,Finished,8,0 days 00:01:24.686000,0 days 00:00:01.281000
+2024,Round São Paulo Grand Prix,30,LAW,RB,5,9,2,Finished,5,0 days 00:01:24.484000,0 days 00:00:01.079000
+2024,Round São Paulo Grand Prix,44,HAM,Mercedes,14,10,1,Finished,16,0 days 00:01:31.150000,0 days 00:00:07.745000
+2024,Round São Paulo Grand Prix,11,PER,Red Bull Racing,12,11,0,Finished,13,0 days 00:01:28.158000,0 days 00:00:04.753000
+2024,Round São Paulo Grand Prix,50,BEA,Haas F1 Team,15,12,0,Finished,17,0 days 00:01:31.229000,0 days 00:00:07.824000
+2024,Round São Paulo Grand Prix,77,BOT,Kick Sauber,11,13,0,Finished,11,0 days 00:01:26.472000,0 days 00:00:03.067000
+2024,Round São Paulo Grand Prix,14,ALO,Aston Martin,9,14,0,Finished,9,0 days 00:01:28.998000,0 days 00:00:05.593000
+2024,Round São Paulo Grand Prix,24,ZHO,Kick Sauber,19,15,0,Finished,20,0 days 00:01:32.263000,0 days 00:00:08.858000
+2024,Round São Paulo Grand Prix,55,SAI,Ferrari,20,16,0,Retired,14,0 days 00:01:29.406000,0 days 00:00:06.001000
+2024,Round São Paulo Grand Prix,43,COL,Williams,16,17,0,Retired,18,0 days 00:01:31.270000,0 days 00:00:07.865000
+2024,Round São Paulo Grand Prix,23,ALB,Williams,7,18,0,Did not start,7,0 days 00:01:24.657000,0 days 00:00:01.252000
+2024,Round São Paulo Grand Prix,18,STR,Aston Martin,10,19,0,Did not start,10,0 days 00:01:26.334000,0 days 00:00:02.929000
+2024,Round São Paulo Grand Prix,27,HUL,Haas F1 Team,18,20,0,Disqualified,19,0 days 00:01:31.623000,0 days 00:00:08.218000
+2024,Round Las Vegas Grand Prix,63,RUS,Mercedes,1,1,25,Finished,1,0 days 00:01:32.312000,0 days 00:00:00
+2024,Round Las Vegas Grand Prix,44,HAM,Mercedes,10,2,18,Finished,10,0 days 00:01:48.106000,0 days 00:00:15.794000
+2024,Round Las Vegas Grand Prix,55,SAI,Ferrari,2,3,15,Finished,2,0 days 00:01:32.410000,0 days 00:00:00.098000
+2024,Round Las Vegas Grand Prix,16,LEC,Ferrari,4,4,12,Finished,4,0 days 00:01:32.783000,0 days 00:00:00.471000
+2024,Round Las Vegas Grand Prix,1,VER,Red Bull Racing,5,5,10,Finished,5,0 days 00:01:32.797000,0 days 00:00:00.485000
+2024,Round Las Vegas Grand Prix,4,NOR,McLaren,6,6,9,Finished,6,0 days 00:01:33.008000,0 days 00:00:00.696000
+2024,Round Las Vegas Grand Prix,81,PIA,McLaren,8,7,6,Finished,8,0 days 00:01:33.033000,0 days 00:00:00.721000
+2024,Round Las Vegas Grand Prix,27,HUL,Haas F1 Team,9,8,4,Finished,9,0 days 00:01:33.062000,0 days 00:00:00.750000
+2024,Round Las Vegas Grand Prix,22,TSU,RB,7,9,2,Finished,7,0 days 00:01:33.029000,0 days 00:00:00.717000
+2024,Round Las Vegas Grand Prix,11,PER,Red Bull Racing,15,10,1,Finished,16,0 days 00:01:34.155000,0 days 00:00:01.843000
+2024,Round Las Vegas Grand Prix,14,ALO,Aston Martin,16,11,0,Finished,17,0 days 00:01:34.258000,0 days 00:00:01.946000
+2024,Round Las Vegas Grand Prix,20,MAG,Haas F1 Team,12,12,0,Finished,12,0 days 00:01:33.297000,0 days 00:00:00.985000
+2024,Round Las Vegas Grand Prix,24,ZHO,Kick Sauber,13,13,0,Finished,13,0 days 00:01:33.566000,0 days 00:00:01.254000
+2024,Round Las Vegas Grand Prix,43,COL,Williams,20,14,0,Finished,14,0 days 00:01:33.749000,0 days 00:00:01.437000
+2024,Round Las Vegas Grand Prix,18,STR,Aston Martin,18,15,0,Finished,20,0 days 00:01:34.484000,0 days 00:00:02.172000
+2024,Round Las Vegas Grand Prix,30,LAW,RB,14,16,0,Finished,15,0 days 00:01:34.257000,0 days 00:00:01.945000
+2024,Round Las Vegas Grand Prix,31,OCO,Alpine,11,17,0,Lapped,11,0 days 00:01:33.221000,0 days 00:00:00.909000
+2024,Round Las Vegas Grand Prix,77,BOT,Kick Sauber,19,18,0,Lapped,19,0 days 00:01:34.430000,0 days 00:00:02.118000
+2024,Round Las Vegas Grand Prix,23,ALB,Williams,17,19,0,Retired,18,0 days 00:01:34.425000,0 days 00:00:02.113000
+2024,Round Las Vegas Grand Prix,10,GAS,Alpine,3,20,0,Retired,3,0 days 00:01:32.664000,0 days 00:00:00.352000
+2024,Round Qatar Grand Prix,1,VER,Red Bull Racing,2,1,25,Finished,1,0 days 00:01:20.520000,0 days 00:00:00
+2024,Round Qatar Grand Prix,16,LEC,Ferrari,5,2,18,Finished,5,0 days 00:01:20.852000,0 days 00:00:00.332000
+2024,Round Qatar Grand Prix,81,PIA,McLaren,4,3,15,Finished,4,0 days 00:01:20.829000,0 days 00:00:00.309000
+2024,Round Qatar Grand Prix,63,RUS,Mercedes,1,4,12,Finished,2,0 days 00:01:20.575000,0 days 00:00:00.055000
+2024,Round Qatar Grand Prix,10,GAS,Alpine,11,5,10,Finished,11,0 days 00:01:21.437000,0 days 00:00:00.917000
+2024,Round Qatar Grand Prix,55,SAI,Ferrari,7,6,8,Finished,7,0 days 00:01:21.041000,0 days 00:00:00.521000
+2024,Round Qatar Grand Prix,14,ALO,Aston Martin,8,7,6,Finished,8,0 days 00:01:21.251000,0 days 00:00:00.731000
+2024,Round Qatar Grand Prix,24,ZHO,Kick Sauber,12,8,4,Finished,12,0 days 00:01:21.501000,0 days 00:00:00.981000
+2024,Round Qatar Grand Prix,20,MAG,Haas F1 Team,10,9,2,Finished,10,0 days 00:01:21.500000,0 days 00:00:00.980000
+2024,Round Qatar Grand Prix,4,NOR,McLaren,3,10,2,Finished,3,0 days 00:01:20.772000,0 days 00:00:00.252000
+2024,Round Qatar Grand Prix,77,BOT,Kick Sauber,13,11,0,Finished,13,0 days 00:01:21.731000,0 days 00:00:01.211000
+2024,Round Qatar Grand Prix,44,HAM,Mercedes,6,12,0,Finished,6,0 days 00:01:21.011000,0 days 00:00:00.491000
+2024,Round Qatar Grand Prix,22,TSU,RB,14,13,0,Finished,14,0 days 00:01:21.771000,0 days 00:00:01.251000
+2024,Round Qatar Grand Prix,30,LAW,RB,17,14,0,Finished,17,0 days 00:01:22.411000,0 days 00:00:01.891000
+2024,Round Qatar Grand Prix,23,ALB,Williams,16,15,0,Lapped,16,0 days 00:01:22.390000,0 days 00:00:01.870000
+2024,Round Qatar Grand Prix,27,HUL,Haas F1 Team,18,16,0,Retired,18,0 days 00:01:22.442000,0 days 00:00:01.922000
+2024,Round Qatar Grand Prix,11,PER,Red Bull Racing,9,17,0,Retired,9,0 days 00:01:21.425000,0 days 00:00:00.905000
+2024,Round Qatar Grand Prix,18,STR,Aston Martin,15,18,0,Retired,15,0 days 00:01:21.911000,0 days 00:00:01.391000
+2024,Round Qatar Grand Prix,43,COL,Williams,19,19,0,Retired,19,0 days 00:01:22.594000,0 days 00:00:02.074000
+2024,Round Qatar Grand Prix,31,OCO,Alpine,20,20,0,Retired,20,0 days 00:01:22.714000,0 days 00:00:02.194000
+2024,Round Abu Dhabi Grand Prix,4,NOR,McLaren,1,1,25,Finished,1,0 days 00:01:22.595000,0 days 00:00:00
+2024,Round Abu Dhabi Grand Prix,55,SAI,Ferrari,3,2,18,Finished,3,0 days 00:01:22.824000,0 days 00:00:00.229000
+2024,Round Abu Dhabi Grand Prix,16,LEC,Ferrari,19,3,15,Finished,14,0 days 00:01:23.833000,0 days 00:00:01.238000
+2024,Round Abu Dhabi Grand Prix,44,HAM,Mercedes,16,4,12,Finished,18,0 days 00:01:23.887000,0 days 00:00:01.292000
+2024,Round Abu Dhabi Grand Prix,63,RUS,Mercedes,6,5,10,Finished,7,0 days 00:01:23.132000,0 days 00:00:00.537000
+2024,Round Abu Dhabi Grand Prix,1,VER,Red Bull Racing,4,6,8,Finished,5,0 days 00:01:22.945000,0 days 00:00:00.350000
+2024,Round Abu Dhabi Grand Prix,10,GAS,Alpine,5,7,6,Finished,6,0 days 00:01:22.984000,0 days 00:00:00.389000
+2024,Round Abu Dhabi Grand Prix,27,HUL,Haas F1 Team,7,8,4,Finished,4,0 days 00:01:22.886000,0 days 00:00:00.291000
+2024,Round Abu Dhabi Grand Prix,14,ALO,Aston Martin,8,9,2,Finished,8,0 days 00:01:23.196000,0 days 00:00:00.601000
+2024,Round Abu Dhabi Grand Prix,81,PIA,McLaren,2,10,1,Finished,2,0 days 00:01:22.804000,0 days 00:00:00.209000
+2024,Round Abu Dhabi Grand Prix,23,ALB,Williams,18,11,0,Lapped,16,0 days 00:01:23.821000,0 days 00:00:01.226000
+2024,Round Abu Dhabi Grand Prix,22,TSU,RB,11,12,0,Lapped,11,0 days 00:01:23.419000,0 days 00:00:00.824000
+2024,Round Abu Dhabi Grand Prix,24,ZHO,Kick Sauber,15,13,0,Lapped,17,0 days 00:01:23.880000,0 days 00:00:01.285000
+2024,Round Abu Dhabi Grand Prix,18,STR,Aston Martin,13,14,0,Lapped,13,0 days 00:01:23.784000,0 days 00:00:01.189000
+2024,Round Abu Dhabi Grand Prix,61,DOO,Alpine,17,15,0,Lapped,20,0 days 00:01:24.105000,0 days 00:00:01.510000
+2024,Round Abu Dhabi Grand Prix,20,MAG,Haas F1 Team,14,16,0,Lapped,15,0 days 00:01:23.877000,0 days 00:00:01.282000
+2024,Round Abu Dhabi Grand Prix,30,LAW,RB,12,17,0,Finished,12,0 days 00:01:23.472000,0 days 00:00:00.877000
+2024,Round Abu Dhabi Grand Prix,77,BOT,Kick Sauber,9,18,0,Retired,9,0 days 00:01:23.204000,0 days 00:00:00.609000
+2024,Round Abu Dhabi Grand Prix,43,COL,Williams,20,19,0,Retired,19,0 days 00:01:23.912000,0 days 00:00:01.317000
+2024,Round Abu Dhabi Grand Prix,11,PER,Red Bull Racing,10,20,0,Retired,10,0 days 00:01:23.264000,0 days 00:00:00.669000
+2025,Round Australian Grand Prix,4,NOR,McLaren,1,1,25,Finished,1,0 days 00:01:15.096000,0 days 00:00:00
+2025,Round Australian Grand Prix,1,VER,Red Bull Racing,3,2,18,Finished,3,0 days 00:01:15.481000,0 days 00:00:00.385000
+2025,Round Australian Grand Prix,63,RUS,Mercedes,4,3,15,Finished,4,0 days 00:01:15.546000,0 days 00:00:00.450000
+2025,Round Australian Grand Prix,12,ANT,Mercedes,16,4,12,Finished,16,0 days 00:01:16.525000,0 days 00:00:01.429000
+2025,Round Australian Grand Prix,23,ALB,Williams,6,5,10,Finished,6,0 days 00:01:15.737000,0 days 00:00:00.641000
+2025,Round Australian Grand Prix,18,STR,Aston Martin,13,6,8,Finished,13,0 days 00:01:16.483000,0 days 00:00:01.387000
+2025,Round Australian Grand Prix,27,HUL,Kick Sauber,17,7,6,Finished,17,0 days 00:01:16.579000,0 days 00:00:01.483000
+2025,Round Australian Grand Prix,16,LEC,Ferrari,7,8,4,Finished,7,0 days 00:01:15.755000,0 days 00:00:00.659000
+2025,Round Australian Grand Prix,81,PIA,McLaren,2,9,2,Finished,2,0 days 00:01:15.180000,0 days 00:00:00.084000
+2025,Round Australian Grand Prix,44,HAM,Ferrari,8,10,1,Finished,8,0 days 00:01:15.973000,0 days 00:00:00.877000
+2025,Round Australian Grand Prix,10,GAS,Alpine,9,11,0,Finished,9,0 days 00:01:15.980000,0 days 00:00:00.884000
+2025,Round Australian Grand Prix,22,TSU,Racing Bulls,5,12,0,Finished,5,0 days 00:01:15.670000,0 days 00:00:00.574000
+2025,Round Australian Grand Prix,31,OCO,Haas F1 Team,19,13,0,Finished,19,0 days 00:01:17.147000,0 days 00:00:02.051000
+2025,Round Australian Grand Prix,87,BEA,Haas F1 Team,20,14,0,Finished,20,,
+2025,Round Australian Grand Prix,30,LAW,Red Bull Racing,18,15,0,Retired,18,0 days 00:01:17.094000,0 days 00:00:01.998000
+2025,Round Australian Grand Prix,5,BOR,Kick Sauber,15,16,0,Retired,15,0 days 00:01:17.520000,0 days 00:00:02.424000
+2025,Round Australian Grand Prix,14,ALO,Aston Martin,12,17,0,Retired,12,0 days 00:01:16.453000,0 days 00:00:01.357000
+2025,Round Australian Grand Prix,55,SAI,Williams,10,18,0,Retired,10,0 days 00:01:16.062000,0 days 00:00:00.966000
+2025,Round Australian Grand Prix,7,DOO,Alpine,14,19,0,Retired,14,0 days 00:01:16.863000,0 days 00:00:01.767000
+2025,Round Australian Grand Prix,6,HAD,Racing Bulls,11,20,0,Retired,11,0 days 00:01:16.175000,0 days 00:00:01.079000
+2025,Round Chinese Grand Prix,81,PIA,McLaren,1,1,25,Finished,1,0 days 00:01:30.641000,0 days 00:00:00
+2025,Round Chinese Grand Prix,4,NOR,McLaren,3,2,18,Finished,3,0 days 00:01:30.793000,0 days 00:00:00.152000
+2025,Round Chinese Grand Prix,63,RUS,Mercedes,2,3,15,Finished,2,0 days 00:01:30.723000,0 days 00:00:00.082000
+2025,Round Chinese Grand Prix,1,VER,Red Bull Racing,4,4,12,Finished,4,0 days 00:01:30.817000,0 days 00:00:00.176000
+2025,Round Chinese Grand Prix,31,OCO,Haas F1 Team,11,5,10,Finished,11,0 days 00:01:31.625000,0 days 00:00:00.984000
+2025,Round Chinese Grand Prix,12,ANT,Mercedes,8,6,8,Finished,8,0 days 00:01:31.103000,0 days 00:00:00.462000
+2025,Round Chinese Grand Prix,23,ALB,Williams,10,7,6,Finished,10,0 days 00:01:31.706000,0 days 00:00:01.065000
+2025,Round Chinese Grand Prix,87,BEA,Haas F1 Team,17,8,4,Finished,17,0 days 00:01:32.018000,0 days 00:00:01.377000
+2025,Round Chinese Grand Prix,18,STR,Aston Martin,14,9,2,Finished,14,0 days 00:01:31.773000,0 days 00:00:01.132000
+2025,Round Chinese Grand Prix,55,SAI,Williams,15,10,1,Finished,15,0 days 00:01:31.840000,0 days 00:00:01.199000
+2025,Round Chinese Grand Prix,6,HAD,Racing Bulls,7,11,0,Finished,7,0 days 00:01:31.079000,0 days 00:00:00.438000
+2025,Round Chinese Grand Prix,30,LAW,Red Bull Racing,20,12,0,Finished,20,0 days 00:01:32.174000,0 days 00:00:01.533000
+2025,Round Chinese Grand Prix,7,DOO,Alpine,18,13,0,Finished,18,0 days 00:01:32.092000,0 days 00:00:01.451000
+2025,Round Chinese Grand Prix,5,BOR,Kick Sauber,19,14,0,Lapped,19,0 days 00:01:32.141000,0 days 00:00:01.500000
+2025,Round Chinese Grand Prix,27,HUL,Kick Sauber,12,15,0,Lapped,12,0 days 00:01:31.632000,0 days 00:00:00.991000
+2025,Round Chinese Grand Prix,22,TSU,Racing Bulls,9,16,0,Lapped,9,0 days 00:01:31.638000,0 days 00:00:00.997000
+2025,Round Chinese Grand Prix,14,ALO,Aston Martin,13,17,0,Retired,13,0 days 00:01:31.688000,0 days 00:00:01.047000
+2025,Round Chinese Grand Prix,16,LEC,Ferrari,6,18,0,Disqualified,6,0 days 00:01:31.021000,0 days 00:00:00.380000
+2025,Round Chinese Grand Prix,44,HAM,Ferrari,5,19,0,Disqualified,5,0 days 00:01:30.927000,0 days 00:00:00.286000
+2025,Round Chinese Grand Prix,10,GAS,Alpine,16,20,0,Disqualified,16,0 days 00:01:31.992000,0 days 00:00:01.351000
+2025,Round Japanese Grand Prix,1,VER,Red Bull Racing,1,1,25,Finished,1,0 days 00:01:26.983000,0 days 00:00:00
+2025,Round Japanese Grand Prix,4,NOR,McLaren,2,2,18,Finished,2,0 days 00:01:26.995000,0 days 00:00:00.012000
+2025,Round Japanese Grand Prix,81,PIA,McLaren,3,3,15,Finished,3,0 days 00:01:27.027000,0 days 00:00:00.044000
+2025,Round Japanese Grand Prix,16,LEC,Ferrari,4,4,12,Finished,4,0 days 00:01:27.299000,0 days 00:00:00.316000
+2025,Round Japanese Grand Prix,63,RUS,Mercedes,5,5,10,Finished,5,0 days 00:01:27.318000,0 days 00:00:00.335000
+2025,Round Japanese Grand Prix,12,ANT,Mercedes,6,6,8,Finished,6,0 days 00:01:27.555000,0 days 00:00:00.572000
+2025,Round Japanese Grand Prix,44,HAM,Ferrari,8,7,6,Finished,8,0 days 00:01:27.610000,0 days 00:00:00.627000
+2025,Round Japanese Grand Prix,6,HAD,Racing Bulls,7,8,4,Finished,7,0 days 00:01:27.569000,0 days 00:00:00.586000
+2025,Round Japanese Grand Prix,23,ALB,Williams,9,9,2,Finished,9,0 days 00:01:27.615000,0 days 00:00:00.632000
+2025,Round Japanese Grand Prix,87,BEA,Haas F1 Team,10,10,1,Finished,10,0 days 00:01:27.867000,0 days 00:00:00.884000
+2025,Round Japanese Grand Prix,14,ALO,Aston Martin,12,11,0,Finished,13,0 days 00:01:27.897000,0 days 00:00:00.914000
+2025,Round Japanese Grand Prix,22,TSU,Red Bull Racing,14,12,0,Finished,15,0 days 00:01:28,0 days 00:00:01.017000
+2025,Round Japanese Grand Prix,10,GAS,Alpine,11,13,0,Finished,11,0 days 00:01:27.822000,0 days 00:00:00.839000
+2025,Round Japanese Grand Prix,55,SAI,Williams,15,14,0,Finished,12,0 days 00:01:27.836000,0 days 00:00:00.853000
+2025,Round Japanese Grand Prix,7,DOO,Alpine,19,15,0,Finished,19,0 days 00:01:28.877000,0 days 00:00:01.894000
+2025,Round Japanese Grand Prix,27,HUL,Kick Sauber,16,16,0,Finished,16,0 days 00:01:28.570000,0 days 00:00:01.587000
+2025,Round Japanese Grand Prix,30,LAW,Racing Bulls,13,17,0,Finished,14,0 days 00:01:27.906000,0 days 00:00:00.923000
+2025,Round Japanese Grand Prix,31,OCO,Haas F1 Team,18,18,0,Finished,18,0 days 00:01:28.696000,0 days 00:00:01.713000
+2025,Round Japanese Grand Prix,5,BOR,Kick Sauber,17,19,0,Finished,17,0 days 00:01:28.622000,0 days 00:00:01.639000
+2025,Round Japanese Grand Prix,18,STR,Aston Martin,20,20,0,Lapped,20,0 days 00:01:29.271000,0 days 00:00:02.288000
+2025,Round Bahrain Grand Prix,81,PIA,McLaren,1,1,25,Finished,1,0 days 00:01:29.841000,0 days 00:00:00
+2025,Round Bahrain Grand Prix,63,RUS,Mercedes,3,2,18,Finished,2,0 days 00:01:30.009000,0 days 00:00:00.168000
+2025,Round Bahrain Grand Prix,4,NOR,McLaren,6,3,15,Finished,6,0 days 00:01:30.267000,0 days 00:00:00.426000
+2025,Round Bahrain Grand Prix,16,LEC,Ferrari,2,4,12,Finished,3,0 days 00:01:30.175000,0 days 00:00:00.334000
+2025,Round Bahrain Grand Prix,44,HAM,Ferrari,9,5,10,Finished,9,0 days 00:01:30.772000,0 days 00:00:00.931000
+2025,Round Bahrain Grand Prix,1,VER,Red Bull Racing,7,6,8,Finished,7,0 days 00:01:30.423000,0 days 00:00:00.582000
+2025,Round Bahrain Grand Prix,10,GAS,Alpine,4,7,6,Finished,5,0 days 00:01:30.216000,0 days 00:00:00.375000
+2025,Round Bahrain Grand Prix,31,OCO,Haas F1 Team,14,8,4,Finished,14,0 days 00:01:31.594000,0 days 00:00:01.753000
+2025,Round Bahrain Grand Prix,22,TSU,Red Bull Racing,10,9,2,Finished,10,0 days 00:01:31.303000,0 days 00:00:01.462000
+2025,Round Bahrain Grand Prix,87,BEA,Haas F1 Team,20,10,1,Finished,20,0 days 00:01:32.373000,0 days 00:00:02.532000
+2025,Round Bahrain Grand Prix,12,ANT,Mercedes,5,11,0,Finished,4,0 days 00:01:30.213000,0 days 00:00:00.372000
+2025,Round Bahrain Grand Prix,23,ALB,Williams,15,12,0,Finished,15,0 days 00:01:32.040000,0 days 00:00:02.199000
+2025,Round Bahrain Grand Prix,6,HAD,Racing Bulls,12,13,0,Finished,12,0 days 00:01:31.271000,0 days 00:00:01.430000
+2025,Round Bahrain Grand Prix,7,DOO,Alpine,11,14,0,Finished,11,0 days 00:01:31.245000,0 days 00:00:01.404000
+2025,Round Bahrain Grand Prix,14,ALO,Aston Martin,13,15,0,Finished,13,0 days 00:01:31.886000,0 days 00:00:02.045000
+2025,Round Bahrain Grand Prix,30,LAW,Racing Bulls,17,16,0,Finished,17,0 days 00:01:32.165000,0 days 00:00:02.324000
+2025,Round Bahrain Grand Prix,18,STR,Aston Martin,19,17,0,Finished,19,0 days 00:01:32.283000,0 days 00:00:02.442000
+2025,Round Bahrain Grand Prix,5,BOR,Kick Sauber,18,18,0,Finished,18,0 days 00:01:32.186000,0 days 00:00:02.345000
+2025,Round Bahrain Grand Prix,55,SAI,Williams,8,19,0,Retired,8,0 days 00:01:30.680000,0 days 00:00:00.839000
+2025,Round Bahrain Grand Prix,27,HUL,Kick Sauber,16,20,0,Disqualified,16,0 days 00:01:32.067000,0 days 00:00:02.226000
+2025,Round Saudi Arabian Grand Prix,81,PIA,McLaren,2,1,25,Finished,2,0 days 00:01:27.304000,0 days 00:00:00.010000
+2025,Round Saudi Arabian Grand Prix,1,VER,Red Bull Racing,1,2,18,Finished,1,0 days 00:01:27.294000,0 days 00:00:00
+2025,Round Saudi Arabian Grand Prix,16,LEC,Ferrari,4,3,15,Finished,4,0 days 00:01:27.670000,0 days 00:00:00.376000
+2025,Round Saudi Arabian Grand Prix,4,NOR,McLaren,10,4,12,Finished,10,0 days 00:01:27.481000,0 days 00:00:00.187000
+2025,Round Saudi Arabian Grand Prix,63,RUS,Mercedes,3,5,10,Finished,3,0 days 00:01:27.407000,0 days 00:00:00.113000
+2025,Round Saudi Arabian Grand Prix,12,ANT,Mercedes,5,6,8,Finished,5,0 days 00:01:27.866000,0 days 00:00:00.572000
+2025,Round Saudi Arabian Grand Prix,44,HAM,Ferrari,7,7,6,Finished,7,0 days 00:01:28.201000,0 days 00:00:00.907000
+2025,Round Saudi Arabian Grand Prix,55,SAI,Williams,6,8,4,Finished,6,0 days 00:01:28.164000,0 days 00:00:00.870000
+2025,Round Saudi Arabian Grand Prix,23,ALB,Williams,11,9,2,Finished,11,0 days 00:01:28.109000,0 days 00:00:00.815000
+2025,Round Saudi Arabian Grand Prix,6,HAD,Racing Bulls,14,10,1,Finished,14,0 days 00:01:28.418000,0 days 00:00:01.124000
+2025,Round Saudi Arabian Grand Prix,14,ALO,Aston Martin,13,11,0,Finished,13,0 days 00:01:28.303000,0 days 00:00:01.009000
+2025,Round Saudi Arabian Grand Prix,30,LAW,Racing Bulls,12,12,0,Finished,12,0 days 00:01:28.191000,0 days 00:00:00.897000
+2025,Round Saudi Arabian Grand Prix,87,BEA,Haas F1 Team,15,13,0,Finished,15,0 days 00:01:28.648000,0 days 00:00:01.354000
+2025,Round Saudi Arabian Grand Prix,31,OCO,Haas F1 Team,19,14,0,Finished,19,0 days 00:01:29.092000,0 days 00:00:01.798000
+2025,Round Saudi Arabian Grand Prix,27,HUL,Kick Sauber,18,15,0,Lapped,18,0 days 00:01:28.782000,0 days 00:00:01.488000
+2025,Round Saudi Arabian Grand Prix,18,STR,Aston Martin,16,16,0,Lapped,16,0 days 00:01:28.645000,0 days 00:00:01.351000
+2025,Round Saudi Arabian Grand Prix,7,DOO,Alpine,17,17,0,Lapped,17,0 days 00:01:28.739000,0 days 00:00:01.445000
+2025,Round Saudi Arabian Grand Prix,5,BOR,Kick Sauber,20,18,0,Lapped,20,0 days 00:01:29.462000,0 days 00:00:02.168000
+2025,Round Saudi Arabian Grand Prix,22,TSU,Red Bull Racing,8,19,0,Retired,8,0 days 00:01:28.204000,0 days 00:00:00.910000
+2025,Round Saudi Arabian Grand Prix,10,GAS,Alpine,9,20,0,Retired,9,0 days 00:01:28.367000,0 days 00:00:01.073000
+2025,Round Miami Grand Prix,81,PIA,McLaren,4,1,25,Finished,4,0 days 00:01:26.375000,0 days 00:00:00.171000
+2025,Round Miami Grand Prix,4,NOR,McLaren,2,2,18,Finished,2,0 days 00:01:26.269000,0 days 00:00:00.065000
+2025,Round Miami Grand Prix,63,RUS,Mercedes,5,3,15,Finished,5,0 days 00:01:26.385000,0 days 00:00:00.181000
+2025,Round Miami Grand Prix,1,VER,Red Bull Racing,1,4,12,Finished,1,0 days 00:01:26.204000,0 days 00:00:00
+2025,Round Miami Grand Prix,23,ALB,Williams,7,5,10,Finished,7,0 days 00:01:26.682000,0 days 00:00:00.478000
+2025,Round Miami Grand Prix,12,ANT,Mercedes,3,6,8,Finished,3,0 days 00:01:26.271000,0 days 00:00:00.067000
+2025,Round Miami Grand Prix,16,LEC,Ferrari,8,7,6,Finished,8,0 days 00:01:26.754000,0 days 00:00:00.550000
+2025,Round Miami Grand Prix,44,HAM,Ferrari,12,8,4,Finished,12,0 days 00:01:27.006000,0 days 00:00:00.802000
+2025,Round Miami Grand Prix,55,SAI,Williams,6,9,2,Finished,6,0 days 00:01:26.569000,0 days 00:00:00.365000
+2025,Round Miami Grand Prix,22,TSU,Red Bull Racing,10,10,1,Finished,10,0 days 00:01:26.943000,0 days 00:00:00.739000
+2025,Round Miami Grand Prix,6,HAD,Racing Bulls,11,11,0,Finished,11,0 days 00:01:26.987000,0 days 00:00:00.783000
+2025,Round Miami Grand Prix,31,OCO,Haas F1 Team,9,12,0,Finished,9,0 days 00:01:26.824000,0 days 00:00:00.620000
+2025,Round Miami Grand Prix,10,GAS,Alpine,20,13,0,Finished,18,0 days 00:01:27.710000,0 days 00:00:01.506000
+2025,Round Miami Grand Prix,27,HUL,Kick Sauber,16,14,0,Lapped,16,0 days 00:01:27.473000,0 days 00:00:01.269000
+2025,Round Miami Grand Prix,14,ALO,Aston Martin,17,15,0,Lapped,17,0 days 00:01:27.604000,0 days 00:00:01.400000
+2025,Round Miami Grand Prix,18,STR,Aston Martin,18,16,0,Lapped,19,0 days 00:01:27.830000,0 days 00:00:01.626000
+2025,Round Miami Grand Prix,30,LAW,Racing Bulls,15,17,0,Retired,15,0 days 00:01:27.363000,0 days 00:00:01.159000
+2025,Round Miami Grand Prix,5,BOR,Kick Sauber,13,18,0,Retired,13,0 days 00:01:27.151000,0 days 00:00:00.947000
+2025,Round Miami Grand Prix,87,BEA,Haas F1 Team,19,19,0,Retired,20,0 days 00:01:27.999000,0 days 00:00:01.795000
+2025,Round Miami Grand Prix,7,DOO,Alpine,14,20,0,Retired,14,0 days 00:01:27.186000,0 days 00:00:00.982000
+2025,Round Emilia Romagna Grand Prix,1,VER,Red Bull Racing,2,1,25,Finished,2,0 days 00:01:14.704000,0 days 00:00:00.034000
+2025,Round Emilia Romagna Grand Prix,4,NOR,McLaren,4,2,18,Finished,4,0 days 00:01:14.962000,0 days 00:00:00.292000
+2025,Round Emilia Romagna Grand Prix,81,PIA,McLaren,1,3,15,Finished,1,0 days 00:01:14.670000,0 days 00:00:00
+2025,Round Emilia Romagna Grand Prix,44,HAM,Ferrari,12,4,12,Finished,12,0 days 00:01:15.765000,0 days 00:00:01.095000
+2025,Round Emilia Romagna Grand Prix,23,ALB,Williams,7,5,10,Finished,7,0 days 00:01:15.473000,0 days 00:00:00.803000
+2025,Round Emilia Romagna Grand Prix,16,LEC,Ferrari,11,6,8,Finished,11,0 days 00:01:15.604000,0 days 00:00:00.934000
+2025,Round Emilia Romagna Grand Prix,63,RUS,Mercedes,3,7,6,Finished,3,0 days 00:01:14.807000,0 days 00:00:00.137000
+2025,Round Emilia Romagna Grand Prix,55,SAI,Williams,6,8,4,Finished,6,0 days 00:01:15.432000,0 days 00:00:00.762000
+2025,Round Emilia Romagna Grand Prix,6,HAD,Racing Bulls,9,9,2,Finished,9,0 days 00:01:15.746000,0 days 00:00:01.076000
+2025,Round Emilia Romagna Grand Prix,22,TSU,Red Bull Racing,20,10,1,Finished,20,,
+2025,Round Emilia Romagna Grand Prix,14,ALO,Aston Martin,5,11,0,Finished,5,0 days 00:01:15.431000,0 days 00:00:00.761000
+2025,Round Emilia Romagna Grand Prix,27,HUL,Kick Sauber,17,12,0,Finished,17,0 days 00:01:16.518000,0 days 00:00:01.848000
+2025,Round Emilia Romagna Grand Prix,10,GAS,Alpine,10,13,0,Finished,10,0 days 00:01:15.787000,0 days 00:00:01.117000
+2025,Round Emilia Romagna Grand Prix,30,LAW,Racing Bulls,15,14,0,Finished,16,0 days 00:01:16.379000,0 days 00:00:01.709000
+2025,Round Emilia Romagna Grand Prix,18,STR,Aston Martin,8,15,0,Finished,8,0 days 00:01:15.581000,0 days 00:00:00.911000
+2025,Round Emilia Romagna Grand Prix,43,COL,Alpine,16,16,0,Finished,15,0 days 00:01:16.256000,0 days 00:00:01.586000
+2025,Round Emilia Romagna Grand Prix,87,BEA,Haas F1 Team,19,17,0,Finished,19,0 days 00:01:16.918000,0 days 00:00:02.248000
+2025,Round Emilia Romagna Grand Prix,5,BOR,Kick Sauber,14,18,0,Finished,14,0 days 00:01:16.260000,0 days 00:00:01.590000
+2025,Round Emilia Romagna Grand Prix,12,ANT,Mercedes,13,19,0,Retired,13,0 days 00:01:15.772000,0 days 00:00:01.102000
+2025,Round Emilia Romagna Grand Prix,31,OCO,Haas F1 Team,18,20,0,Retired,18,0 days 00:01:16.613000,0 days 00:00:01.943000
